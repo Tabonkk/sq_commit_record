@@ -1,0 +1,439 @@
+serial number of this version: 0009
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 04      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-22:35~23:25
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-13-14:08~14:58
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---35c7e49 )          
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+
+commit f3d2e799249b21c4a9a9bb477609dd916bb2ce79
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:48:09 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f6561b8<---ac0be4c )          
+commit f6561b8c54b78a00a60b08a5ca4a9127a9ec2c85
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 13 11:37:21 2018 +0800
+
+    [SQ31T][UTE][KEY][]: FN模式下，使用UTE定制键值
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:FN模式下，使用UTE定制键值
+    
+    Commit Tools Version:d6794eb
+
+commit e962fa2a82cd73ee8ee424aaad175ace5c7a35e1
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 11 17:42:38 2018 +0800
+
+    [SQ31T][UTE][UI][]: UTE定制型号改为HT510
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:UTE定制型号改为HT510
+    
+    Commit Tools Version:d6794eb
+
+commit 544b0307c6196ac61f04fe7ecdf6306ab8ba4ecc
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 11 17:23:53 2018 +0800
+
+    [SQ31T][UTE][Factory][]: 解决问题：工厂测试触摸屏显示不全
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:解决问题：工厂测试触摸屏显示不全
+    
+    Commit Tools Version:d6794eb
+
+commit 7d2b914b7789e206575c3b70588b1e3f910e465f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 17:18:38 2018 +0800
+
+    [SQ31T][XX][KEY][]: 修复问题：合入补丁导致扫描键失效
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:修复问题：合入补丁导致扫描键失效
+    
+    Commit Tools Version:d6794eb
+
+commit bca576d933bd798a9270be75cda1dc6f22dec74e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 15:05:02 2018 +0800
+
+    [SQ31T][UTE][UI][]: HT510定制划分到UTE
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:HT510定制划分到UTE
+    
+    Commit Tools Version:d6794eb
+
+commit de21f44696454fc3f8989aef3230fa03d143cbad
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 14:22:51 2018 +0800
+
+    [SQ31T][XX][KEY][]: b611-HT510  定制虚拟按键补丁适配
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:b611-HT510  定制虚拟按键补丁适配
+    
+    Commit Tools Version:d6794eb
+
+commit 1e3ab3220994f8f916ec28bddc6eedcaf8aabb5b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jul 10 10:07:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+
+commit 3c82de962dc573ff6534e32c1a9e078b48766f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:28:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+
+commit c17524f75b7023a2f681f4340489e910a8bcfa01
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 9 10:52:58 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Commit Tools Version:d6794eb
+
+commit a0f740c911c6a328aa572923448198bc5592ac89
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 9 09:49:42 2018 +0800
+
+    [SQ31T][XX][UI][]: 版本号增加海外标识（EN）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:版本号增加海外标识（EN）
+    
+    Commit Tools Version:d6794eb
+
+commit 2b0062b2c40fd63d991dc59baf3afefa8433d36d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 12:18:40 2018 +0800
+
+    [SQ31T][XX][UI][]: 修复版本号
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:修复版本号
+    
+    Commit Tools Version:d6794eb
+
+commit 817dcf80ba33899cbca191b943429f218d543eb7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:45:55 2018 +0800
+
+    [SQ31T][XX][Factory][]: 修改予凡工厂测试FN键（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:修改予凡工厂测试FN键（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 1c80dd9778b19998cd7fa47bb20bc5de0793a56c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:11:01 2018 +0800
+
+    [SQ31T][XX][UI][]: 版本号区分内存和存储大小
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:版本号区分内存和存储大小
+    
+    Commit Tools Version:d6794eb
+
+commit 5efa45106ddd6b638990dd371ff339886b5f85e8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:09:20 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：添加用户后并立即设置新用户，设备提示：6601扫描头已停止运行
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：添加用户后并立即设置新用户，设备提示：6601扫描头已停止运行
+    
+    Commit Tools Version:d6794eb
+
+commit 90f436d98f46fc3dd7a0b7c16bc2bac7cc37fb1d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:04:57 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：【6603】扫描demo界面，操作scan键，不出光（红光和白光),可解码
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：【6603】扫描demo界面，操作scan键，不出光（红光和白光),可解码
+    
+    Commit Tools Version:d6794eb
+
+commit 950d2a44bd77ef46e410f4cbeeb6e0b2a91290e8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:00:32 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：*#1261*#中切换扫描头类型，设备提示：扫描头高级设置停止运行
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：*#1261*#中切换扫描头类型，设备提示：扫描头高级设置停止运行
+    
+    Commit Tools Version:d6794eb
+
+commit 629e3fc8af47a18ae0381b6202a9270eb98261d4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 19:07:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit f2b19706032d5212ff4a8273ceefa999ac9ddc3f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 15:55:13 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 4acd53ad261e61428e0378c4f3f4151d791a71d1
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 5 19:33:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: deleted_modem_image
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:deleted_modem_image
+    Description:deleted_modem_image
+    
+    Commit Tools Version:0be60f5
+
+commit 9ce0ed7909194893cd48ebf3b965cc5a1f3bab7a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jul 5 17:09:08 2018 +0800
+
+    [SQ31T][XX][UI][]: 解决问题： 将取景框中的坐标值修改为6位数字，高级设置停止运行
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题： 将取景框中的坐标值修改为6位数字，高级设置停止运行
+    
+    Commit Tools Version:d6794eb
+
+commit c292b500d1bc706f4a55d1b59ed31cef82cca1f8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 18:02:35 2018 +0800
+
+    [SQ31T][XX][Other][]: 修改版本号
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改版本号
+    
+    Commit Tools Version:d6794eb
+
+commit 460d0c318d11d67c86cf0f8b0c399ac14fb0e70f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 15:06:58 2018 +0800
+
+    [SQ31T][XX][KEY][]: 增加FN图标
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:增加FN图标
+    
+    Commit Tools Version:d6794eb
+
+commit 9c8d445aab0651ea325b6e75e232f972c04c80be
+Merge: 4e61ae6 ef5ad3c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 14:03:27 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 4e61ae6a857df4480440d17a9b70f5c09f8c1936
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 14:01:18 2018 +0800
+
+    [SQ31T][XX][KEY][]: 合入FN切换功能
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:合入FN切换功能
+    
+    Commit Tools Version:d6794eb
+
+commit ef5ad3c6443c52548c8c4259614acb29b000079c
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jul 3 19:22:21 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_audio_the_same_to_yufan
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_audio_the_same_to_yufan
+    Description:modfy_audio_the_same_to_yufan
+    
+    Commit Tools Version:0be60f5
+commit ac0be4c727dff4b81a4e65df509a9fcce095ab69
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 22:32:53 2018 +0800
+
+    [SQ31T][XX][KEY][]: 更新通用版本按键映射文件（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:更新通用版本按键映射文件（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

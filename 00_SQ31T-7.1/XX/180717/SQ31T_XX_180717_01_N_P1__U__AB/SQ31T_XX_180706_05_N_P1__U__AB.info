@@ -1,0 +1,46 @@
+serial number of this version: 0038
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 04      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-16:01~16:52
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 05      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-17:15~18:07
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f2b1970<---f2b1970 )          
+
+commit f2b19706032d5212ff4a8273ceefa999ac9ddc3f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 15:55:13 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

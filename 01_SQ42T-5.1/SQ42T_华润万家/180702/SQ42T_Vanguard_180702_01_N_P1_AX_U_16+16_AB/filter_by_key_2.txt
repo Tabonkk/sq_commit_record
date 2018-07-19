@@ -1,0 +1,34 @@
+ [SQ42T][XX][Scan][]: 添加se2100扫描头 <jiaxinxin>
+ [SQ42T][ALL][TP][]: 更新SQ42T新的TP的驱动，解决概率性TP失效的问题 <qiuzhoujun>
+ Vanguard和HRDC更新对应的大超标超apk <gouwei>
+ InCall Activity 通话结束后去真正finish而不是moveToback <gouwei>
+ 隐藏设置中的关于认证用的硬件版本号和固件版本号； <Huazhong Wu>
+ XmlTools apk不显示在桌面 <wujinquan>
+ [SQ42T][XX][Scan]添加se2100扫描头 <jiaxinxin>
+ 将扫描头设置相关也合入到Settings定制工具 <wujinquan>
+ OTA在线断电续传升级，偶现验证签名失败 <liqianbo>
+ 所有版本加上固件版本及硬件版本； <Huazhong Wu>
+ 增加xml导出/导入工具，*#312*#进入此工具 <wujinquan>
+ 在Settings>wifi>高级下增加wifi信号强度阀值设置 <wujinquan>
+ Setting定制工具增加功能：1，控制长按POWER键跳出的ui <wujinquan>
+ Setting定制工具增加功能：控制Settings二级目录 <wujinquan>
+ 修改FLJT定制开机启动应用覆盖安全触发界面 <liqianbo>
+ Setting定制工具增加功能：1，控制状态栏下拉图标，2，控制Settings一级目录 <wujinquan>
+ 1，Settings定制工具增加“保存默认wifi账号和密码” 2，UFS定制工具增加“设置默认apn” <wujinquan>
+ 增加通过解析xml方式定制系统设置项 <wujinquan>
+ gengxinwen <Huazhong Wu>
+ 开发者选项中增加“USB config”设置项; <luolin>
+ 增加sys.usb.config的新属性尝试打开wwan端口；# 软加自测； <Huazhong Wu>
+ 修复支持写入最大32位SN，如果通过工具不写定制型号时，只能读到22位sn.需要使用行业应用开发最新的工具 <Rocky>
+ 工厂测试扫描灯不亮问题修复 <gouwei>
+ [ALL][XX][Scan][]: 4500扫描头重置设置默认code128 length1/length2 <DengTonglong>
+ [ALL][ALL][Scan][]: 4500扫描头忽略设置code128 length1/length2 <DengTonglong>
+ [SQ51][XX][Scan][]: 扫描服务在连续扫描模式下增加灭屏不关闭扫描头设置选项 <DengTonglong>
+ [SQ42T][XX][Scan][]: 增加2100扫描头 <DengTonglong>
+ [ALL][XX][Scan][]: 修复6603 Enable checksum不生效 <DengTonglong>
+ Product:ALL Customer:XX Module:Other Bug ID: Key Word: Description:增加XML解析jar包:SaxParseXml.jar <wujinquan>
+ Product:ALL Customer:XX Module:Other Bug ID: Key Word: Description:增加XML解析jar包 <wujinquan>
+ [ALL][XX][Scan][]: 6603/3680扫描头添加Convert upc-a to ean-13设置 <Rocky>
+ [PDA][XX][Scan][]: 6601扫描使能编码格式选择 <Rocky>
+ 增加打印机精度调整，校准功能 <cb>
+ Printer # 5.0 # MoR 更新CFLAGS； <Huazhong Wu>

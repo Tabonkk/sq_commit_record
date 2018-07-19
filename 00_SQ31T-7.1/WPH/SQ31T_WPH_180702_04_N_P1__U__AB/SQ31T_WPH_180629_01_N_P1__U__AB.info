@@ -1,0 +1,162 @@
+serial number of this version: 0002
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-D 01      ALL-O FTP true P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-23-16:01~16:58
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-16:17~17:17
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bf5845d<---bb9641c )          
+commit bf5845d97baeddee4ea78e3c50ce7ee3e6bf5610
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 18:06:34 2018 +0800
+
+    [SQ31T][XX][UI][]: 设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Commit Tools Version:d6794eb
+
+commit e3c4b3e85ea5977fd41d41f35e8dfd9e7e5b0adf
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 17:24:02 2018 +0800
+
+    [SQ31T][XX][BT][]: 海外版本去掉超高屏应用，蓝牙名字和设备型号一致
+    
+    Product:SQ31T
+    Customer:XX
+    Module:BT
+    Bug ID:
+    Key Word:
+    Description:海外版本去掉超高屏应用，蓝牙名字和设备型号一致
+    
+    Commit Tools Version:d6794eb
+
+commit 6bcdec65589f320500dded24a7c6832e4dcd4773
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 13:52:00 2018 +0800
+
+    [SQ31T][XX][Other][]: DeviceManagerService实现reboot，shutdown等接口（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:DeviceManagerService实现reboot，shutdown等接口（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 0577adf27a0af438052ee9ed139f164840ce2345
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Jun 28 11:08:56 2018 +0800
+
+    [SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function
+
+commit 7ee594723afc8bac95fcc6783f0e85c06d56b0bf
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jun 26 11:03:46 2018 +0800
+
+    [SQ31T][XX][APP][]: 海外版浏览器使用Chrome
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外版浏览器使用Chrome
+    
+    Commit Tools Version:d6794eb
+
+commit 21477874ca47cdeb038dfcafe3a104c77c93604d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 18:50:08 2018 +0800
+
+    [SQ31T][XX][APP][]: 解决GMs编译问题（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:解决GMs编译问题（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 9f2a7441b229e1823ce7666c858ce09ae5f2149b
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 18:12:58 2018 +0800
+
+    [SQ31T][XX][APP][]: 增加WebViewGoogle apk（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:增加WebViewGoogle apk（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit c8b873454c97d68dacca183610ce2b3812c6e5fa
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 16:11:36 2018 +0800
+
+    [SQ31T][XX][APP][]: 海外版去掉触宝输入法apk
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外版去掉触宝输入法apk
+    
+    Commit Tools Version:d6794eb
+
+commit 18d0fe877bbedcda7edff023f74df7008cdc6254
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 10:02:57 2018 +0800
+
+    [SQ31T][XX][UI][]: 海外版本型号改为V5100
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:海外版本型号改为V5100
+    
+    Commit Tools Version:d6794eb
+commit bb9641c28b17583f3c1d7f16ce691bb4caac6053
+Merge: c2911e8 4f10a46
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 15:58:41 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+****************************************************************************

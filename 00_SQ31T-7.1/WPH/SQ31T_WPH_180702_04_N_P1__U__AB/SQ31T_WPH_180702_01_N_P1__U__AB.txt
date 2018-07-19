@@ -1,0 +1,13 @@
+*************************************************************************
+SQ31T_WPH_Nsigned
+编译日期：2018-07-02 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+[SQ31T][ALL][Other][]: patch_from_yufan_0629 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+更新应用中心 <wujinquan>
+patch_from_yufan_for_no_scankey <yangguang>
+解决：唯品会按键定制不生效（软件自测） <wujinquan>
+更新IntentApp apk <wujinquan>

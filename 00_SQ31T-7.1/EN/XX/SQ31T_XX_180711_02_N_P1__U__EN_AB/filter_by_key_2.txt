@@ -1,0 +1,10 @@
+ [SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+ 设置wifi选项显示成WLAN，解决：下载apk安装置灰 <wujinquan>
+ 海外版本去掉超高屏应用，蓝牙名字和设备型号一致 <wujinquan>
+ [SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function <jiaxinxin>
+ [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+ 解决问题：偶现6603扫描头设置点击“配置取景框”报错 <wujinquan>
+ [SQ31T][ALL][Other][]: patch_from_yufan_0709 <yangguang>
+ patch_from_yufan_0709 <yangguang>
+ [SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+ 修复问题：合入补丁导致扫描键失效 <wujinquan>

@@ -1,0 +1,58 @@
+serial number of this version: 0158
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-19-17:45~20:57
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-20-00:21~03:24
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(00e3c75<---00e3c75 )          
+
+commit 00e3c756a93ea78cfa1068f3ff562bd3e395b00b
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 18 15:38:08 2018 +0800
+
+    [SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Product:SQ52
+    Customer:XX
+    Module:Charge
+    Bug ID:
+    Key Word:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    Description:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Commit Tools Version:6119286
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(99263b9<---8c138e0 )          
+commit 99263b97756ca88f37dfce4f82f8bf61881c705f
+Merge: 8c138e0 bd1b0d3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 20 00:20:43 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bd1b0d3a3f250a5a9813a2505ad1f60d297be90e
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Apr 19 22:55:59 2018 +0800
+
+    [SQ52][Other][APP][]: ro.product.manufacturer显示Unitech，apk内置AutoExec需系统签名
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:ro.product.manufacturer显示Unitech，apk内置AutoExec需系统签名
+    
+    Commit Tools Version:f7b8ba2
+commit 8c138e01f6eb4397d82e037f21257e3cf40568bf
+Merge: 1e5be74 7879964
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 19 17:43:47 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

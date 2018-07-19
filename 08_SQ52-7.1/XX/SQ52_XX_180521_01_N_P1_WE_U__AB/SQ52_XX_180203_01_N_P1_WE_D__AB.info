@@ -1,0 +1,88 @@
+serial number of this version: 0139
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-02-02-00:12~03:04
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-02-03-15:54~19:17
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(45ad459<---45ad459 )          
+
+commit 45ad4595863b64604ac079aac60654f3a2efe8a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:03:51 2018 +0800
+
+    [SQ52][XX][TP][]: 更新华视1供煜烨TP固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:更新华视1供煜烨TP固件
+    Description:更新华视1供煜烨TP固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(8edb4ff<---3d30347 )          
+commit 8edb4fff6a83493a8145d50ef6ddf92dee85cb85
+Merge: 3d30347 fd7bc18
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Feb 3 15:51:49 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit fd7bc1805021d17e6bc2acb5c428e97dab4f3828
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Feb 3 13:30:21 2018 +0800
+
+    [SQ52][XX][Scan][]: 将android5.1平台上的最新的6603的so库文件libHHPScanInterface.so和libHSMDecoderAPI.so同步到SQ52-android7.1
+    
+    Product:SQ52
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:将android5.1平台上的最新的6603的so库文件libHHPScanInterface.so和libHSMDecoderAPI.so同步到SQ52-android7.1
+    Description:将android5.1平台上的最新的6603的so库文件libHHPScanInterface.so和libHSMDecoderAPI.so同步到SQ52-android7.1
+    
+    Commit Tools Version:140f12f
+
+commit 9373c07190929ae947336f1e617797a33d9518ee
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Feb 2 17:09:34 2018 +0800
+
+    [ALL][XX][Scan][]: A100S扫描头更新lib库解决扫码有前缀问题
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:A100S扫描头更新lib库解决扫码有前缀问题
+    
+    Commit Tools Version:2d283fd
+
+commit 8ece3972fcf087988c1890f4eeb920d434164eab
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Feb 2 17:01:57 2018 +0800
+
+    [ALL][XX][APP][]: 内置条码扫描器　更新解码库解决解码QR码输出000026的问题
+    
+    Product:ALL
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:内置条码扫描器　更新解码库解决解码QR码输出000026的问题
+    
+    Commit Tools Version:f7b8ba2
+commit 3d30347f5123cb3a19be45c3c0d889a4cd922b04
+Merge: 3086420 4ca607e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Feb 2 00:11:04 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

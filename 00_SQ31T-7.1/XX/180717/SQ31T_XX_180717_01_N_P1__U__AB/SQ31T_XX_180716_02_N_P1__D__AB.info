@@ -1,0 +1,46 @@
+serial number of this version: 0052
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-D 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-16-11:47~12:41
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-D 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-16-13:55~14:48
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(94e77eb<---94e77eb )          
+
+commit 94e77ebaae57e0cdf8d7a90dcd9c6af038823eea
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 23:04:58 2018 +0800
+
+    [SQ31T][WPH][Scan][]: 开缓存时延时150ms（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:开缓存时延时150ms（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

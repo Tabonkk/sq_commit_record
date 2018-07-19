@@ -1,0 +1,29 @@
+serial number of this version: 0148
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-11-03:18~05:56
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 02      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-11-06:18~09:05
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5487b15<---5487b15 )          
+
+commit 5487b15b8355a04565c5ec193e738242a8a92c84
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sat Mar 10 17:47:14 2018 +0800
+
+    [SQ52][XX][Camera]添加s5k5和s5k3，6603配置
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f386338<---f386338 )          
+
+commit f3863380872f570d64743b63c20172abaea730e2
+Merge: e17bea7 c489eb5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 10 13:49:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

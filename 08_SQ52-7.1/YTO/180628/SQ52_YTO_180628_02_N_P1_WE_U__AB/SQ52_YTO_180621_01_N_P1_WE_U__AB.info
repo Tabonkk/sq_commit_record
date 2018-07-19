@@ -1,0 +1,99 @@
+serial number of this version: 0014
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-19-10:25~12:30
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-21-17:08~17:49
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(96321be<---d61804e )          
+commit 96321be3bcd2a5f0da389ea4f88aabac1e05d4d9
+Merge: 84d36a7 6005cce
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 17:02:25 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 84d36a77347adb6bff204cda58cd8a893af1437c
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 16:57:51 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误(软件自测)
+
+commit 6005ccef5451b89919f301f26bff88cfd3710bdd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jun 21 14:32:02 2018 +0800
+
+    [SQ52W][ALL][Other][]: modfy_4G_network_station
+    
+    Product:SQ52W
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_4G_network_station
+    Description:modfy_4G_network_station
+    
+    Commit Tools Version:0be60f5
+
+commit 245d7a745eb6d0f079382953620a46971f653544
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 10:04:54 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:DeviceAdmin清除密码权限；禁止设置gps接口；（软件自测）
+
+commit 4e9576ebe4ba89f5d86b0a0ad4c399129e4b71b4
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 20 09:48:10 2018 +0800
+
+    [SQ52][UTE][Other][]: 工厂测试增加英文
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:工厂测试增加英文
+    
+    Commit Tools Version:ca2c4f7
+commit d61804ef3d21210bac2023897892eae3950a1dbc
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 19 10:20:30 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设备管理设置，“圆通移动管理”置灰
+****************************************************************************

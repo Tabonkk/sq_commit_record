@@ -1,0 +1,109 @@
+serial number of this version: 0005
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-10:37~11:28
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-14:36~15:33
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---5dfbe97 )          
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3741d66<---9035d4b )          
+commit 3741d663916a96ff839ecd91f9bb9ddcf4837ed7
+Merge: 256ab8a 70bbe28
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:33:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 256ab8a00f03f4d7aa778699f24d10e669d6fb44
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:31:18 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新应用中心
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新应用中心
+    
+    Commit Tools Version:d6794eb
+
+commit 70bbe28dba66df26837714da524c774ec268873d
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:22:45 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+
+commit 1dd4d6d8cfbc6c693e6ee1bf27739fbf979b200e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:05:43 2018 +0800
+
+    [SQ31T][WPH][KEY][]: 解决：唯品会按键定制不生效（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:解决：唯品会按键定制不生效（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

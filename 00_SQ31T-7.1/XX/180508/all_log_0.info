@@ -1,0 +1,422 @@
+serial number of this version: 0043
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 04      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-04-27-20:19~21:34
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      FAST-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-04-28-14:10~14:26
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(85d0690<---85d0690 )          
+
+commit 85d0690295ca1569f884810acc44abff307666bd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Apr 27 14:05:41 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0426
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0426
+    Description:patch_from_yufan_0426
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9912d28<---9912d28 )          
+
+commit 9912d28ec5f8a409b2ca3841e697851ccb73173c
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri Apr 27 15:45:05 2018 +0800
+
+    [ALL][XX][Other][]: 修改adb命令不能进入recovery
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改adb命令不能进入recovery
+    
+    Commit Tools Version:94c45c6
+****************************************************************************
+serial number of this version: 0044
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      FAST-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-04-28-14:10~14:26
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-02-10:55~11:54
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(85d0690<---85d0690 )          
+
+commit 85d0690295ca1569f884810acc44abff307666bd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Apr 27 14:05:41 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0426
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0426
+    Description:patch_from_yufan_0426
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9912d28<---9912d28 )          
+
+commit 9912d28ec5f8a409b2ca3841e697851ccb73173c
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri Apr 27 15:45:05 2018 +0800
+
+    [ALL][XX][Other][]: 修改adb命令不能进入recovery
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改adb命令不能进入recovery
+    
+    Commit Tools Version:94c45c6
+****************************************************************************
+serial number of this version: 0045
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-02-10:55~11:54
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-03-23:28~00:18
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(85d0690<---85d0690 )          
+
+commit 85d0690295ca1569f884810acc44abff307666bd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Apr 27 14:05:41 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0426
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0426
+    Description:patch_from_yufan_0426
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0e87d55<---9912d28 )          
+commit 0e87d551621c34c0018fd597a4449ce8830802fa
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 3 22:52:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 修复TF卡升级完后升级包被删除
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复TF卡升级完后升级包被删除
+    
+    Commit Tools Version:0be60f5
+
+commit de8b9de08deb87b70911a9a5fb235f57bc07cc23
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 3 14:52:26 2018 +0800
+
+    [SQ31T][XX][Camera][]: 去掉切换摄像头按钮
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Camera
+    Bug ID:
+    Key Word:
+    Description:去掉切换摄像头按钮
+    
+    Commit Tools Version:0be60f5
+
+commit 7941ed8145591ddeb55d9b284168a7cc3c346a85
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 3 12:46:32 2018 +0800
+
+    [SQ31T][XX][Scan][]: 6603扫描头增加手机模式设置选项
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:6603扫描头增加手机模式设置选项
+    
+    Commit Tools Version:0be60f5
+
+commit 0dde5b8bb01b08c5cc1c4734079a95223b5d0211
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed May 2 16:54:59 2018 +0800
+
+    [SQ31T][XX][Factory][]: *#316显示界面移除Baseline
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:*#316显示界面移除Baseline
+    
+    Commit Tools Version:0be60f5
+
+commit 440c07f45b6386c8b80a1688aee994ed59c27c79
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed May 2 16:38:16 2018 +0800
+
+    [SQ31T][XX][Factory][]: 修复工厂测试NFC结果状态不更新
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:修复工厂测试NFC结果状态不更新
+    
+    Commit Tools Version:0be60f5
+commit 9912d28ec5f8a409b2ca3841e697851ccb73173c
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri Apr 27 15:45:05 2018 +0800
+
+    [ALL][XX][Other][]: 修改adb命令不能进入recovery
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改adb命令不能进入recovery
+    
+    Commit Tools Version:94c45c6
+****************************************************************************
+serial number of this version: 0046
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-03-23:28~00:18
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-04-09:50~10:56
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(85d0690<---85d0690 )          
+
+commit 85d0690295ca1569f884810acc44abff307666bd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Apr 27 14:05:41 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0426
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0426
+    Description:patch_from_yufan_0426
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0e87d55<---0e87d55 )          
+
+commit 0e87d551621c34c0018fd597a4449ce8830802fa
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 3 22:52:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 修复TF卡升级完后升级包被删除
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复TF卡升级完后升级包被删除
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0047
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-04-09:50~10:56
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 02      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-04-14:53~16:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d0a1c5f<---85d0690 )          
+commit d0a1c5fd5875c725b2deb99c428903f2904e73fd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:12:56 2018 +0800
+
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+commit 85d0690295ca1569f884810acc44abff307666bd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Apr 27 14:05:41 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0426
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0426
+    Description:patch_from_yufan_0426
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(5e4c474<---0e87d55 )          
+commit 5e4c47438d314e407ccaa1e69013ae25403faa3d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:10:50 2018 +0800
+
+    [SQ31T][XX][Log][]: 增加urovo log
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+    
+    Commit Tools Version:0be60f5
+commit 0e87d551621c34c0018fd597a4449ce8830802fa
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 3 22:52:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 修复TF卡升级完后升级包被删除
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复TF卡升级完后升级包被删除
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0048
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 02      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-04-14:53~16:00
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-07-19:13~20:34
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d0a1c5f<---d0a1c5f )          
+
+commit d0a1c5fd5875c725b2deb99c428903f2904e73fd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:12:56 2018 +0800
+
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bec211d<---5e4c474 )          
+commit bec211df58487348004742c3b82bc1259e48c1d0
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon May 7 14:55:47 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加按键映射
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加按键映射
+    
+    Commit Tools Version:0130143
+commit 5e4c47438d314e407ccaa1e69013ae25403faa3d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:10:50 2018 +0800
+
+    [SQ31T][XX][Log][]: 增加urovo log
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0049
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-07-19:13~20:34
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-08-09:08~10:14
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d0a1c5f<---d0a1c5f )          
+
+commit d0a1c5fd5875c725b2deb99c428903f2904e73fd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:12:56 2018 +0800
+
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bec211d<---bec211d )          
+
+commit bec211df58487348004742c3b82bc1259e48c1d0
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon May 7 14:55:47 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加按键映射
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加按键映射
+    
+    Commit Tools Version:0130143
+****************************************************************************

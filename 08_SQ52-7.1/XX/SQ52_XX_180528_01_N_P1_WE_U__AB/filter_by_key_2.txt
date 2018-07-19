@@ -1,0 +1,6 @@
+ [SQ52][ALL][USB][]: reduce_usb_log <yangguang>
+ 优速物流扫描头设置默认为广播模式 <DengTonglong>
+ 如果设备装的扫描头不是6601，则隐藏条码扫描器应用 <Rocky>
+ 圆通定制进入OTA 提示“系统升级已停止运行”并退出到“手机状态”界面 <liqianbo>
+ 6601扫描头更新软解码库，添加EAN13 EAN8 UPCA UPCE使能控制设置.版本1.1.10 <Rocky>
+ YSWL默认扫描广播名称改为ACTION_BAR_SCAN <gouwei>

@@ -1,0 +1,202 @@
+serial number of this version: 0019
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-25-17:18~19:19
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N-D 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-26-17:55~18:42
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(a1ec309<---411bef7 )          
+commit a1ec3096e98f67063c154444abbf7f266f6a5b8e
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 26 17:48:21 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(编译错误)
+
+commit 48fff8b407727c7767d3539d8fbb11915f46d7e3
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Jun 26 17:26:11 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 编译错误（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译错误（软件自测）
+    
+    Commit Tools Version:ca2c4f7
+
+commit ca83c20d403fb9c3ae452c290801095bdf122a97
+Merge: 7ba0677 da96b86
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 26 17:11:31 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7ba0677f0943ccf275f425279d6b51ab2e2c521d
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 26 17:07:53 2018 +0800
+
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(编译错误)
+
+commit da96b86fa757d1110c2669683497a03d05b7ce78
+Merge: ea4341c 18a2a8b
+Author: hetao <tao.he@urovo.com>
+Date:   Tue Jun 26 17:04:22 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ea4341c191b34a2382f2f0bf7da276b09a500cfb
+Author: hetao <tao.he@urovo.com>
+Date:   Tue Jun 26 16:59:56 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Otrher
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本 三指截屏、录屏优化
+
+commit 18a2a8b3a929f66921aa69496ade4d8d5dde900b
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 26 16:27:41 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(编译错误)
+
+commit 6c03e11ba8aed49fd1f5331f99ac12278a046a80
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Jun 26 14:51:19 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD 新需求提交（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD 新需求提交（软件自测）
+    
+    Commit Tools Version:ca2c4f7
+
+commit f88088721bfa95356f1c0eadf5778d1f98d85a1f
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 26 14:34:19 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通移动管理DeviceOwner策略应用问题（软件自测）
+
+commit 542e546bd9ff71bcf820a675fe6675fd8b759a23
+Merge: 47fdcae d28bab7
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Tue Jun 26 11:46:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 47fdcaeb00311a1cea4a711fecbebd723a35473c
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Tue Jun 26 11:43:18 2018 +0800
+
+    [ALL][XX][Other][]: OTA在线升级添加验签下载升级包，如有问题，弹出提示框
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:OTA在线升级添加验签下载升级包，如有问题，弹出提示框
+    
+    Commit Tools Version:94c45c6
+
+commit d28bab762e88ce1ce521197fadf7c436ffec6cf6
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Jun 26 11:22:49 2018 +0800
+
+    [ALL][XX][Other][]: 隐藏STK应用
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:隐藏STK应用
+    
+    Commit Tools Version:ca2c4f7
+
+commit 80fb72c23c012cec64d73ef5f5dbd9b2895c71e2
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Tue Jun 26 10:07:39 2018 +0800
+
+    [ALL][XX][Other][]: OTA在线升级添加验签下载升级包，如有问题，弹出提示框
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:OTA在线升级添加验签下载升级包，如有问题，弹出提示框
+    
+    Commit Tools Version:94c45c6
+
+commit becfbbe0b9b2ad791c1ca00d9f2499e3c27bd4f9
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Jun 25 17:41:07 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本 添加三指截屏、音量上+电源键录屏，上拉托盘添加手电筒、录音按钮，WiFi、蓝牙设置解决禁用后disable开关问题，设置增加智能控制设置入口
+commit 411bef757de74dc1e1bd15325f26268d77d32275
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Jun 25 15:17:28 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通移动管理DevicePolicyManagerService权限问题（软件自测）
+****************************************************************************

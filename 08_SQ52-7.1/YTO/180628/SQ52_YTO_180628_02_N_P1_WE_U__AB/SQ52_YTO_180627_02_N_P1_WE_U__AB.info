@@ -1,0 +1,99 @@
+serial number of this version: 0021
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-27-09:10~09:51
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 02      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-27-11:47~12:22
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(349e108<---ea1f7cf )          
+commit 349e108a5e8ead1833b2124d59a265de8f5c837b
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 27 11:45:43 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(修复编译错误)
+
+commit 36d4943816280f6ccee6c7349a98df59027af72f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 27 11:29:56 2018 +0800
+
+    [ALL][XX][Other][]: 扫描勾选振动无效问题修复
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:扫描勾选振动无效问题修复
+    
+    Commit Tools Version:ca2c4f7
+
+commit 13cbd91ff0a5d053b7918935ca20c687fc337519
+Merge: 3f4bbc1 c02e0f6
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 27 11:16:44 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3f4bbc1c2017053ef025f40f5170f57ae2fe4ce8
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 27 11:15:13 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:禁用gps和恢复出厂设置接口（软件自测）
+
+commit c02e0f6f480e44403875ab46a00b36eb6161d989
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 27 09:46:02 2018 +0800
+
+    [SQ52][UTE][Other][]: UTE添加google语音输入
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE添加google语音输入
+    
+    Commit Tools Version:ca2c4f7
+commit ea1f7cf311487898eca78340e62972f795cffa42
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 27 09:09:11 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译错误
+****************************************************************************

@@ -1,0 +1,51 @@
+serial number of this version: 0135
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-27-12:29~15:16
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 02      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-27-18:36~21:16
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(45ad459<---6dc693f )          
+commit 45ad4595863b64604ac079aac60654f3a2efe8a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:03:51 2018 +0800
+
+    [SQ52][XX][TP][]: 更新华视1供煜烨TP固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:更新华视1供煜烨TP固件
+    Description:更新华视1供煜烨TP固件
+    
+    Commit Tools Version:140f12f
+commit 6dc693fad1da116c4ef905c9c771d21f978569ed
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Jan 24 15:38:47 2018 +0800
+
+    [SQ52][XX][USB][]: 高温充电截止温度更新为60度；支持手柄模式
+    
+    Product:SQ52
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:高温充电截止温度更新为60度；支持手柄模式
+    Description:高温充电截止温度更新为60度；支持手柄模式
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0fef115<---0fef115 )          
+
+commit 0fef1150e7b1bd59f4c4777a5fdf1da1acc3849d
+Merge: 07a0696 7ddee0b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 20:56:10 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

@@ -1,0 +1,120 @@
+serial number of this version: 0147
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      FAST PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-09-11:26~12:42
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-11-03:18~05:56
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5487b15<---7fc5e47 )          
+commit 5487b15b8355a04565c5ec193e738242a8a92c84
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sat Mar 10 17:47:14 2018 +0800
+
+    [SQ52][XX][Camera]添加s5k5和s5k3，6603配置
+commit 7fc5e47955761b80d75626bf2a8853d9f3ef6357
+Merge: ed88933 abce148
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Mar 9 10:02:14 2018 +0800
+
+    Merge branch 'kernel_8940' of 192.168.8.215:8917/Nougat/kernel into kernel_8940
+    
+    Conflicts:
+    	msm-3.18/arch/arm/boot/dts/qcom/msm8940-pmi8937-mtp.dtsi
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f386338<---ac39f19 )          
+commit f3863380872f570d64743b63c20172abaea730e2
+Merge: e17bea7 c489eb5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 10 13:49:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c489eb5da2534e808e1b418237212053bc86cde5
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Mar 10 13:46:28 2018 +0800
+
+    [SQ52][YDSD][Other][]: ydsd去掉music
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:ydsd去掉music
+    
+    Commit Tools Version:e77912a
+
+commit ad82f3e0c0f85d1c2c20576395ca6fbab439c922
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Mar 10 13:35:40 2018 +0800
+
+    [SQ52][YDSD][Other][]: 签名系统不校验sysytem 目录（软件验证）
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:签名系统不校验sysytem 目录（软件验证）
+    
+    Commit Tools Version:e77912a
+
+commit e17bea71265fa183e2ab063c8f665a3e5f7e8539
+Merge: d4109e4 4598261
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 10 09:52:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 459826145840b686e9c302ac3242a59b253c6861
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Mar 10 09:32:59 2018 +0800
+
+    [SQ52][YDSD][Other][]: 修复编译错误（软件验证）
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误（软件验证）
+    
+    Commit Tools Version:e77912a
+
+commit d4109e49b7384c9f120f7bc6c780ea3859317c5f
+Merge: ac39f19 6764e38
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Mar 9 21:06:42 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6764e38fb0d7418a402d4aa9da5dca2f74937644
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Mar 9 19:36:30 2018 +0800
+
+    [SQ52][YDSD][Other][]: 1.开机后首页下面的Dock栏需要显示5个图标，且点图标之后要启动对应的app（电话、通讯录、短信、浏览器、相机）
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:1.开机后首页下面的Dock栏需要显示5个图标，且点图标之后要启动对应的app（电话、通讯录、短信、浏览器、相机）
+    2.需要预装讯飞输入法
+    3.系统预装的以下App需要隐藏图标（视频、搜索、下载、音乐)
+    4.主页上的搜索框去掉
+    5.系统设置界面，顶部的建议（使用指纹，设置“勿扰”时间安排......）去掉
+    
+    Commit Tools Version:e77912a
+commit ac39f19c6a7c8fdc8a80f72f3757ea86362fbb35
+Merge: 0643e64 a295fe3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 8 14:59:22 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

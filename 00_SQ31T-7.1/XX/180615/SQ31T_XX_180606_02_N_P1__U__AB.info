@@ -1,0 +1,89 @@
+serial number of this version: 0011
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-06-12:04~13:24
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-06-18:45~19:41
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d3f0c6c<---d3f0c6c )          
+
+commit d3f0c6c5224d75d343172e0d6b21540bf09658eb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jun 5 11:07:31 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_for_yufan_0604
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_for_yufan_0604
+    Description:patch_for_yufan_0604
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(a15d834<---743a559 )          
+commit a15d834333234d85468d7a70166e0209c4d9131c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jun 6 16:02:41 2018 +0800
+
+    [SQ31T][XX][UI][]: 扫描头设置只保留斑马原库的“Postal codes”菜单
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:扫描头设置只保留斑马原库的“Postal codes”菜单
+    
+    Commit Tools Version:d6794eb
+
+commit 5f6c63d4fc1de3aac3c5e79c47e4f4ba53a30c73
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jun 6 15:59:26 2018 +0800
+
+    [SQ31T][XX][UI][]: 工厂测试耳机按键测试去掉音量+-
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:工厂测试耳机按键测试去掉音量+-
+    
+    Commit Tools Version:d6794eb
+
+commit 1c00f9c342626b672e9965ea978ab30481851574
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jun 6 15:56:12 2018 +0800
+
+    [SQ31T][XX][UI][]: 桌面不显示SerialTest，SIM卡应用
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:桌面不显示SerialTest，SIM卡应用
+    
+    Commit Tools Version:d6794eb
+commit 743a55938c9ecd5d826767a91ea6576fba5231c3
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jun 5 19:17:38 2018 +0800
+
+    [SQ31T][ALL][Other][]: update_audio_parms
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:update_audio_parms
+    Description:update_audio_parms
+    
+    Commit Tools Version:0be60f5
+****************************************************************************

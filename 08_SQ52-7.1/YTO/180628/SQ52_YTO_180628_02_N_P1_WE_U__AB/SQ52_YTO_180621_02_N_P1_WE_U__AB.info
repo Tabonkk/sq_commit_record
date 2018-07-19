@@ -1,0 +1,47 @@
+serial number of this version: 0015
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-21-17:08~17:49
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 02      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-21-20:03~20:37
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(cf60771<---96321be )          
+commit cf607716b18e97799e736b0390809285cfd1c5a5
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 20:01:24 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(软件自测)
+commit 96321be3bcd2a5f0da389ea4f88aabac1e05d4d9
+Merge: 84d36a7 6005cce
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 17:02:25 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

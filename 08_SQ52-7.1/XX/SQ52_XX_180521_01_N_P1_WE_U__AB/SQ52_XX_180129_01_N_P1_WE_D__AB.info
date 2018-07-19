@@ -1,0 +1,80 @@
+serial number of this version: 0136
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 02      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-27-18:36~21:16
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-29-22:26~01:58
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(45ad459<---45ad459 )          
+
+commit 45ad4595863b64604ac079aac60654f3a2efe8a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:03:51 2018 +0800
+
+    [SQ52][XX][TP][]: 更新华视1供煜烨TP固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:更新华视1供煜烨TP固件
+    Description:更新华视1供煜烨TP固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(93c0695<---0fef115 )          
+commit 93c069590aa93e9e5182faa7632f5a55348c711a
+Merge: 0fef115 c3bb8b3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jan 29 22:23:03 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c3bb8b32a84ec599f934aae6ea86306ea761b2f6
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Jan 29 18:08:26 2018 +0800
+
+    [SQ52][XX][Scan][]: 添加手柄模式需要的keylayout文件usbid_scankey.kl
+    
+    Product:SQ52
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:添加手柄模式需要的keylayout文件usbid_scankey.kl
+    Description:添加手柄模式需要的keylayout文件usbid_scankey.kl
+    
+    Commit Tools Version:140f12f
+
+commit be4ba729607e2152c6c5be22c12980c6f885a48c
+Merge: c3e3fe9 7ddee0b
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:01:05 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c3e3fe906fc670d0e084ddc5c0ff498d17d63079
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 17:59:09 2018 +0800
+
+    [SQ52][XX][Audio][]: 合入武盼盼更新的Bluetooth_cal.acdb文件
+    
+    Product:SQ52
+    Customer:XX
+    Module:Audio
+    Bug ID:
+    Key Word:合入武盼盼更新的Bluetooth_cal.acdb文件
+    Description:合入武盼盼更新的Bluetooth_cal.acdb文件
+    
+    Commit Tools Version:140f12f
+commit 0fef1150e7b1bd59f4c4777a5fdf1da1acc3849d
+Merge: 07a0696 7ddee0b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 20:56:10 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

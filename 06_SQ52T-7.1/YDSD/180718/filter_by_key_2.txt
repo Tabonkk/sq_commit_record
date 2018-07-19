@@ -1,0 +1,6 @@
+ [SQ52T][ALL][USB][]: add_usb_otg_enable_api <yangguang>
+ SQ52 YTO OTA升级重启后，关闭拨号盘按键声音 <liqianbo>
+ back_to_one_mic <yangguang>
+ SQ52 YDSD OTA升级时清除开机密码 <liqianbo>
+ YDSD 版本号体现非签名版 <gouwei>
+ add_two_mic <yangguang>

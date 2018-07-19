@@ -1,0 +1,152 @@
+serial number of this version: 0131
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-18-03:00~05:39
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-23-16:44~20:01
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(dc2c854<---af72198 )          
+commit dc2c854ea44b97e259e02080d5eaa87ad2e2cc7b
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Jan 22 14:05:59 2018 +0800
+
+    [SQ52][XX][Other][]: 切换华视tp一供固件为25channel
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:切换华视tp一供固件为25channel
+    Description:切换华视tp一供固件为25channel
+    
+    Commit Tools Version:140f12f
+commit af72198ebbc64ee4a439edc5154b9c538d3885e9
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Jan 12 16:33:14 2018 +0800
+
+    [SQ52][XX][TP][]: 合入宏发展最新tp固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:合入宏发展最新tp固件
+    Description:合入宏发展最新tp固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(dad453b<---5671cce )          
+commit dad453b20d6c08fc373864a7a2267eda71c92330
+Merge: bbf7f70 8941668
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Jan 19 09:45:12 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 89416681fde98d16251623c96e0829281c5142fb
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 18 20:02:40 2018 +0800
+
+    [SQ52][XX][Other][]: PRAX 编译不过问题暂时修复（软件验证）
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX 编译不过问题暂时修复（软件验证）
+    
+    Commit Tools Version:ea27ff4
+
+commit bbf7f7084acd651937aa7c52c1feaca29d4a017d
+Merge: 02fb69b faebb09
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 18 19:34:12 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit faebb090c129ca9977eed235a290045d22777456
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 18 18:09:53 2018 +0800
+
+    [SQ52][UTE][Other][]: UTE 通话功能缺失
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE 通话功能缺失
+    
+    Commit Tools Version:ea27ff4
+
+commit 02fb69b9cfeaa0d27ad6c71942d6406ce2c8f0e8
+Merge: edaaf31 db6e75d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 18 15:44:59 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit db6e75d5756542e7a2dcac2dda63e1739361a852
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 18 15:31:17 2018 +0800
+
+    [SQ52][XX][Other][]: prax客户需求提交(软件自测)
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:prax客户需求提交(软件自测)
+    
+    Commit Tools Version:ea27ff4
+
+commit 2d2ede50ebc86938d28cb76287fdbb4ecaffe5eb
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 18 14:21:28 2018 +0800
+
+    [ALL][XX][Other][]: 设置中添加音量+-+-++--进入工厂测试
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设置中添加音量+-+-++--进入工厂测试
+    
+    Commit Tools Version:ea27ff4
+
+commit edaaf31703b988050a4cd18d6ed9a03eac9f6bd8
+Merge: 5671cce 16cb229
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 18 12:22:37 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 16cb229d74f6321e237de44bd8db3d67883ffa45
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 18 11:29:47 2018 +0800
+
+    [SQ52][XX][Other][]: PRAX 客户需求提交
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX 客户需求提交
+    
+    Commit Tools Version:ea27ff4
+commit 5671cce70773de2a064e75fe1f451c501b84b827
+Merge: feaaeb2 c58cfd4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 17 23:39:35 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

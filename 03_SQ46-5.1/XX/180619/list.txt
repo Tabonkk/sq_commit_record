@@ -1,0 +1,10 @@
+drwxrwxrwx   1 user     group           0 Jun 19 10:10 .
+drwxrwxrwx   1 user     group           0 Jun 19 10:10 ..
+-rw-rw-rw-   1 user     group       24859 Jun  5 09:37 SQ46_XX_180605_01_N_P1_WE_U_16+8_AB.info
+-rw-rw-rw-   1 user     group        1026 Jun  5 09:37 SQ46_XX_180605_01_N_P1_WE_U_16+8_AB.txt
+-rw-rw-rw-   1 user     group        5925 Jun  7 11:53 SQ46_XX_180607_01_N_P1_WE_U_16+8_AB.info
+-rw-rw-rw-   1 user     group         859 Jun  7 11:53 SQ46_XX_180607_01_N_P1_WE_U_16+8_AB.txt
+-rw-rw-rw-   1 user     group        4160 Jun  7 17:44 SQ46_XX_180607_02_N_P1_WE_U_16+8_AB.info
+-rw-rw-rw-   1 user     group         611 Jun  7 17:44 SQ46_XX_180607_02_N_P1_WE_U_16+8_AB.txt
+-rw-rw-rw-   1 user     group       19207 Jun 19 10:10 SQ46_XX_180619_01_N_P1_WE_U_16+8_AB.info
+-rw-rw-rw-   1 user     group         972 Jun 19 10:10 SQ46_XX_180619_01_N_P1_WE_U_16+8_AB.txt

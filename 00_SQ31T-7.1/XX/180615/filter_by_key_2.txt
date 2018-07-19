@@ -1,0 +1,33 @@
+ [SQ31T][ALL][Battery][]: modfy_usb_charging_current <yangguang>
+ [SQ31T][ALL][Other][]: patch_from_yufan_kernel <yangguang>
+ [SQ31T][ALL][Charge][]: modfy_charge_current <yangguang>
+ 修改签名显示为非签 <DengTonglong>
+ 连续扫描23小时扫描应用崩溃---(app bug): weak global reference table overflow (max=51200) <DengTonglong>
+ add_gps_log <yangguang>
+ 4750扫描头合入dpm模式 <wujinquan>
+ patch_from_yufan_0517 <yangguang>
+ 输入*#06#,增加显示meid <wujinquan>
+ 解决超高屏apk部分字符乱码 <wujinquan>
+ 移除连续扫描设置项 <DengTonglong>
+ 解决问题：从“下载”中安转某些应用，“安装”icon灰化，无法正常安装应用程序 <wujinquan>
+ 连接上WiFi时显示“已连接，但无法访问互联网” <wujinquan>
+ 修改OTA升级方式 <liqianbo>
+ Honeywell更新了6603扫描头库，解决空扫概率性不出光 <DengTonglong>
+ 修复【6603】扫描头不能扫描“Australian Post”和“Japanese Post” <DengTonglong>
+ 增加按键映射 <DengTonglong>
+ [SQ31T][ALL][Other][]: patch_for_yufan_0604 <yangguang>
+ patch_for_yufan0604 <yangguang>
+ 修复6603 Enable checksum不生效 <DengTonglong>
+ 扫描头默认补光灯亮度默认为7 <wujinquan>
+ update_audio_parms <yangguang>
+ 扫描头设置只保留斑马原库的“Postal codes”菜单 <wujinquan>
+ 工厂测试耳机按键测试去掉音量+- <wujinquan>
+ 桌面不显示SerialTest，SIM卡应用 <wujinquan>
+ 文件漏传，编译报错 <liqianbo>
+ 去除小部件中的“WLAN热点” <wujinquan>
+ patch_from_yufan_0613 <yangguang>
+ OTA在线断电续传升级，偶现验证签名失败,整理当前应用 <liqianbo>
+ 解决问题：【6603】【4750DPM/SR/MR】扫描QR 10mil -20mil 条码，扫描头ANR <wujinquan>
+ 设备状态中不用显示“自定义版本”这项 <wujinquan>
+ 删除：计算器->点击屏幕右上角的"菜单"图标,显示"开放源代码许可"菜单 <wujinquan>
+ [SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>

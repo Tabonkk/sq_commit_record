@@ -1,0 +1,89 @@
+serial number of this version: 0005
+the previous command is: ./OS_Build6_8909.sh SQ31T UTE N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-13-11:41~12:41
+the command of this build is: ./OS_Build6_8909.sh SQ31T UTE N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-14-15:44~16:40
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3b143b6<---f6561b8 )          
+commit 3b143b676b47f81e48d826936adfd2fe8bc9548e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 14:28:09 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新应用中心（解决无法调用MTK文件管理器）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新应用中心（解决无法调用MTK文件管理器）
+    
+    Commit Tools Version:d6794eb
+
+commit 8dcb959d5aa706ba776357c682dc352548dec4cc
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 14:14:53 2018 +0800
+
+    [SQ31T][XX][UI][]: 只有国内通用版本才合入超高频apk
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:只有国内通用版本才合入超高频apk
+    
+    Commit Tools Version:d6794eb
+
+commit 25aa38cf44fcd64890b1e39d7d57976abcbff72a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 14:00:50 2018 +0800
+
+    [SQ31T][XX][UI][]: 解决问题：1，工厂测试led乱跳，2，将wifi改为WLAN  2，系统升级界面不正确
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：1，工厂测试led乱跳，2，将wifi改为WLAN  2，系统升级界面不正确
+    
+    Commit Tools Version:d6794eb
+commit f6561b8c54b78a00a60b08a5ca4a9127a9ec2c85
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 13 11:37:21 2018 +0800
+
+    [SQ31T][UTE][KEY][]: FN模式下，使用UTE定制键值
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:FN模式下，使用UTE定制键值
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

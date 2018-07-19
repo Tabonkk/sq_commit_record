@@ -1,0 +1,46 @@
+*************************************************************************
+SQ52_UTE_Nsigned
+编译日期：2018-06-05 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52][ALL][USB][]: improve_usb_drive_power <yangguang>
+[SQ52][ALL][USB][]: reduce_usb_log <yangguang>
+[SQ52][XX][USB][]: add from yangguang <ShiXiaoKai>
+[SQ52][ALL][Other][]: suppert_3d_camera <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+海外版本默认英文 <gouwei>
+设备连接电脑后，允许第三方app启动打开USB连接模式选项界面，同时移除android.permission.MANAGE_USB系统权限检查(软件验证) <Rocky>
+韵达速递通用版本提交，扫描头默认不勾选键盘，开机动画，型号改为M7 <gouwei>
+添加获取电量接口（软件自测） <gouwei>
+优速物流扫描头设置默认为广播模式 <DengTonglong>
+如果设备装的扫描头不是6601，则隐藏条码扫描器应用 <Rocky>
+YTO 接口提交（软件自测） <gouwei>
+圆通定制进入OTA 提示“系统升级已停止运行”并退出到“手机状态”界面 <liqianbo>
+6601扫描头更新软解码库，添加EAN13 EAN8 UPCA UPCE使能控制设置.版本1.1.10 <Rocky>
+YSWL默认扫描广播名称改为ACTION_BAR_SCAN <gouwei>
+YTO圆通定制，应用请求连接vpn时跳过确认对话框 <Rocky>
+恢复美格提交的修改，应用无法监听到ConnectivityManager.CONNECTIVITY_ACTION网络切换广播 <Rocky>
+白名单功能重启失效bug修复 <gouwei>
+插入电信卡，×#06#显示MEID有时为0问题修复 <gouwei>
+所有项目添加自定义NTP服务器地址功能 <gouwei>
+韵达定制白名单功能接口 <gouwei>
+横屏启动camera，预览界面异常bug修复 <gouwei>
+韵达定制白名单功能接口 <Rocky>
+韵达定制白名单功能接口 <Rocky>
+修复不同设备连接电脑后出现adb devices命令获取到一样id 12344321 <Rocky>
+YDSD白名单功能提交 <gouwei>
+移除扫描设置中连续扫描选项 <Rocky>
+更改默认解锁提示语 <gouwei>
+添加自定义NTP服务器地址功能 <gouwei>
+YTO定制更新	开机动画 <liqianbo>
+YTO添加开机Logo和开机动画 <liqianbo>
+GEENK定制广播切换扫描模式，型号改为GEENK_X8，扫描头广播改为com.geenk.action.GET_SCANDATA <gouwei>
+YTO定制默认打开所有一位扫码 <liqianbo>
+YDSD 蓝牙和GPS默认关闭 <gouwei>
+YTO定制型号修改为i6310B <liqianbo>
+定制YTO漏传 <liqianbo>
+定制YTO： <liqianbo>
+GEENK定制广播切换扫描模式，型号改为GEENK_X8，扫描头广播改为com.geenk.action.GET_SCANDATA <gouwei>
+YDSD USB调试需求提交（软件自测） <gouwei>
+add from yangguang <ShiXiaoKai>

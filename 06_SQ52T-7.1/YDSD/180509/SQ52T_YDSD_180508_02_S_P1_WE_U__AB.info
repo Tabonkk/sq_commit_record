@@ -1,0 +1,51 @@
+serial number of this version: 0013
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-08-11:48~13:47
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-08-14:15~16:12
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(966779c<---966779c )          
+
+commit 966779c893c85cd07db3e6063d2f1a958cd05b61
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 8 10:35:12 2018 +0800
+
+    [SQ52T][ALL][TP][]: update_tp_firmware
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:TP
+    Bug ID:
+    Key Word:update_tp_firmware
+    Description:update_tp_firmware
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(78ae718<---aa2f365 )          
+commit 78ae718e76cac8dd76eee0e84dcbdeb5211cd982
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 8 11:46:27 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 设置为编译新UI版本
+commit aa2f3650ec430d59d963efcd880379e51434d562
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 8 11:31:05 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:
+****************************************************************************

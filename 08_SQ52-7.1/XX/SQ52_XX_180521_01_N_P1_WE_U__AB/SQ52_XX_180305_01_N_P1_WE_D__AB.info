@@ -1,0 +1,139 @@
+serial number of this version: 0143
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-02-28-11:12~14:34
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-05-21:12~23:47
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(45ad459<---45ad459 )          
+
+commit 45ad4595863b64604ac079aac60654f3a2efe8a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:03:51 2018 +0800
+
+    [SQ52][XX][TP][]: 更新华视1供煜烨TP固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:更新华视1供煜烨TP固件
+    Description:更新华视1供煜烨TP固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(e8a2f33<---8edb4ff )          
+commit e8a2f33eaeccc1e9fe0ba9cd6b8375bb22ae6eb4
+Merge: 39d1540 6583e86
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 5 17:25:17 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6583e86680e2b366b5c52b05fc4c7b4a7a64ca6f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Mar 5 14:03:53 2018 +0800
+
+    [SQ52][YDSD][Other][]: 添加获取rom id，流量使用情况接口
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:添加获取rom id，流量使用情况接口
+    
+    Commit Tools Version:d2eac4b
+
+commit 890566a09af8bd6c9648aad7d03268e924384797
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Mar 5 13:49:51 2018 +0800
+
+    [SQ52][YDSD][Other][]: 添加获取rom id，流量使用情况接口
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:添加获取rom id，流量使用情况接口
+    
+    Commit Tools Version:d2eac4b
+
+commit 39d1540bb595f8fbb52a9a20c284a19ee89d2a2d
+Merge: 879f9bb 82e0201
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 3 11:03:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 82e0201cfe3a8466d0bb13509aa121720964f078
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Mar 2 09:13:31 2018 +0800
+
+    [SQ52][XX][Other][]: 1.6603的capture_start_scanning返回值修正 2.关闭KeyguardConstants.java中的DEBUG，阻止不断打印TIME-TICK信息
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:1.6603的capture_start_scanning返回值修正 2.关闭KeyguardConstants.java中的DEBUG，阻止不断打印TIME-TICK信息
+    Description:1.6603的capture_start_scanning返回值修正 2.关闭KeyguardConstants.java中的DEBUG，阻止不断打印TIME-TICK信息
+    
+    Commit Tools Version:140f12f
+
+commit 8d1f2b8fe5a4a08929e779470c9c7d239a04b4e4
+Merge: bdbd0f9 42fbcf9
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Mar 2 08:56:42 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bdbd0f9310263071a77a4e66e45707d7a38b67fc
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Mar 2 08:54:28 2018 +0800
+
+    [SQ52][XX][Wifi][]: 重命名并上传SQ52和SQ52W的wifi固件文件
+    
+    Product:SQ52
+    Customer:XX
+    Module:Wifi
+    Bug ID:
+    Key Word:重命名并上传SQ52和SQ52W的wifi固件文件
+    Description:重命名并上传SQ52和SQ52W的wifi固件文件
+    
+    Commit Tools Version:140f12f
+
+commit 879f9bb824800bd34ee51d7a173f63000faf661b
+Merge: 8edb4ff 42fbcf9
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 1 19:33:48 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 42fbcf9d7b6a8d9c080d509c07781f5962da9c2f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Feb 28 20:32:18 2018 +0800
+
+    [SQ52][XX][APP][]: 添加第三方app安装卸载apk的权限定制android.Manifest.permission.HIDE_INSTALL_PACKAGES(软件验证)
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:添加第三方app安装卸载apk的权限定制android.Manifest.permission.HIDE_INSTALL_PACKAGES(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+commit 8edb4fff6a83493a8145d50ef6ddf92dee85cb85
+Merge: 3d30347 fd7bc18
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Feb 3 15:51:49 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

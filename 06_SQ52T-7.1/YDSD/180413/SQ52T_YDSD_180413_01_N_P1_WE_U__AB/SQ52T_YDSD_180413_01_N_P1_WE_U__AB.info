@@ -1,0 +1,79 @@
+serial number of this version: 0004
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-12-16:31~18:04
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-13-01:31~04:42
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5e21a69<---5e21a69 )          
+
+commit 5e21a69252093926d0dde74a2431e928f3777814
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue Mar 27 15:00:28 2018 +0800
+
+    [SQ52T][ALL][Scan]调整6603扫描头导致的休眠功耗高问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bd20f58<---8bd0fac )          
+commit bd20f58bc17b1456a62fb54df27bcb76f1d8b77d
+Merge: 8bd0fac e1d2311
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 21:47:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e1d2311f283cd088e3532c5af3a45f39c2c4f8b7
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Apr 12 19:12:40 2018 +0800
+
+    [SQ52][Other][UI][]: 韵达SQ52T暂时移除第三方手机UI，恢复android原生UI
+    
+    Product:SQ52
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:韵达SQ52T暂时移除第三方手机UI，恢复android原生UI
+    
+    Commit Tools Version:f7b8ba2
+
+commit 4099482b624657ba4e19f36b20c5635ed7767104
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Apr 12 19:01:39 2018 +0800
+
+    [SQ52][Other][APP][]: 更新韵达应用中心V1.2.18.0412，暂时移除第三方手机UI，恢复android原生UI
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新韵达应用中心V1.2.18.0412，暂时移除第三方手机UI，恢复android原生UI
+    
+    Commit Tools Version:f7b8ba2
+
+commit fec3e7ee530e2cfd7a73e8347f78d785eb052bdf
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Apr 12 16:41:45 2018 +0800
+
+    [ALL][XX][Other][]: 老化测试扫描头一直出光扫码问题修复
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:老化测试扫描头一直出光扫码问题修复
+    
+    Commit Tools Version:5b9f5d3
+commit 8bd0fac360720a07c86c7f8541c67a39c94afc25
+Merge: 8e0d3db 3427ff4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 16:29:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

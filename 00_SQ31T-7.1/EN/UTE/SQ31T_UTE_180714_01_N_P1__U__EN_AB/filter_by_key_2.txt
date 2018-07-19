@@ -1,0 +1,5 @@
+ [SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+ FN模式下，使用UTE定制键值 <wujinquan>
+ UTE定制型号改为HT510 <wujinquan>
+ 只有国内通用版本才合入超高频apk <wujinquan>
+ 解决问题：1，工厂测试led乱跳，2，将wifi改为WLAN 2，系统升级界面不正确 <wujinquan>

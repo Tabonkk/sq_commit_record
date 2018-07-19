@@ -1,0 +1,29 @@
+*************************************************************************
+SQ52_UTE_Nsigned
+编译日期：2018-07-03 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52][ALL][USB][]: improve_usb_drive_power <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修复编译报错（软件自测） <gouwei>
+google应用不进行预优化（软件自测） <gouwei>
+删除无用camera so库，节省系统空间（软件自测） <gouwei>
+增加日志分析关机问题 <gouwei>
+删除不重要的google app，节省系统控件 <gouwei>
+SQ52T YDSD定制OTA升级重启后关闭Bluetooth和GPS <liqianbo>
+版本号增加EN标识 <gouwei>
+add_audio_acdbdata <yangguang>
+扫描勾选振动无效问题修复 <gouwei>
+UTE添加google语音输入 <gouwei>
+OTA在线升级添加验签下载升级包，如有问题，弹出提示框 <liqianbo>
+隐藏STK应用 <gouwei>
+OTA在线升级添加验签下载升级包，如有问题，弹出提示框 <liqianbo>
+UTE 工厂测试翻译 <gouwei>
+显示蓝牙耗电量，电量显示情况更改百分比策略 <gouwei>
+工厂测试增加英文 <gouwei>
+拨号盘搜索添加搜索通话记录功能 <gouwei>
+model name  改为 M7(M) <gouwei>
+修复6603 Enable checksum不生效 <DengTonglong>
+YTO定制型号修改为I6310B <liqianbo>
+OTA在线断电续传升级，偶现验证签名失败 <liqianbo>

@@ -1,0 +1,70 @@
+serial number of this version: 0060
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-16-22:00~23:58
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-18-19:36~21:39
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ebd8854<---0c030da )          
+commit ebd8854b8023faa57b23646a888a06c05dab1157
+Author: hetao <tao.he@urovo.com>
+Date:   Wed Jul 18 18:11:34 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新应用中心
+
+commit f21f1303f5d26c2fa99955fa58775c7b20f6833e
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 18 16:08:54 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_two_mic
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_two_mic
+    Description:add_two_mic
+    
+    Commit Tools Version:0be60f5
+commit 0c030da8ca28116bba3bf8ef4bb80c0f846ceded
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 18:05:23 2018 +0800
+
+    [ALL][XX][Other][]: 编译报错（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译报错（软件自测）
+    
+    Commit Tools Version:94c45c6
+****************************************************************************

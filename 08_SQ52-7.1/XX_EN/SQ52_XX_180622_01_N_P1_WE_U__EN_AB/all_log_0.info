@@ -1,0 +1,287 @@
+serial number of this version: 0006
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE server  RD-ALL   /  /                      
+Build time:2017-07-22-12:38~15:26
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O PRO false P1 WE server  RD-ALL   /  /                      
+Build time:2017-07-24-12:06~15:05
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(f2920ae<---f2920ae )          
+
+commit f2920ae7d7658587efa484b39c5453814d55fca9
+Author: baixueyuan <xuyuan.bai@urovo.com>
+Date:   Fri Jul 21 11:01:22 2017 +0800
+
+        Disable debug flag for pn548 and chips fingerprint
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9e4bd46<---9e4bd46 )          
+
+commit 9e4bd465f64c29b7a83aea528cc9e57ec9a9a6c0
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jul 22 10:23:57 2017 +0800
+
+    [SQ52][XX][Factory][]: 工厂测试LED灯修改
+    
+    Product:SQ52
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:工厂测试LED灯修改
+    
+    Commit Tools Version:e9d994f
+****************************************************************************
+serial number of this version: 0006
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-09-09:16~11:17
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-22-15:55~18:05
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3ac21f2<---ed4a9d2 )          
+commit 3ac21f28302e0d279f02d836374fec4434fe128d
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 22 14:35:11 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通管理应用admindevice权限问题（软件自测）
+
+commit cf607716b18e97799e736b0390809285cfd1c5a5
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 20:01:24 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(软件自测)
+
+commit 96321be3bcd2a5f0da389ea4f88aabac1e05d4d9
+Merge: 84d36a7 6005cce
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 17:02:25 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 84d36a77347adb6bff204cda58cd8a893af1437c
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 16:57:51 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误(软件自测)
+
+commit 6005ccef5451b89919f301f26bff88cfd3710bdd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jun 21 14:32:02 2018 +0800
+
+    [SQ52W][ALL][Other][]: modfy_4G_network_station
+    
+    Product:SQ52W
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_4G_network_station
+    Description:modfy_4G_network_station
+    
+    Commit Tools Version:0be60f5
+
+commit 245d7a745eb6d0f079382953620a46971f653544
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 10:04:54 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:DeviceAdmin清除密码权限；禁止设置gps接口；（软件自测）
+
+commit 4e9576ebe4ba89f5d86b0a0ad4c399129e4b71b4
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 20 09:48:10 2018 +0800
+
+    [SQ52][UTE][Other][]: 工厂测试增加英文
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:工厂测试增加英文
+    
+    Commit Tools Version:ca2c4f7
+
+commit d61804ef3d21210bac2023897892eae3950a1dbc
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 19 10:20:30 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设备管理设置，“圆通移动管理”置灰
+
+commit d02168868550d395d4f2dc2ad54e0aa9d0b3c25d
+Merge: 1fd1217 42b11de
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 17:16:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1fd12177b205af899d2ac501b975f043445256ff
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 17:14:53 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_double_mic_test_device
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_double_mic_test_device
+    Description:add_double_mic_test_device
+    
+    Commit Tools Version:0be60f5
+
+commit 42b11de2c465766efb565ad08b39633d05f418ac
+Merge: 345284d 5183a5e
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 15 16:42:58 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 345284d1997fba4677c9a36b160a3218b5af595c
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 15 16:38:14 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复自动激活设备管理器失败问题（软件自测）
+
+commit 5183a5e87821971287e090139b30391078c49cc0
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 16:17:01 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_two_miac_acdb
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_two_mic_acdb
+    Description:add_two_miac_acdb
+    
+    Commit Tools Version:0be60f5
+
+commit 28d2810dca49ae9e2bcfba3910ad765f9e0edccb
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Jun 15 15:17:33 2018 +0800
+
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:工厂模式可以测试双mic
+
+commit b5e045b1752ea4bca36047364cf3b333a55b06a2
+Author: hetao <tao.he@urovo.com>
+Date:   Tue Jun 12 14:57:38 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD ææ新UI版本去除å¤重复耳机提示
+
+commit b18f9922b3069d25c3ce4a1ac813108e25e19759
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Jun 11 18:37:54 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:预装UUSystem应用
+
+commit eb0a54d2ecaf8cb7d729912d0339e4d2d4e8a7c7
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Sat Jun 9 11:37:55 2018 +0800
+
+    [SQ52T][XX][Scan][]: 修复6603扫描头概率性出光异常
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复6603扫描头概率性出光异常
+    
+    Commit Tools Version:ca2c4f7
+
+commit 1217860e18269641a6852fb3951a2d3a068bb582
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jun 9 11:08:29 2018 +0800
+
+    [ALL][XX][APP][]: 拨号盘搜索添加搜索通话记录功能
+    
+    Product:ALL
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:拨号盘搜索添加搜索通话记录功能
+    
+    Commit Tools Version:ca2c4f7
+commit ed4a9d27a38383364bdeaee11493c5eb772b5145
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jun 9 09:10:00 2018 +0800
+
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:orbbec深度摄像头设备默认USB权限（软件自测）
+****************************************************************************

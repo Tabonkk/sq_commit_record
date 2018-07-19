@@ -1,0 +1,87 @@
+serial number of this version: 0004
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-18:27~19:17
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-10:37~11:28
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5dfbe97<---5d08e69 )          
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9035d4b<---2f955d4 )          
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+
+commit 923228e4d090c6470a4a468289da9c9d760c1d0b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:40:11 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+commit 2f955d43bdd7ff4ce9dd2f341efb59c9f8189e5f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 17:14:45 2018 +0800
+
+    [SQ31T][XX][Other][]: WPH去掉应用中心
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:WPH去掉应用中心
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

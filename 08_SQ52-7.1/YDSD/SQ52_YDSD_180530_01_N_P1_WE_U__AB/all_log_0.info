@@ -1,0 +1,106 @@
+serial number of this version: 0030
+the previous command is: ./OS_Build7_8917.sh SQ52 YDSD N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-30-15:16~18:18
+the command of this build is: ./OS_Build7_8917.sh SQ52 YDSD N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-30-15:09~17:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d20ef39<---68c2948 )          
+commit d20ef39267dad6020b6f1f7f73caddf00ff9f2ae
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed May 9 13:52:31 2018 +0800
+
+    [SQ52][ALL][USB][]: reduce_usb_log
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:reduce_usb_log
+    Description:reduce_usb_log
+    
+    Commit Tools Version:0be60f5
+
+commit 582861256688745dee42a5d2741614d31ffab345
+Author: ShiXiaoKai <xiaokai.shi@urovo.com>
+Date:   Sat May 5 16:35:13 2018 +0800
+
+    [SQ52][XX][USB][]: add from yangguang
+    
+    Product:SQ52
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:add from yangguang
+    Description:add from yangguang
+    
+    Commit Tools Version:0be60f5
+
+commit 8850a4de75c78aa59849c0d8fbb3300b5711531f
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sun Apr 29 14:31:05 2018 +0800
+
+    [SQ52][ALL][Other][]: suppert_3d_camera
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:support_3d_camera
+    Description:suppert_3d_camera
+    
+    Commit Tools Version:de4e0fc
+
+commit 00e3c756a93ea78cfa1068f3ff562bd3e395b00b
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 18 15:38:08 2018 +0800
+
+    [SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Product:SQ52
+    Customer:XX
+    Module:Charge
+    Bug ID:
+    Key Word:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    Description:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Commit Tools Version:6119286
+
+commit ad875b69974d30fc4229da4a0dc33010d205d785
+Author: ShiXiaoKai <xiaokai.shi@urovo.com>
+Date:   Wed Apr 18 14:07:21 2018 +0800
+
+    [SQ52][XX][Other][]: 限制gpu最多频率，按阳工提供的修改
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:限制gpu最多频率，按阳工提供的修改
+    Description:限制gpu最多频率，按阳工提供的修改
+    
+    Commit Tools Version:0130143
+commit 68c294843f61dffc10d231517c3d1d84a79fbdf5
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Mar 12 15:11:36 2018 +0800
+
+    [SQ52][ALL][Charge][]: add charge curve
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:add charge curve
+    Description:add charge curve
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(48711e4<---d6205a9 )          
+
+
+****************************************************************************

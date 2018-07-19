@@ -1,0 +1,86 @@
+serial number of this version: 0128
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 05      UPDATE-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-12-18:15~18:15
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-13-15:52~18:38
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(af72198<---82b2945 )          
+commit af72198ebbc64ee4a439edc5154b9c538d3885e9
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Jan 12 16:33:14 2018 +0800
+
+    [SQ52][XX][TP][]: 合入宏发展最新tp固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:合入宏发展最新tp固件
+    Description:合入宏发展最新tp固件
+    
+    Commit Tools Version:140f12f
+commit 82b29457738fb0846712ec656897bf21942c6dbe
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Jan 8 21:59:23 2018 +0800
+
+    [SQ52][XX][Scan][]: 继续优化6601，内核更新
+    
+    Product:SQ52
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:继续优化6601，内核更新
+    Description:继续优化6601，内核更新
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(fd771fd<---cf64869 )          
+commit fd771fdb19ad88ad6b08369fad72462e271570fd
+Merge: cf64869 e316e35
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Jan 13 11:34:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e316e359186b21c6a886d66e6af61055ab9c99aa
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jan 13 10:26:54 2018 +0800
+
+    [SQ52][UTE][Other][]: UTE客户需求提交
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE客户需求提交
+    
+    Commit Tools Version:ea27ff4
+
+commit 21538d29e8359b2beddee06427395d5abed623a1
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Jan 12 10:56:20 2018 +0800
+
+    [SQ52][XX][APP][]: Camera 增加日志以分析问题（软件自测）
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:Camera 增加日志以分析问题（软件自测）
+    
+    Commit Tools Version:ea27ff4
+commit cf648695b6004843cd5308e110f79a9c0c46f034
+Merge: cb6e5dc 3fa27d0
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 10 14:52:31 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

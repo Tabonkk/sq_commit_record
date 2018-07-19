@@ -1,0 +1,69 @@
+serial number of this version: 0013
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-15-16:47~19:00
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-19-10:25~12:30
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(d61804e<---42b11de )          
+commit d61804ef3d21210bac2023897892eae3950a1dbc
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 19 10:20:30 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设备管理设置，“圆通移动管理”置灰
+
+commit d02168868550d395d4f2dc2ad54e0aa9d0b3c25d
+Merge: 1fd1217 42b11de
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 17:16:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1fd12177b205af899d2ac501b975f043445256ff
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 17:14:53 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_double_mic_test_device
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_double_mic_test_device
+    Description:add_double_mic_test_device
+    
+    Commit Tools Version:0be60f5
+commit 42b11de2c465766efb565ad08b39633d05f418ac
+Merge: 345284d 5183a5e
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 15 16:42:58 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

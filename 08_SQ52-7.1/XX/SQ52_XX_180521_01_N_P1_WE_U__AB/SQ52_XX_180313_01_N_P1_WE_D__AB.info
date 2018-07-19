@@ -1,0 +1,33 @@
+serial number of this version: 0151
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 02      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-12-23:06~01:53
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-13-02:14~04:54
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(2b506d2<---2b506d2 )          
+
+commit 2b506d2554fd5f55584ba10f975fdc94c196eaa2
+Merge: ee37797 5487b15
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Mar 12 12:09:28 2018 +0800
+
+    Merge branch 'kernel_8940' of 192.168.8.215:8917/Nougat/kernel into kernel_8940
+    
+    Conflicts:
+    	msm-3.18/arch/arm/boot/dts/qcom/msm8937-pinctrl.dtsi
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(d5f9cc1<---d5f9cc1 )          
+
+commit d5f9cc11c33876adb76c55c9c94574480919706b
+Merge: 4d23172 5de66a7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 12 23:04:17 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

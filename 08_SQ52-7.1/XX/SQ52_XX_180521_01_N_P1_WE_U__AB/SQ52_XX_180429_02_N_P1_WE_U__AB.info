@@ -1,0 +1,38 @@
+serial number of this version: 0160
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      FAST FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-29-14:51~15:52
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 02      ALL  FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-29-16:36~19:19
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(8850a4d<---8850a4d )          
+
+commit 8850a4de75c78aa59849c0d8fbb3300b5711531f
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sun Apr 29 14:31:05 2018 +0800
+
+    [SQ52][ALL][Other][]: suppert_3d_camera
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:support_3d_camera
+    Description:suppert_3d_camera
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(572cd83<---572cd83 )          
+
+commit 572cd83b533cadcc21849f3b7d1bff49ca8f2b88
+Merge: 5669a34 f230a29
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 29 14:50:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

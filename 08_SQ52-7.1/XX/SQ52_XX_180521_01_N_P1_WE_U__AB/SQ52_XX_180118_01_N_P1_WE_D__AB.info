@@ -1,0 +1,213 @@
+serial number of this version: 0130
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-15-10:30~13:53
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-18-03:00~05:39
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(af72198<---af72198 )          
+
+commit af72198ebbc64ee4a439edc5154b9c538d3885e9
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Jan 12 16:33:14 2018 +0800
+
+    [SQ52][XX][TP][]: 合入宏发展最新tp固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:合入宏发展最新tp固件
+    Description:合入宏发展最新tp固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(5671cce<---fd771fd )          
+commit 5671cce70773de2a064e75fe1f451c501b84b827
+Merge: feaaeb2 c58cfd4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 17 23:39:35 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c58cfd430f9f2db83b2bbcdf531b2c6864dba059
+Author: hechao <chao.he@urovo.com>
+Date:   Wed Jan 17 18:07:04 2018 +0800
+
+    [SQ52][XX][Other][]: 韵达速递需求定制
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:默认讯飞输入法
+    Description:韵达速递需求定制
+    
+    Commit Tools Version:d61bdd2
+
+commit 89f318edf52c27c26704cc8199a7c613bfceabec
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jan 17 17:49:59 2018 +0800
+
+    [SQ52][UTE][Other][]: UTE wifi only版本客户需求提交（软件自测）
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE wifi only版本客户需求提交（软件自测）
+    
+    Commit Tools Version:ea27ff4
+
+commit feaaeb23605c71940e9f3daca3b876c8a9aa1981
+Merge: 7808dd5 e918a2d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 17 17:19:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e918a2d7c7fbb09b0c3d9ee1efeaeda7cc9cc4eb
+Merge: e33962e ada530e
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Jan 17 14:10:34 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e33962ef8ffbac7cda3f4532c03957012915abc0
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Jan 17 14:07:17 2018 +0800
+
+    [SQ52][XX][Camera][]: 更新13M后摄pdaf头文件修正对焦问题；补充13M后摄的驱动和eeprom代码源文件，去除对应的so库文件，开始由源文件构建对应的so库文件
+    
+    Product:SQ52
+    Customer:XX
+    Module:Camera
+    Bug ID:
+    Key Word:更新13M后摄pdaf头文件修正对焦问题；补充13M后摄的驱动和eeprom代码源文件，去除对应的so库文件，开始由源文件构建对应的so库文件
+    Description:更新13M后摄pdaf头文件修正对焦问题；补充13M后摄的驱动和eeprom代码源文件，去除对应的so库文件，开始由源文件构建对应的so库文件
+    
+    Commit Tools Version:140f12f
+
+commit 7808dd58fb146377431a05c3c04fbfc93f6f00af
+Merge: 9461f1b ada530e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 17 13:38:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ada530ee397fe95ede79dd59cea0f0892a3fcdd4
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jan 17 12:21:46 2018 +0800
+
+    [SQ52][UTE][Other][]: UTE wifi only版本客户需求提交（软件自测）
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE wifi only版本客户需求提交（软件自测）
+    
+    Commit Tools Version:ea27ff4
+
+commit 9461f1b6c4b5d8b8beada2a294f69807db690178
+Merge: a98b2a6 914be0b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Jan 16 17:37:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 914be0bc87a29a870e1e4723782558e9f88dfa95
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Jan 16 16:09:49 2018 +0800
+
+    [SQ52][UTE][Other][]: UTE wifi only 版本提交
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE wifi only 版本提交
+    
+    Commit Tools Version:ea27ff4
+
+commit a98b2a66259c89a036e6d43701f82ac67a312368
+Merge: c96832b 2b0f876
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Jan 16 09:51:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2b0f876016f1256a1a58d395b5ef76588ea7638b
+Author: hechao <chao.he@urovo.com>
+Date:   Tue Jan 16 09:39:21 2018 +0800
+
+    [SQ52][XX][Other][]: 韵达速递需求定制
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:设置扫描模式键盘输出的勾选去掉
+    Description:韵达速递需求定制
+    
+    Commit Tools Version:d61bdd2
+
+commit 8091b5457e5f6fccb1dc541720993b9ab32197bc
+Author: hechao <chao.he@urovo.com>
+Date:   Tue Jan 16 09:28:19 2018 +0800
+
+    Revert "[SQ52][XX][Other][]: 韵达速递定制需求(1)"
+    
+    This reverts commit 6e5d36a1f45f58a2a449b5a7b6c938bff155289e.
+
+commit c96832bc66f102d8d4b38b98db3f801d688abea8
+Merge: fd771fd 8edc323
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jan 15 14:34:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8edc323a98e6305c805cab80e4be63d055345c17
+Author: hechao <chao.he@urovo.com>
+Date:   Mon Jan 15 14:18:56 2018 +0800
+
+    [SQ52][XX][Other][]: 韵达速递需求定制(2)
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:预装智能入法-讯飞
+    Description:韵达速递需求定制(2)
+    
+    Commit Tools Version:d61bdd2
+
+commit 6e5d36a1f45f58a2a449b5a7b6c938bff155289e
+Author: hechao <chao.he@urovo.com>
+Date:   Mon Jan 15 14:02:40 2018 +0800
+
+    [SQ52][XX][Other][]: 韵达速递定制需求(1)
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:设置扫描模式键盘输出的勾选去掉
+    Description:韵达速递定制需求(1)
+    
+    Commit Tools Version:d61bdd2
+commit fd771fdb19ad88ad6b08369fad72462e271570fd
+Merge: cf64869 e316e35
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Jan 13 11:34:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

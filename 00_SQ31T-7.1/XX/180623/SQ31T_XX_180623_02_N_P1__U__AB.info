@@ -1,0 +1,118 @@
+serial number of this version: 0020
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-23-09:47~10:37
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-23-17:23~18:14
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bb9641c<---173ceef )          
+commit bb9641c28b17583f3c1d7f16ce691bb4caac6053
+Merge: c2911e8 4f10a46
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 15:58:41 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit c2911e88b08d81bc3af7fec9c2f7189c69754fe3
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 15:57:18 2018 +0800
+
+    [SQ31T][XX][Other][]: 编译失败（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译失败（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 4f10a468f16ad5188cffe1cec83e6788818e22c1
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 15:37:12 2018 +0800
+
+    [SQ31T][WPH][Scan][]: ViewRootImpl监听焦点状态（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:ViewRootImpl监听焦点状态（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit beb7c1ed9b8333d605388a5451758b397e65b17f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 14:10:32 2018 +0800
+
+    [SQ31T][XX][Scan][]: 编译GMS应用（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:编译GMS应用（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 76f4997df504803b4c0dfc63c1a06cd65e2378cb
+Merge: 9cccddc 173ceef
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 10:25:13 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 9cccddcfe14ad2c8cc5dd0f2ae6454bee01d43c2
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 10:22:59 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：955扫描头开机出红点
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：955扫描头开机出红点
+    
+    Commit Tools Version:d6794eb
+commit 173ceefbc1a3624b5a40bd738dc846032ffca65d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 09:41:45 2018 +0800
+
+    [SQ31T][XX][APP][]: 增加GMS包，可编译英文版本
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:增加GMS包，可编译英文版本
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

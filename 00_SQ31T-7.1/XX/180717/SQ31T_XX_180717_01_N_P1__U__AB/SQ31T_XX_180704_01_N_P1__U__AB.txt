@@ -1,0 +1,13 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-04 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修改版本号 <wujinquan>
+增加FN图标 <wujinquan>
+合入FN切换功能 <wujinquan>
+modfy_audio_the_same_to_yufan <yangguang>
+更新通用版本按键映射文件（软件自测） <wujinquan>

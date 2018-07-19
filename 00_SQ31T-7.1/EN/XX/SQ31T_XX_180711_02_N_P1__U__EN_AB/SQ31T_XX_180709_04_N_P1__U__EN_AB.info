@@ -1,0 +1,46 @@
+serial number of this version: 0045
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-20:14~21:21
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 04      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-21:55~23:09
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(f3d2e79<---f3d2e79 )          
+
+commit f3d2e799249b21c4a9a9bb477609dd916bb2ce79
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:48:09 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3c82de9<---3c82de9 )          
+
+commit 3c82de962dc573ff6534e32c1a9e078b48766f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:28:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************

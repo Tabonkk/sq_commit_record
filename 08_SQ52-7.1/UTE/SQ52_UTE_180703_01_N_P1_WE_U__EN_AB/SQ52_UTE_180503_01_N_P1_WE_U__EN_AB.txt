@@ -1,0 +1,17 @@
+*************************************************************************
+SQ52_UTE_Nsigned
+编译日期：2018-05-03 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52][ALL][Other][]: suppert_3d_camera <yangguang>
+[SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。 <baixueyuan>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+support_3d_camera <yangguang>
+修复编译错误 <Rocky>
+YDSD 锁屏需求提交 <gouwei>
+6601扫描头添加返回条码类型标示值（软件验证） <Rocky>
+YDSD 锁屏需求提交 <gouwei>
+修改电池计算文件（软件自测） <gouwei>
+[SQ52][ALL][fingerprint]添加同面积录入和同手指录入提醒 <jiaxinxin>
+修改电池计算文件（软件自测） <gouwei>

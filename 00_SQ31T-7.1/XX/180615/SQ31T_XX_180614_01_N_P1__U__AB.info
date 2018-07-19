@@ -1,0 +1,149 @@
+serial number of this version: 0012
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-06-18:45~19:41
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-14-12:02~13:07
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d3f0c6c<---d3f0c6c )          
+
+commit d3f0c6c5224d75d343172e0d6b21540bf09658eb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jun 5 11:07:31 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_for_yufan_0604
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_for_yufan_0604
+    Description:patch_for_yufan_0604
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(2c34bb3<---a15d834 )          
+commit 2c34bb31a95b2ad4dee20997aa1c76a0fec30f4e
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Thu Jun 14 11:56:53 2018 +0800
+
+    [ALL][XX][UI][]: 文件漏传，编译报错
+    
+    Product:ALL
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:文件漏传，编译报错
+    
+    Commit Tools Version:94c45c6
+
+commit f2a92abc4ab46fc7924b7b268c2774fe49356977
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 14 11:37:16 2018 +0800
+
+    [SQ31T][XX][UI][]: 去除小部件中的“WLAN热点”
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:去除小部件中的“WLAN热点”
+    
+    Commit Tools Version:d6794eb
+
+commit 3f3ecb4d9473d1605424bdadee59820a0d716e0e
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jun 14 17:57:24 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0613
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0613
+    Description:patch_from_yufan_0613
+    
+    Commit Tools Version:0be60f5
+
+commit 6e33a8cfab8ceed097f5049ce5d359c3cfd4d366
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Wed Jun 13 17:39:23 2018 +0800
+
+    [ALL][XX][UI][]: OTA在线断电续传升级，偶现验证签名失败,整理当前应用
+    
+    Product:ALL
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:OTA在线断电续传升级，偶现验证签名失败,整理当前应用
+    
+    Commit Tools Version:94c45c6
+
+commit d0a27a0deeaeb2c962e65f06b27ca1d5049ff3c6
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jun 12 17:38:43 2018 +0800
+
+    [SQ31T][XX][Other][]: 解决问题：【6603】【4750DPM/SR/MR】扫描QR 10mil -20mil 条码，扫描头ANR
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:解决问题：【6603】【4750DPM/SR/MR】扫描QR 10mil -20mil 条码，扫描头ANR
+    
+    Commit Tools Version:d6794eb
+
+commit ed3d66078e67c96a3d15d1c221f04088167ff86e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 7 11:34:28 2018 +0800
+
+    [SQ31T][XX][UI][]:  设备状态中不用显示“自定义版本”这项
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description: 设备状态中不用显示“自定义版本”这项
+    
+    Commit Tools Version:d6794eb
+
+commit 746e9626fd49eec17502ad6d108d9fff96569b6a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 7 11:16:49 2018 +0800
+
+    [SQ31T][XX][UI][]: 删除：计算器->点击屏幕右上角的"菜单"图标,显示"开放源代码许可"菜单
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:删除：计算器->点击屏幕右上角的"菜单"图标,显示"开放源代码许可"菜单
+    
+    Commit Tools Version:d6794eb
+commit a15d834333234d85468d7a70166e0209c4d9131c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jun 6 16:02:41 2018 +0800
+
+    [SQ31T][XX][UI][]: 扫描头设置只保留斑马原库的“Postal codes”菜单
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:扫描头设置只保留斑马原库的“Postal codes”菜单
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

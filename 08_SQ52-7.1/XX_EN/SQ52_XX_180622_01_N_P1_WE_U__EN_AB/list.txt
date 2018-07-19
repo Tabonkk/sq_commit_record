@@ -1,0 +1,6 @@
+drwxrwxrwx   1 user     group           0 Jun 22 18:05 .
+drwxrwxrwx   1 user     group           0 Jun 22 18:05 ..
+-rw-rw-rw-   1 user     group        6052 May 29 12:12 SQ52_XX_180529_01_N_P1_WE_U__EN_AB.info
+-rw-rw-rw-   1 user     group         336 May 29 12:12 SQ52_XX_180529_01_N_P1_WE_U__EN_AB.txt
+-rw-rw-rw-   1 user     group        8638 Jun 22 18:05 SQ52_XX_180622_01_N_P1_WE_U__EN_AB.info
+-rw-rw-rw-   1 user     group         433 Jun 22 18:05 SQ52_XX_180622_01_N_P1_WE_U__EN_AB.txt

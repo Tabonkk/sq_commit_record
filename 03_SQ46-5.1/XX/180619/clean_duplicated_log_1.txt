@@ -1,0 +1,20 @@
+ *************************************************************************
+ SQ46_XX_Nsigned
+ 编译日期：2018-06-07 编译序号：02
+ 内核提交记录：
+ 未发现前一正式版本，使用前一编译版本
+ [SQ46][XX][Other][]: SQ46增加底座检测节点，充电支持F1唤醒 <xiaokai.shi>
+ 系统提交记录：
+ SQ46增加底座检测节点，充电支持F1唤醒 <xiaokai.shi>
+ 扫描头提交记录：
+
+ [ALL][XX][Scan][]: 修复6603 Enable checksum不生效 <DengTonglong>
+ 打印机提交记录：
+ 增加打印机精度调整，校准功能 <cb>
+ 编译日期：2018-06-19 编译序号：01
+ [SQ46][XX][USB][]: 底座电源和usb同时存在时电流1.25A，与46w保持一致 <xiaokai.shi>
+ [SQ46][XX][USB][]: 优化待机功耗 <xiaokai.shi>
+ XmlTools apk不显示在桌面 <wujinquan>
+ 编译失败（软件自测） <wujinquan>
+ 将扫描头设置相关也合入到Settings定制工具 <wujinquan>
+ [SQ42T][XX][Scan][]: 增加2100扫描头 <DengTonglong>

@@ -1,0 +1,292 @@
+serial number of this version: 0003
+the previous command is: ./OS_Build7_8917.sh SQ52 GEENK N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-11-10:33~12:31
+the command of this build is: ./OS_Build7_8917.sh SQ52 GEENK N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-15-19:06~21:03
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d20ef39<---d20ef39 )          
+
+commit d20ef39267dad6020b6f1f7f73caddf00ff9f2ae
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed May 9 13:52:31 2018 +0800
+
+    [SQ52][ALL][USB][]: reduce_usb_log
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:reduce_usb_log
+    Description:reduce_usb_log
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(8f8c54f<---d28584e )          
+commit 8f8c54f53e766a0ce2cf2d0fb1a5d08ae2274634
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue May 15 17:58:09 2018 +0800
+
+    [ALL][XX][Other][]: 横屏启动camera，预览界面异常bug修复
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:横屏启动camera，预览界面异常bug修复
+    
+    Commit Tools Version:d6794eb
+
+commit abe1a0cb2ee70c7c81f519fa005d70f95248aa58
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue May 15 16:49:04 2018 +0800
+
+    [SQ52][Other][APP][]: 韵达定制白名单功能接口
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:韵达定制白名单功能接口
+    
+    Commit Tools Version:f7b8ba2
+
+commit b39947adbfd7200d77ea8b4f662072b19f03523f
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 12:38:48 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误（软件自测）
+
+commit 0686163facca7349c2933967ce67938ae86b8251
+Merge: a4b2336 d761b8f
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 11:40:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a4b2336cf67e79e078a016061a607aa7e6f60308
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 11:33:52 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通应用vpn设置权限；设置为圆通应用为deviceowner；圆通定制接口（静默安装卸载，获取应用电量、内存）；
+
+commit d761b8f30acb18bb4d6c6161884becacf26ba59f
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 15 11:11:35 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本 修复后台控制WIFI开关错误提示问题
+
+commit baa02d753f7d21d2339a1c4f41493667814599bf
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon May 14 19:35:41 2018 +0800
+
+    [SQ52][Other][APP][]: 韵达定制白名单功能接口
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:韵达定制白名单功能接口
+    
+    Commit Tools Version:f7b8ba2
+
+commit 14d112ac684ad5ffa35fdeaa515c0fb13eaeb80a
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon May 14 18:13:26 2018 +0800
+
+    [SQ52][XX][APP][]: 修复不同设备连接电脑后出现adb devices命令获取到一样id 12344321
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:修复不同设备连接电脑后出现adb devices命令获取到一样id 12344321
+    
+    Commit Tools Version:f7b8ba2
+
+commit b08087b7249c342eb84443aa7d74c46b18f471fe
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 14 17:52:55 2018 +0800
+
+    [SQ52][YDSD][Other][]: YDSD白名单功能提交
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD白名单功能提交
+    
+    Commit Tools Version:d6794eb
+
+commit 70eea09a3d4832e240b19547a28e37cdf532f568
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon May 14 14:29:04 2018 +0800
+
+    [SQ52][XX][APP][]: 移除扫描设置中连续扫描选项
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:移除扫描设置中连续扫描选项
+    
+    Commit Tools Version:f7b8ba2
+
+commit f52b9b7cc91748b7d73661d61bc43d26fb7dfa3e
+Author: hetao <tao.he@urovo.com>
+Date:   Mon May 14 11:50:26 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本默认关闭蓝牙
+
+commit e9a4d0d5b3ee8492c49a3525210b37e32cf58737
+Author: hetao <tao.he@urovo.com>
+Date:   Sun May 13 18:45:07 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本修复双卡发送短信Crash问题
+
+commit 1e8be3dba9a1d991e4e988e54400c0ab97071dfc
+Merge: 60bc237 2ebf24d
+Author: hetao <tao.he@urovo.com>
+Date:   Sat May 12 16:01:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 60bc23780534164086b798e16d2ff9d0a534d2a3
+Author: hetao <tao.he@urovo.com>
+Date:   Sat May 12 15:59:53 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52Y YDSD UI版本修复通讯录保存联系人bug
+
+commit 2ebf24d936fd07b54703093d007accba31f643a5
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat May 12 09:58:42 2018 +0800
+
+    [SQ52][YDSD][Other][]: 更改默认解锁提示语
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更改默认解锁提示语
+    
+    Commit Tools Version:d6794eb
+
+commit 28b7e8c552e9560998f3128e68267bbdab49bd21
+Author: hetao <tao.he@urovo.com>
+Date:   Sat May 12 08:34:39 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD-UI版本，首次开机图案解锁界面默认提示语改为"默认Z"，设置电池使用量去除蓝牙显示，解决旧UI OTA升级到新UI上拉托盘多次点击报错问题
+
+commit 9af5de4e8cf731e8ecbcbfd02243608caa7f1666
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri May 11 17:39:34 2018 +0800
+
+    [ALL][XX][Other][]: 添加自定义NTP服务器地址功能
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:添加自定义NTP服务器地址功能
+    
+    Commit Tools Version:d6794eb
+
+commit 7d9c3369528456896011418ef18fc4f4ff3b0a42
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri May 11 16:23:52 2018 +0800
+
+    [SQ52][XX][UI][]: YTO定制更新	开机动画
+    
+    Product:SQ52
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:YTO定制更新	开机动画
+    
+    Commit Tools Version:94c45c6
+
+commit f96ae77ef40af191941880e2198012318c792997
+Merge: aa21136 d28584e
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri May 11 12:27:40 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit aa211361de8f1f33c50e1dbf720d42f6c823c64d
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri May 11 12:26:33 2018 +0800
+
+    [ALL][XX][UI][]: YTO添加开机Logo和开机动画
+    
+    Product:ALL
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:YTO添加开机Logo和开机动画
+    
+    Commit Tools Version:94c45c6
+commit d28584e4afd5fe3903165ddf9768ba9ca1b74f03
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri May 11 10:28:28 2018 +0800
+
+    [SQ52][GEENK][Other][]: GEENK定制广播切换扫描模式，型号改为GEENK_X8，扫描头广播改为com.geenk.action.GET_SCANDATA
+    
+    Product:SQ52
+    Customer:GEENK
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:GEENK定制广播切换扫描模式，型号改为GEENK_X8，扫描头广播改为com.geenk.action.GET_SCANDATA
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

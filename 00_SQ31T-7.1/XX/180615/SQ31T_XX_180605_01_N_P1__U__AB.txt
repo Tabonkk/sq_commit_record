@@ -1,0 +1,13 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-05 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_for_yufan_0604 <yangguang>
+[SQ31T][ALL][Battery][]: modfy_usb_charging_current <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+patch_for_yufan0604 <yangguang>
+修复6603 Enable checksum不生效 <DengTonglong>
+扫描头默认补光灯亮度默认为7 <wujinquan>
+修改签名显示为非签 <DengTonglong>

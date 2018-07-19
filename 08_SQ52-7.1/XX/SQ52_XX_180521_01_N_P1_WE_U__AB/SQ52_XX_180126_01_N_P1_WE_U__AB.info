@@ -1,0 +1,102 @@
+serial number of this version: 0133
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-24-16:09~19:24
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-26-09:51~13:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(6dc693f<---6dc693f )          
+
+commit 6dc693fad1da116c4ef905c9c771d21f978569ed
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Jan 24 15:38:47 2018 +0800
+
+    [SQ52][XX][USB][]: 高温充电截止温度更新为60度；支持手柄模式
+    
+    Product:SQ52
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:高温充电截止温度更新为60度；支持手柄模式
+    Description:高温充电截止温度更新为60度；支持手柄模式
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0fef115<---6591dbc )          
+commit 0fef1150e7b1bd59f4c4777a5fdf1da1acc3849d
+Merge: 07a0696 7ddee0b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 20:56:10 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7ddee0b98837bf5a3abb64909ecb0ef3c2b20592
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 25 18:02:03 2018 +0800
+
+    [SQ52][PRAX][Other][]: PRAX 客户需求提交
+    
+    Product:SQ52
+    Customer:PRAX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX 客户需求提交
+    
+    Commit Tools Version:c0be678
+
+commit 07a0696d7d8ee84c474e972d86011b1b86bb2df5
+Merge: f3586d3 4673a15
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 16:13:33 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4673a15ec4af3bcec3ccb50b07d5328071856f71
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 25 15:46:55 2018 +0800
+
+    [SQ52][PRAX][Other][]: PRAX客户需求提交
+    
+    Product:SQ52
+    Customer:PRAX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX客户需求提交
+    
+    Commit Tools Version:c0be678
+
+commit f3586d3a876afee7815da08a73e1edb4a332642a
+Merge: 6591dbc 6c284c4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 11:11:25 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6c284c40beffaeaec63ee7dfc028c6071e45be6f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jan 25 10:46:00 2018 +0800
+
+    [SQ52][PRAX][Other][]: PRAX 客户需求提交
+    
+    Product:SQ52
+    Customer:PRAX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX 客户需求提交
+    
+    Commit Tools Version:c0be678
+commit 6591dbc775e3931c7ff9ff078344943c137a31d9
+Merge: dad453b d327cee
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 24 16:07:48 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

@@ -1,0 +1,27 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-05-29 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Battery][]: modfy_usb_charging_current <yangguang>
+[SQ31T][ALL][Other][]: patch_from_yufan_kernel <yangguang>
+[SQ31T][ALL][Charge][]: modfy_charge_current <yangguang>
+[SQ31T][ALL][Charge][]: modfy_charge_current <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修改签名显示为非签 <DengTonglong>
+编入4750 dpm相关so库（软件自测） <wujinquan>
+连续扫描23小时扫描应用崩溃---(app bug): weak global reference table overflow (max=51200) <DengTonglong>
+add_gps_log <yangguang>
+4750扫描头合入dpm模式 <wujinquan>
+patch_from_yufan_0517 <yangguang>
+输入*#06#,增加显示meid <wujinquan>
+解决超高屏apk部分字符乱码 <wujinquan>
+移除连续扫描设置项 <DengTonglong>
+增加超高频应用ScanLable源码(软件自测) <DengTonglong>
+解决问题：从“下载”中安转某些应用，“安装”icon灰化，无法正常安装应用程序 <wujinquan>
+连接上WiFi时显示“已连接，但无法访问互联网” <wujinquan>
+修改OTA升级方式 <liqianbo>
+Honeywell更新了6603扫描头库，解决空扫概率性不出光 <DengTonglong>
+修复【6603】扫描头不能扫描“Australian Post”和“Japanese Post” <DengTonglong>
+增加按键映射 <DengTonglong>

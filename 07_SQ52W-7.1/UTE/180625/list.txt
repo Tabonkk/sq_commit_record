@@ -1,0 +1,12 @@
+drwxrwxrwx   1 user     group           0 Jun 25 17:09 .
+drwxrwxrwx   1 user     group           0 Jun 25 17:09 ..
+-rw-rw-rw-   1 user     group        2544 Jun  8 18:39 SQ52W_UTE_180608_01_N_P1_WE_U__EN_AB.info
+-rw-rw-rw-   1 user     group         292 Jun  8 18:39 SQ52W_UTE_180608_01_N_P1_WE_U__EN_AB.txt
+-rw-rw-rw-   1 user     group        1603 Jun 13 13:21 SQ52W_UTE_180613_01_S_P1_WE_U__EN_AB.info
+-rw-rw-rw-   1 user     group         285 Jun 13 13:21 SQ52W_UTE_180613_01_S_P1_WE_U__EN_AB.txt
+-rw-rw-rw-   1 user     group       45712 Jun 14 17:44 SQ52W_UTE_180614_01_N_P1_WE_U__EN_AB.info
+-rw-rw-rw-   1 user     group         346 Jun 14 17:44 SQ52W_UTE_180614_01_N_P1_WE_U__EN_AB.txt
+-rw-rw-rw-   1 user     group        7499 Jun 25 13:25 SQ52W_UTE_180625_01_N_P1_WE_U__EN_AB.info
+-rw-rw-rw-   1 user     group         429 Jun 25 13:25 SQ52W_UTE_180625_01_N_P1_WE_U__EN_AB.txt
+-rw-rw-rw-   1 user     group        1525 Jun 25 17:09 SQ52W_UTE_180625_02_N_P1_WE_U__EN_AB.info
+-rw-rw-rw-   1 user     group         292 Jun 25 17:09 SQ52W_UTE_180625_02_N_P1_WE_U__EN_AB.txt

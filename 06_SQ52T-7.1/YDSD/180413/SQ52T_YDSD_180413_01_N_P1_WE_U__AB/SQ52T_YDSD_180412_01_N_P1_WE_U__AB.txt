@@ -1,0 +1,13 @@
+*************************************************************************
+SQ52T_YDSD_Nsigned
+编译日期：2018-04-12 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52T][ALL][Scan]调整6603扫描头导致的休眠功耗高问题 <jiaxinxin>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52T][ALL][Camera]修改高像前摄效果编译错误 <jiaxinxin>
+[SQ52T][ALL][Camera]更新高像效果参数 <jiaxinxin>
+[SQ52T][ALL][fingerprint]指纹识别库拷贝 <jiaxinxin>
+[SQ52T][ALL][fingerprint]更新指纹识别库文件 <jiaxinxin>
+更新音频效果文件 <baixueyuan>

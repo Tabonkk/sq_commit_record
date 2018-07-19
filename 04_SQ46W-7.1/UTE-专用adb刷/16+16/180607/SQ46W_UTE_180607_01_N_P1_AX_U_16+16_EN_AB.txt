@@ -1,0 +1,10 @@
+*************************************************************************
+SQ46W_UTE_Nsigned
+编译日期：0607 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+更改编译文件（软件自测） <wujinquan>
+删除Installer V1.2.93_unsigned；AirPlaneModeOff-unsigned；OSInstaller V1.1.3_unsigned ； U2-R70； <wujinquan>

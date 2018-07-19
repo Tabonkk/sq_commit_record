@@ -1,0 +1,231 @@
+serial number of this version: 0004
+the previous command is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL 8+16   /               
+Build time:2017-12-22-21:07~22:57
+the command of this build is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL 8+16   /               
+Build time:2017-12-23-13:13~15:02
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(c211066<---c211066 )          
+
+commit c2110669e6e249394dce0b4bc4e1de436cc10c78
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Dec 22 17:45:08 2017 +0800
+
+    [SQ46W][XX][Battery][]: 软件自测-合入SQ46中PWV_PCT_HOT25_COLD70_ADCMAP adcmap相关内容
+    
+    Product:SQ46W
+    Customer:XX
+    Module:Battery
+    Bug ID:
+    Key Word:软件自测-合入SQ46中PWV_PCT_HOT25_COLD70_ADCMAP adcmap相关内容
+    Description:软件自测-合入SQ46中PWV_PCT_HOT25_COLD70_ADCMAP adcmap相关内容
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(c57dc1e<---58029b0 )          
+commit c57dc1ec2735f1c0d6a4f64a04228d78b8e5e655
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Dec 23 13:06:19 2017 +0800
+
+    Product:SQ46W
+    Customer:XX
+    Module:LED
+    Bug ID:
+    Key Word:
+    Description:修复指示灯问题（软件自测）
+commit 58029b031b8f71d6998ae4a114c9c5ed3e0ddf98
+Merge: 9f2722b 241b469
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Dec 22 20:36:15 2017 +0800
+
+    Merge branches 'master' and 'master' of 192.168.8.215:8916/Nougat7.1/Nougat7.1
+****************************************************************************
+serial number of this version: 0004
+the previous command is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP false P1 AX i9000S  server   RD-ALL 16+16  /               
+Build time:2018-05-18-11:51~13:18
+the command of this build is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL /      /               
+Build time:2018-06-05-20:24~22:16
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(da6651a<---6495793 )          
+
+
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(302dd16<---061e180 )          
+commit 302dd1637b8d3eba573097cf3ec7f81e6748449a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jun 5 17:42:19 2018 +0800
+
+    [SQ46W][UTE][APP][]: 删除Installer V1.2.93_unsigned；AirPlaneModeOff-unsigned；OSInstaller V1.1.3_unsigned ； U2-R70；
+    
+    Product:SQ46W
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:删除Installer V1.2.93_unsigned；AirPlaneModeOff-unsigned；OSInstaller V1.1.3_unsigned ； U2-R70；
+    
+    Commit Tools Version:d6794eb
+
+commit a0038a34e465235eb8e0e0a378115df33cd2c474
+Merge: 5f1aa10 a0b1e07
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 4 14:53:11 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8916/Nougat7.1/Nougat7.1
+
+commit 5f1aa10a3fb3b0ae090894a7b3fdf9c32d0c3205
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 4 14:37:26 2018 +0800
+
+    [SQ46W][JANAM][UI][]: JANAM定制:1,内核版本号第二行改为@Linux #15  2，版本号显示为“10.01A1-”+日期 3， 更改扫描demo对话框里的显示为：Aim device at barcode and hold either scan button，4，在打电话的时候默认为免提模式 ，  5、扫描头设置显示在桌面 ，6、U2-R70 app改为BTS-01 Connect
+    
+    Product:SQ46W
+    Customer:JANAM
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:JANAM定制:1,内核版本号第二行改为@Linux #15  2，版本号显示为“10.01A1-”+日期 3， 更改扫描demo对话框里的显示为：Aim device at barcode and hold either scan button，4，在打电话的时候默认为免提模式 ，  5、扫描头设置显示在桌面 ，6、U2-R70 app改为BTS-01 Connect
+    
+    Commit Tools Version:d6794eb
+
+commit a0b1e078c327a76f30b3167914343c76b26dc44b
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 1 12:57:30 2018 +0800
+
+    [SQ46W][XX][APP][]: 设备连接电脑后，允许第三方app启动打开USB连接模式选项界面，同时移除android.permission.MANAGE_USB系统权限检查(软件验证)
+    
+    Product:SQ46W
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:设备连接电脑后，允许第三方app启动打开USB连接模式选项界面，同时移除android.permission.MANAGE_USB系统权限检查(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+commit 061e180ad3093e34d966010c88f5968ce634a0e0
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Apr 24 16:27:49 2018 +0800
+
+    [SQ46W][XX][Other][]: 配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。
+    
+    Product:SQ46W
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。
+    Description:配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。
+    
+    Commit Tools Version:6119286
+****************************************************************************
+serial number of this version: 0005
+the previous command is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL 8+16   /               
+Build time:2017-12-23-13:13~15:02
+the command of this build is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL 8+16   /               
+Build time:2017-12-26-17:31~19:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(c211066<---c211066 )          
+
+commit c2110669e6e249394dce0b4bc4e1de436cc10c78
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Dec 22 17:45:08 2017 +0800
+
+    [SQ46W][XX][Battery][]: 软件自测-合入SQ46中PWV_PCT_HOT25_COLD70_ADCMAP adcmap相关内容
+    
+    Product:SQ46W
+    Customer:XX
+    Module:Battery
+    Bug ID:
+    Key Word:软件自测-合入SQ46中PWV_PCT_HOT25_COLD70_ADCMAP adcmap相关内容
+    Description:软件自测-合入SQ46中PWV_PCT_HOT25_COLD70_ADCMAP adcmap相关内容
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9d8fb97<---c57dc1e )          
+commit 9d8fb973ae2d1edae801344228787f7b4268e5e8
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Dec 26 17:07:08 2017 +0800
+
+    [SQ46W][XX][Other][]: 软件自测-更新sepolicy中qcomsysd-diag_device在chr_file上的权限
+    
+    Product:SQ46W
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:软件自测-更新sepolicy中qcomsysd-diag_device在chr_file上的权限
+    Description:软件自测-更新sepolicy中qcomsysd-diag_device在chr_file上的权限
+    
+    Commit Tools Version:140f12f
+commit c57dc1ec2735f1c0d6a4f64a04228d78b8e5e655
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Dec 23 13:06:19 2017 +0800
+
+    Product:SQ46W
+    Customer:XX
+    Module:LED
+    Bug ID:
+    Key Word:
+    Description:修复指示灯问题（软件自测）
+****************************************************************************
+serial number of this version: 0005
+the previous command is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL /      /               
+Build time:2018-06-05-20:24~22:16
+the command of this build is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL 16+16  /               
+Build time:2018-06-07-18:09~19:35
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(6495793<---da6651a )          
+
+
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(5ec013a<---302dd16 )          
+commit 5ec013a998984ddd526574847fca77cfbe2f2db6
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jun 6 15:26:34 2018 +0800
+
+    [SQ46W][XX][Other][]: 更改编译文件（软件自测）
+    
+    Product:SQ46W
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更改编译文件（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 302dd1637b8d3eba573097cf3ec7f81e6748449a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jun 5 17:42:19 2018 +0800
+
+    [SQ46W][UTE][APP][]: 删除Installer V1.2.93_unsigned；AirPlaneModeOff-unsigned；OSInstaller V1.1.3_unsigned ； U2-R70；
+    
+    Product:SQ46W
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:删除Installer V1.2.93_unsigned；AirPlaneModeOff-unsigned；OSInstaller V1.1.3_unsigned ； U2-R70；
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

@@ -1,0 +1,106 @@
+serial number of this version: 0055
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-12-16:53~19:11
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-13-18:58~21:02
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bc8149e<---08b4eab )          
+commit bc8149e2a174addbb22f9f47124b1ac070430504
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 16:19:51 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 UTE dmi接口定制
+
+commit c77264550b0371a25c55f920b55ab5c2e9e2e1ee
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 16:09:52 2018 +0800
+
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 XX 检测不到指纹设备时，设置中影藏“安全-指纹”和“建议-使用指纹”
+
+commit c19506e19f5cdb64ce36b15bfbfba25a7c61cd85
+Merge: 4a369c3 2de399c
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 11:45:13 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2de399cf373be42583d4cb82500ae1906cef97b9
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 12 20:30:45 2018 +0800
+
+    [SQ52][UTE][APP][]: UTE　UTEWO定制OTA可以访问他们自己的服务器。检查新流程，优先访问我司正式服务器，再访问UTE服务器，同时服务地址设置只显示UTE的
+    
+    Product:SQ52
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:UTE　UTEWO定制OTA可以访问他们自己的服务器。检查新流程，优先访问我司正式服务器，再访问UTE服务器，同时服务地址设置只显示UTE的
+    
+    Commit Tools Version:b445fe7
+
+commit 4a369c3f22a9c570f402e63d994d889c108b5398
+Merge: 591d47a 08b4eab
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Jul 12 16:09:28 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 591d47ad08de972dad390ae707b3e75bad36e80a
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Jul 12 16:07:25 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 默认挂壁拨号按键音
+commit 08b4eaba0d50727d0d73d594d2000aba83e7aec9
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Thu Jul 12 16:07:40 2018 +0800
+
+    [ALL][XX][Other][]: SQ52 YTO OTA升级重启后，关闭拨号盘按键声音
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 YTO OTA升级重启后，关闭拨号盘按键声音
+    
+    Commit Tools Version:94c45c6
+****************************************************************************

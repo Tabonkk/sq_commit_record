@@ -1,0 +1,58 @@
+serial number of this version: 0157
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-19-00:12~03:35
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-19-17:45~20:57
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(00e3c75<---00e3c75 )          
+
+commit 00e3c756a93ea78cfa1068f3ff562bd3e395b00b
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 18 15:38:08 2018 +0800
+
+    [SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Product:SQ52
+    Customer:XX
+    Module:Charge
+    Bug ID:
+    Key Word:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    Description:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Commit Tools Version:6119286
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(8c138e0<---1e5be74 )          
+commit 8c138e01f6eb4397d82e037f21257e3cf40568bf
+Merge: 1e5be74 7879964
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 19 17:43:47 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7879964c64ac22178bf2c5864427a76a61752c23
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Apr 19 16:57:49 2018 +0800
+
+    [ALL][XX][Power][]: 调整系统硬件耗电量的profile文件，原来的根本不能用
+    
+    Product:ALL
+    Customer:XX
+    Module:Power
+    Bug ID:
+    Key Word:
+    Description:调整系统硬件耗电量的profile文件，原来的根本不能用
+    
+    Commit Tools Version:0be60f5
+commit 1e5be74b715cb65700dd36e219e518705d45b800
+Merge: 1a5dc13 7a07bfd
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 18 17:35:27 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

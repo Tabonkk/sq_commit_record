@@ -1,0 +1,117 @@
+serial number of this version: 0145
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-07-10:20~13:08
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-08-15:00~18:28
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(45ad459<---45ad459 )          
+
+commit 45ad4595863b64604ac079aac60654f3a2efe8a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:03:51 2018 +0800
+
+    [SQ52][XX][TP][]: 更新华视1供煜烨TP固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:更新华视1供煜烨TP固件
+    Description:更新华视1供煜烨TP固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ac39f19<---bc6741d )          
+commit ac39f19c6a7c8fdc8a80f72f3757ea86362fbb35
+Merge: 0643e64 a295fe3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 8 14:59:22 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a295fe32297927664c7548cf54908b77a6549983
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Mar 8 11:10:07 2018 +0800
+
+    [SQ52T][XX][Other][]: SQ52T上层修改
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T上层修改
+    
+    Commit Tools Version:e77912a
+
+commit 0643e64b9e7569e38220c6484e2e9e300badbf09
+Merge: 73654a3 4e68540
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 8 10:11:30 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4e68540b56703685e98fe357dc71cc289eee1800
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Mar 7 21:30:49 2018 +0800
+
+    [SQ52][XX][Scan][]: 更新ia100s解码库，解决扫描RSS码,不能识别条码名称，引起异常
+    
+    Product:SQ52
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:更新ia100s解码库，解决扫描RSS码,不能识别条码名称，引起异常
+    
+    Commit Tools Version:f7b8ba2
+
+commit 73654a37d4db8f272144fa04c4ce9c0ab8df2f87
+Merge: bc6741d a645a53
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 7 17:10:05 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a645a533fb1397650ebee40c14451d10c6e14240
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 7 15:24:30 2018 +0800
+
+    [ALL][XX][Other][]: 添加双签名
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:添加双签名
+    
+    Commit Tools Version:5cfde53
+
+commit 8476d9f8c96c82a905daf6652e9b744782c6849c
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 7 11:37:55 2018 +0800
+
+    [SQ52][YDSD][Other][]: YDSD更换输入法为搜狗输入法
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD更换输入法为搜狗输入法
+    
+    Commit Tools Version:d2eac4b
+commit bc6741d657d9c14ddd221048183423b342ab9a40
+Merge: 5d9b85c a0a2f9d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 7 10:18:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

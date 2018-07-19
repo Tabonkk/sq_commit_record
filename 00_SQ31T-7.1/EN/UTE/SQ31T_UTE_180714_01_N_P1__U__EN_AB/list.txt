@@ -1,0 +1,12 @@
+drwxrwxrwx   1 user     group           0 Jul 14 16:41 .
+drwxrwxrwx   1 user     group           0 Jul 14 16:41 ..
+-rw-rw-rw-   1 user     group        1734 Jul 10 16:14 SQ31T_UTE_180710_01_N_P1__U__EN_AB.info
+-rw-rw-rw-   1 user     group         377 Jul 10 16:14 SQ31T_UTE_180710_01_N_P1__U__EN_AB.txt
+-rw-rw-rw-   1 user     group        2612 Jul 10 18:21 SQ31T_UTE_180710_02_N_P1__U__EN_AB.info
+-rw-rw-rw-   1 user     group         504 Jul 10 18:21 SQ31T_UTE_180710_02_N_P1__U__EN_AB.txt
+-rw-rw-rw-   1 user     group        2658 Jul 11 18:46 SQ31T_UTE_180711_01_N_P1__U__EN_AB.info
+-rw-rw-rw-   1 user     group         511 Jul 11 18:46 SQ31T_UTE_180711_01_N_P1__U__EN_AB.txt
+-rw-rw-rw-   1 user     group        2238 Jul 13 12:41 SQ31T_UTE_180713_01_N_P1__U__EN_AB.info
+-rw-rw-rw-   1 user     group         437 Jul 13 12:41 SQ31T_UTE_180713_01_N_P1__U__EN_AB.txt
+-rw-rw-rw-   1 user     group        3168 Jul 14 16:41 SQ31T_UTE_180714_01_N_P1__U__EN_AB.info
+-rw-rw-rw-   1 user     group         566 Jul 14 16:41 SQ31T_UTE_180714_01_N_P1__U__EN_AB.txt

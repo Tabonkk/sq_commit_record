@@ -1,0 +1,46 @@
+serial number of this version: 0043
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-10:58~12:02
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-16:22~17:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(c17524f<---c17524f )          
+
+commit c17524f75b7023a2f681f4340489e910a8bcfa01
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 9 10:52:58 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

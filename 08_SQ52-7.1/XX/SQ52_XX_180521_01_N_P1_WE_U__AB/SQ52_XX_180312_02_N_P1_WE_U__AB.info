@@ -1,0 +1,53 @@
+serial number of this version: 0150
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-12-16:32~19:38
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 02      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-12-23:06~01:53
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(2b506d2<---2b506d2 )          
+
+commit 2b506d2554fd5f55584ba10f975fdc94c196eaa2
+Merge: ee37797 5487b15
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Mar 12 12:09:28 2018 +0800
+
+    Merge branch 'kernel_8940' of 192.168.8.215:8917/Nougat/kernel into kernel_8940
+    
+    Conflicts:
+    	msm-3.18/arch/arm/boot/dts/qcom/msm8937-pinctrl.dtsi
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(d5f9cc1<---4d23172 )          
+commit d5f9cc11c33876adb76c55c9c94574480919706b
+Merge: 4d23172 5de66a7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 12 23:04:17 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5de66a715d52a0b122aae9495ca1d9505b448c13
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Mar 12 17:48:34 2018 +0800
+
+    [ALL][XX][UI][]: OTA添加升级注意事项
+    
+    Product:ALL
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:OTA添加升级注意事项
+    
+    Commit Tools Version:94c45c6
+commit 4d231720ed3c596f3c58e6b68e36f1092e231bb4
+Merge: f386338 62712a4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 12 16:29:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

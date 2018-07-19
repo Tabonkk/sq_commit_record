@@ -1,0 +1,16 @@
+ [SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+ 设置wifi选项显示成WLAN，解决：下载apk安装置灰 <wujinquan>
+ 海外版本去掉超高屏应用，蓝牙名字和设备型号一致 <wujinquan>
+ [SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function <jiaxinxin>
+ 海外版浏览器使用Chrome <wujinquan>
+ 海外版去掉触宝输入法apk <wujinquan>
+ 海外版本型号改为V5100 <wujinquan>
+ WPH去掉应用中心 <wujinquan>
+ [SQ31T][ALL][Other][]: patch_from_yufan_0629 <yangguang>
+ 更新IntentApp apk <wujinquan>
+ patch_from_yufan_0629 <yangguang>
+ [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+ 更新应用中心 <wujinquan>
+ patch_from_yufan_for_no_scankey <yangguang>
+ 解决：连续扫描出光慢 <wujinquan>
+ 更新按键映射表，解决扫描键无效的问题 <wujinquan>

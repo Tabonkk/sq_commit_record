@@ -1,0 +1,124 @@
+serial number of this version: 0025
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-15-17:02~19:00
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-16-11:30~13:27
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(079adb1<---abe1a0c )          
+commit 079adb1466947309ddbe2c530b9e689f755762f4
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed May 16 11:27:10 2018 +0800
+
+    [SQ52][YDSD][Other][]: 韵达定制白名单功能接口
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:韵达定制白名单功能接口
+    
+    Commit Tools Version:d6794eb
+
+commit bffbd936bb5eea530b1bfdb00378c0ec9684d0c9
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 21:21:24 2018 +0800
+
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:扫描设置增加扫描手柄设置选项
+
+commit 1d379b3a75b4b4b65c256a1b5f2b4a364f2fe7be
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 21:09:41 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设置为圆通应用为deviceowner
+
+commit 8f8c54f53e766a0ce2cf2d0fb1a5d08ae2274634
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue May 15 17:58:09 2018 +0800
+
+    [ALL][XX][Other][]: 横屏启动camera，预览界面异常bug修复
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:横屏启动camera，预览界面异常bug修复
+    
+    Commit Tools Version:d6794eb
+commit abe1a0cb2ee70c7c81f519fa005d70f95248aa58
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue May 15 16:49:04 2018 +0800
+
+    [SQ52][Other][APP][]: 韵达定制白名单功能接口
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:韵达定制白名单功能接口
+    
+    Commit Tools Version:f7b8ba2
+****************************************************************************
+serial number of this version: 0025
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-09-12:50~14:55
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-11-15:36~17:44
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(eb0a54d<---eb0a54d )          
+
+commit eb0a54d2ecaf8cb7d729912d0339e4d2d4e8a7c7
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Sat Jun 9 11:37:55 2018 +0800
+
+    [SQ52T][XX][Scan][]: 修复6603扫描头概率性出光异常
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复6603扫描头概率性出光异常
+    
+    Commit Tools Version:ca2c4f7
+****************************************************************************

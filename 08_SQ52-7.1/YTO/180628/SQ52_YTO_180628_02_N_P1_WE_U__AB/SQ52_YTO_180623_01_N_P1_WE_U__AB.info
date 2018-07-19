@@ -1,0 +1,66 @@
+serial number of this version: 0017
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-22-14:38~15:15
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-23-11:38~13:43
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(a3045a4<---3ac21f2 )          
+commit a3045a49c5c54d4607e26799a1a8a66ac7484ef3
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jun 23 10:51:02 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通移动管理DevicePolicyManagerService权限问题（软件自测）
+
+commit 9a9fd53cbb80292002ba17551f846a96f2108539
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 22 15:55:51 2018 +0800
+
+    [SQ52W][ALL][Wifi][]: add_wifi_config
+    
+    Product:SQ52W
+    Customer:ALL
+    Module:Wifi
+    Bug ID:
+    Key Word:add_wifi_config
+    Description:add_wifi_config
+    
+    Commit Tools Version:0be60f5
+commit 3ac21f28302e0d279f02d836374fec4434fe128d
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 22 14:35:11 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通管理应用admindevice权限问题（软件自测）
+****************************************************************************

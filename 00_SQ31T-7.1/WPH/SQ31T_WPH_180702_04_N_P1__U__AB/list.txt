@@ -1,0 +1,16 @@
+drwxrwxrwx   1 user     group           0 Jul  2 23:25 .
+drwxrwxrwx   1 user     group           0 Jul  2 23:25 ..
+-rw-rw-rw-   1 user     group        5058 Jun 29 17:17 SQ31T_WPH_180629_01_N_P1__U__AB.info
+-rw-rw-rw-   1 user     group         910 Jun 29 17:17 SQ31T_WPH_180629_01_N_P1__U__AB.txt
+-rw-rw-rw-   1 user     group        2305 Jun 29 19:17 SQ31T_WPH_180629_02_N_P1__U__AB.info
+-rw-rw-rw-   1 user     group         466 Jun 29 19:17 SQ31T_WPH_180629_02_N_P1__U__AB.txt
+-rw-rw-rw-   1 user     group        2939 Jun 30 11:28 SQ31T_WPH_180630_01_N_P1__U__AB.info
+-rw-rw-rw-   1 user     group         514 Jun 30 11:28 SQ31T_WPH_180630_01_N_P1__U__AB.txt
+-rw-rw-rw-   1 user     group        3603 Jul  2 15:33 SQ31T_WPH_180702_01_N_P1__U__AB.info
+-rw-rw-rw-   1 user     group         591 Jul  2 15:33 SQ31T_WPH_180702_01_N_P1__U__AB.txt
+-rw-rw-rw-   1 user     group        2544 Jul  2 19:16 SQ31T_WPH_180702_02_N_P1__U__AB.info
+-rw-rw-rw-   1 user     group         467 Jul  2 19:16 SQ31T_WPH_180702_02_N_P1__U__AB.txt
+-rw-rw-rw-   1 user     group        2336 Jul  2 21:32 SQ31T_WPH_180702_03_N_P1__U__AB.info
+-rw-rw-rw-   1 user     group         482 Jul  2 21:32 SQ31T_WPH_180702_03_N_P1__U__AB.txt
+-rw-rw-rw-   1 user     group        2382 Jul  2 23:25 SQ31T_WPH_180702_04_N_P1__U__AB.info
+-rw-rw-rw-   1 user     group         506 Jul  2 23:25 SQ31T_WPH_180702_04_N_P1__U__AB.txt

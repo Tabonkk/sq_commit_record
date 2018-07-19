@@ -1,0 +1,103 @@
+serial number of this version: 0062
+the previous command is: ./OS_Build51.sh SQ46 XX  N 01      ALL-O FTP false P1 WE i9000S  server   RD-ALL 16+8   /               
+Build time:2018-06-07-11:13~11:53
+the command of this build is: ./OS_Build51.sh SQ46 XX  N 02      ALL-O FTP false P1 WE i9000S  server   RD-ALL 16+8   /               
+Build time:2018-06-07-17:01~17:45
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(2299fca<---2299fca )          
+
+commit 2299fcaecc677643724d541dc04cebdba6a7792f
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Mon Jun 4 16:10:31 2018 +0800
+
+    [SQ46][XX][Other][]: SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:SQ46增加底座检测节点，充电支持F1唤醒
+    Description:SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b9dc9b0<---dfb92fb )          
+commit b9dc9b0867f3b76c932fd1356f13ace4643526fc
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Thu Jun 7 16:29:42 2018 +0800
+
+    [SQ46][XX][Other][]: SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Commit Tools Version:d6794eb
+
+commit cb5c67a3c745c4966e0aa9011739bf52943470a7
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jun 7 14:51:35 2018 +0800
+
+    [SQ27TE][Other][APP][]: CCB撤销提交 建行临时提交编译中间版本给客户升级内置app
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:CCB撤销提交 建行临时提交编译中间版本给客户升级内置app
+    
+    Commit Tools Version:f7b8ba2
+commit dfb92fb8f5376eda2770e0a8ce15a2209fcca2ae
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 6 16:50:45 2018 +0800
+
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:奥比3D摄像头（0x2BC5）默认USB权限（软件自测）
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: 9be8715                                                         
+                   扫描头修改点(9be8715<---9be8715 )          
+
+commit 9be87153eccbd2fba3b4f8b6823bb9267ad17156
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Wed Jun 6 19:29:39 2018 +0800
+
+    [ALL][XX][Scan][]: 修复6603 Enable checksum不生效
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复6603 Enable checksum不生效
+    
+    Commit Tools Version:ca2c4f7
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: a525f52                                                         
+                   打印机修改点(a525f52<---a525f52 )          
+
+commit a525f52a44199aca7e7e7cb8e7e46957e884b892
+Author: cb <bin.chen@urovo.com>
+Date:   Thu May 24 16:20:17 2018 +0800
+
+    增加打印机精度调整，校准功能
+****************************************************************************

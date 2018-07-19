@@ -1,0 +1,33 @@
+serial number of this version: 0161
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 02      ALL  FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-29-16:36~19:19
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-30-23:33~01:27
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(8850a4d<---8850a4d )          
+
+commit 8850a4de75c78aa59849c0d8fbb3300b5711531f
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sun Apr 29 14:31:05 2018 +0800
+
+    [SQ52][ALL][Other][]: suppert_3d_camera
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:support_3d_camera
+    Description:suppert_3d_camera
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f230a29<---572cd83 )          
+
+
+****************************************************************************

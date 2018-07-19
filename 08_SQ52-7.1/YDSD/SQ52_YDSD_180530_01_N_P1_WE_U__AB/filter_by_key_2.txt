@@ -1,0 +1,6 @@
+ [SQ52][ALL][USB][]: reduce_usb_log <yangguang>
+ [SQ52][XX][USB][]: add from yangguang <ShiXiaoKai>
+ [SQ52][ALL][Other][]: suppert_3d_camera <yangguang>
+ [SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。 <baixueyuan>
+ [SQ52][XX][Other][]: 限制gpu最多频率，按阳工提供的修改 <ShiXiaoKai>
+ [SQ52][ALL][Charge][]: add charge curve <yangguang>

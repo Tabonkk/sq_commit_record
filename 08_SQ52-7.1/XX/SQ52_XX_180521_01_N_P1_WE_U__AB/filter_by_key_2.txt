@@ -1,0 +1,87 @@
+ [SQ52][XX][Scan][]: 继续优化6601，内核更新 <baixueyuan>
+ [SQ52][XX][TP][]: 合入宏发展最新tp固件 <baixueyuan>
+ UTE客户需求提交 <gouwei>
+ 韵达速递需求定制 <hechao>
+ 更新13M后摄pdaf头文件修正对焦问题；补充13M后摄的驱动和eeprom代码源文件，去除对应的so库文件，开始由源文件构建对应的so库文件 <baixueyuan>
+ UTE wifi only 版本提交 <gouwei>
+ 韵达速递需求定制(2) <hechao>
+ 韵达速递定制需求(1) <hechao>
+ [SQ52][XX][Other][]: 切换华视tp一供固件为25channel <baixueyuan>
+ UTE 通话功能缺失 <gouwei>
+ 设置中添加音量+-+-++--进入工厂测试 <gouwei>
+ PRAX 客户需求提交 <gouwei>
+ [SQ52][XX][USB][]: 高温充电截止温度更新为60度；支持手柄模式 <baixueyuan>
+ 支持手柄模式扫码 <baixueyuan>
+ OTA添加log信息 <liqianbo>
+ PRAX客户需求提交 <gouwei>
+ [SQ52][XX][TP][]: 更新华视1供煜烨TP固件 <baixueyuan>
+ 添加手柄模式需要的keylayout文件usbid_scankey.kl <baixueyuan>
+ 合入武盼盼更新的Bluetooth_cal.acdb文件 <baixueyuan>
+ 韵达指定的APK下载完成之后无法安装 <hechao>
+ PRAX 新增预置wifi功能导致工厂测试sim卡测试中提示设置停止运行bug修复 <gouwei>
+ PRAX测试提出问题修改 <gouwei>
+ 将android5.1平台上的最新的6603的so库文件libHHPScanInterface.so和libHSMDecoderAPI.so同步到SQ52-android7.1 <baixueyuan>
+ A100S扫描头更新lib库解决扫码有前缀问题 <gouwei>
+ 内置条码扫描器　更新解码库解决解码QR码输出000026的问题 <Rocky>
+ 添加获取rom id，流量使用情况接口 <gouwei>
+ 1.6603的capture_start_scanning返回值修正 2.关闭KeyguardConstants.java中的DEBUG，阻止不断打印TIME-TICK信息 <baixueyuan>
+ 重命名并上传SQ52和SQ52W的wifi固件文件 <baixueyuan>
+ 更新userdata分区大小以兼容KMQE60013M-B318/Samsung <baixueyuan>
+ YDSD开关机动画开机logo提交 <gouwei>
+ 更新ia100s解码库，解决扫描RSS码,不能识别条码名称，引起异常 <Rocky>
+ 添加双签名 <gouwei>
+ YDSD更换输入法为搜狗输入法 <gouwei>
+ [SQ52][XX][KEY][]: 更新8940相关dtsi，支持gpio keys <baixueyuan>
+ [SQ52][XX][TP][]: 合入美格提供的TP和LCD的patch，成功进入android系统主界面 <baixueyuan>
+ [SQ52][XX][Camera]添加s5k5和s5k3，6603配置 <jiaxinxin>
+ ydsd去掉music <gouwei>
+ 1.开机后首页下面的Dock栏需要显示5个图标，且点图标之后要启动对应的app（电话、通讯录、短信、浏览器、相机） <gouwei>
+ [SQ52][XX][LED][]: 系统运行充电双色LED，扫描双色LED支持 <baixueyuan>
+ 更改电池状态为8 9,引起的电池信息中显示未知的问题 <gouwei>
+ SQ52T更新系统证书。目前SQ52T设备全部使用urovo生成证书key,SQ52 PDA签名版urovo key,非签版本使用google默认（暂时不能更换） <Rocky>
+ 添加clouddesktop app <gouwei>
+ 扫描头模块添加进下进系统白名单，防止内存不足时被杀死 <gouwei>
+ OTA添加升级注意事项 <liqianbo>
+ [SQ52][ALL][Charge][]: add charge curve <yangguang>
+ 1.添加文件replace机制，在构建版本前，根据UROVO_PRODUCT的定义，拷贝相应的文件到指定位置。当前修改，目标文件是vendor/qcom/proprietary/sensors/dsps/reg_defaults/sensor_def_qcomdev.conf。2.修改6603HAL的capture.cpp,完善异常分支处理。 <baixueyuan>
+ 定制销售样机，界面添加水印　展示样机，不可商用，同时应用独立系统证书，不能刷其它非签正常版本OS <Rocky>
+ 更新GSM <hechao>
+ 圆通定制广播输出方式 <Rocky>
+ 圆通定制提交默认关闭键盘模式 <gouwei>
+ 韵达定制，规避云桌面服务内存吃紧时被系统关闭 <Rocky>
+ 签名版本更新双签名验证方案，ftp目录下RD/DeviceManager-endc.apk可验证安装 <Rocky>
+ 修复某些移动卡iccid带字母的SIM卡，iccid被截断的问题 <Rocky>
+ 6603扫描头设置中去掉取景模式为sub image的选项 <gouwei>
+ 支持非签名版OS可以升级到签名版OS，但是不支持签名版OS升级到非签名版OS <baixueyuan>
+ YDSD 先去掉云桌面 <gouwei>
+ UTE 需求wifi连接时不显示信号类型图标，可以关闭两张sim卡 <gouwei>
+ 设置应用里面不能操作云桌面 <gouwei>
+ 设置中不能禁用云桌面 <gouwei>
+ 添加云桌面 <gouwei>
+ [SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。 <baixueyuan>
+ [SQ52][XX][Other][]: 限制gpu最多频率，按阳工提供的修改 <ShiXiaoKai>
+ 配合阳广优化设置中电量使用情况中蓝牙的电量消耗 <gouwei>
+ 配合阳广做省电优化，默认锁屏时间为30秒，锁屏界面灭屏时间为5秒，CPU调频策略优化 <gouwei>
+ UTE 客户需求提交 <gouwei>
+ UTE使用独立定制证书，升级后允许UTE版本升级普通版本互刷 <Rocky>
+ YDSD 开发者选项中正在运行的服务选项置灰 <gouwei>
+ 韵达定制更新APP <Rocky>
+ 所有项目关机温度设置为80度，YDSD默认关闭USB调试，并设置为禁用 <gouwei>
+ 韵达SQ52T暂时移除第三方手机UI，恢复android原生UI <Rocky>
+ 更新韵达应用中心V1.2.18.0412，暂时移除第三方手机UI，恢复android原生UI <Rocky>
+ 老化测试扫描头一直出光扫码问题修复 <gouwei>
+ YD 需求隐藏系统升级，同时提供接口app可以打开系统升级并且如有升级包，强制升级 <gouwei>
+ MEID 只显示一个 <gouwei>
+ 桌面图标布局更改 <gouwei>
+ N6603添加Convert upc-a to ean-13 <Rocky>
+ 调整系统硬件耗电量的profile文件，原来的根本不能用 <gouwei>
+ ro.product.manufacturer显示Unitech，apk内置AutoExec需系统签名 <Rocky>
+ [SQ52T][XX][Charge][]: 合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。 <baixueyuan>
+ YDSD 锁屏需求提交 <gouwei>
+ [SQ52][ALL][Other][]: suppert_3d_camera <yangguang>
+ support_3d_camera <yangguang>
+ [SQ52][ALL][fingerprint]添加同面积录入和同手指录入提醒 <jiaxinxin>
+ [SQ52][XX][USB][]: add from yangguang <ShiXiaoKai>
+ add from yangguang <ShiXiaoKai>
+ 1.Open USB port for user-build 2. revert committed changes for "No command" before <baixueyuan>
+ [SQ52][ALL][USB][]: reduce_usb_log <yangguang>

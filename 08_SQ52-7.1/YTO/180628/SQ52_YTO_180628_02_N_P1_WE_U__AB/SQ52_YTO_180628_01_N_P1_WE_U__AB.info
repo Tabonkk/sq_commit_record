@@ -1,0 +1,62 @@
+serial number of this version: 0023
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-27-20:47~22:48
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-28-15:00~17:01
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(a7dfdae<---802d680 )          
+commit a7dfdae764a6965a26c9d34771670e3a76b50df1
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 28 14:55:39 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:默认打开wifi
+
+commit ae50ecf33321071c1b541f5baa111727bc5e7375
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Jun 28 00:53:34 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI 版 移除单手解锁模式，将管理员解锁模式移动到图案、数字解锁界面
+commit 802d680386774788717020ae66578798bbd9d926
+Author: hetao <tao.he@urovo.com>
+Date:   Wed Jun 27 17:57:56 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本，优化 录屏应用
+****************************************************************************

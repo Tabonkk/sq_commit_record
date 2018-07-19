@@ -1,0 +1,38 @@
+serial number of this version: 0118
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 02      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-10-14:53~18:13
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-11-14:59~18:25
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(82b2945<---82b2945 )          
+
+commit 82b29457738fb0846712ec656897bf21942c6dbe
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Jan 8 21:59:23 2018 +0800
+
+    [SQ52][XX][Scan][]: 继续优化6601，内核更新
+    
+    Product:SQ52
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:继续优化6601，内核更新
+    Description:继续优化6601，内核更新
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(cf64869<---cf64869 )          
+
+commit cf648695b6004843cd5308e110f79a9c0c46f034
+Merge: cb6e5dc 3fa27d0
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 10 14:52:31 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

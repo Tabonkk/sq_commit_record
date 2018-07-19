@@ -1,0 +1,68 @@
+serial number of this version: 0051
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-11-09:21~10:29
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /                      
+Build time:2018-05-14-15:14~16:36
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(0064146<---d0a1c5f )          
+commit 0064146626ce99d2987fecf859f494a2fc344dd4
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon May 14 11:46:03 2018 +0800
+
+    [SQ31T][ALL][Charge][]: modfy_charge_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:modfy_charge_current
+    Description:modfy_charge_current
+    
+    Commit Tools Version:0be60f5
+commit d0a1c5fd5875c725b2deb99c428903f2904e73fd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:12:56 2018 +0800
+
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(d333745<---4b28b5b )          
+commit d3337458902c6e447fb46514b29bfb821d1ba823
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon May 14 14:27:25 2018 +0800
+
+    [ALL][XX][Other][]: 修改OTA升级方式
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改OTA升级方式
+    
+    Commit Tools Version:94c45c6
+commit 4b28b5b93bedb60200dda905fbb94b4ca73bc7df
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Thu May 10 20:41:25 2018 +0800
+
+    [SQ31T][XX][Scan][]: Honeywell更新了6603扫描头库，解决空扫概率性不出光
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:Honeywell更新了6603扫描头库，解决空扫概率性不出光
+    
+    Commit Tools Version:0130143
+****************************************************************************

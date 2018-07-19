@@ -1,0 +1,87 @@
+serial number of this version: 0008
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-21-11:21~13:20
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-21-16:35~18:34
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ad54640<---8929627 )          
+commit ad5464065063ae3308112bed5828a4bef44d1c99
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 16:34:03 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 编译错误（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译错误（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 8cd795b8d4a8ed9ec1dacab21de02912c3059a10
+Merge: d645c9b 753beae
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon May 21 14:47:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d645c9b855f5f1bb1abd4b46d76dc1de4a9dddd0
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon May 21 14:44:32 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_acdb
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_acdb
+    Description:add_acdb
+    
+    Commit Tools Version:0be60f5
+
+commit 753beae4900c1d8c87c00fcf4742d0b236f853f0
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 14:35:27 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD白名单定制（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD白名单定制（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 8929627f10632f0375cb62bbc8c34632038da5ac
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 11:09:10 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD白名单定制（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD白名单定制（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

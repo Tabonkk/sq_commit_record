@@ -1,0 +1,13 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-02 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+[SQ31T][ALL][Other][]: patch_from_yufan_0629 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+更新通用版本按键映射文件（软件自测） <wujinquan>
+解决：连续扫描出光慢 <wujinquan>
+更新按键映射表，解决扫描键无效的问题 <wujinquan>
+patch_from_yufan_for_no_scankey <yangguang>

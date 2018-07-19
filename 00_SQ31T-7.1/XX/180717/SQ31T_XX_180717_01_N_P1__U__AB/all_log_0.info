@@ -1,0 +1,1472 @@
+serial number of this version: 0025
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-26-11:47~12:42
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-28-11:43~12:54
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0577adf<---7ee5947 )          
+commit 0577adf27a0af438052ee9ed139f164840ce2345
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Jun 28 11:08:56 2018 +0800
+
+    [SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function
+commit 7ee594723afc8bac95fcc6783f0e85c06d56b0bf
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jun 26 11:03:46 2018 +0800
+
+    [SQ31T][XX][APP][]: 海外版浏览器使用Chrome
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外版浏览器使用Chrome
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0026
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-28-11:43~12:54
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-28-13:53~15:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0577adf<---0577adf )          
+
+commit 0577adf27a0af438052ee9ed139f164840ce2345
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Jun 28 11:08:56 2018 +0800
+
+    [SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function
+****************************************************************************
+serial number of this version: 0028
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-15:54~17:12
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-13:03~14:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5dfbe97<---5d08e69 )          
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9035d4b<---bf5845d )          
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+
+commit 923228e4d090c6470a4a468289da9c9d760c1d0b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:40:11 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+
+commit 2f955d43bdd7ff4ce9dd2f341efb59c9f8189e5f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 17:14:45 2018 +0800
+
+    [SQ31T][XX][Other][]: WPH去掉应用中心
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:WPH去掉应用中心
+    
+    Commit Tools Version:d6794eb
+commit bf5845d97baeddee4ea78e3c50ce7ee3e6bf5610
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 18:06:34 2018 +0800
+
+    [SQ31T][XX][UI][]: 设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0029
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-13:03~14:00
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-14:25~15:37
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5dfbe97<---5dfbe97 )          
+
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9035d4b<---9035d4b )          
+
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0030
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-14:25~15:37
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-23:48~00:38
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---5dfbe97 )          
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ac0be4c<---9035d4b )          
+commit ac0be4c727dff4b81a4e65df509a9fcce095ab69
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 22:32:53 2018 +0800
+
+    [SQ31T][XX][KEY][]: 更新通用版本按键映射文件（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:更新通用版本按键映射文件（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit b9647889afc48cd7c7cfaa7b2e6e0d7016992895
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 20:32:13 2018 +0800
+
+    [SQ31T][WPH][KEY][]: 恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 91673be6a6fc27c0a537ffb6022d982e834c54d5
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 17:59:43 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决：连续扫描出光慢
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决：连续扫描出光慢
+    
+    Commit Tools Version:d6794eb
+
+commit bd9ced10baf2f3508ae36ff7d4671e0040a6a7b4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 16:58:10 2018 +0800
+
+    [SQ31T][XX][KEY][]: 更新按键映射表，解决扫描键无效的问题
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:更新按键映射表，解决扫描键无效的问题
+    
+    Commit Tools Version:d6794eb
+
+commit 3741d663916a96ff839ecd91f9bb9ddcf4837ed7
+Merge: 256ab8a 70bbe28
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:33:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 256ab8a00f03f4d7aa778699f24d10e669d6fb44
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:31:18 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新应用中心
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新应用中心
+    
+    Commit Tools Version:d6794eb
+
+commit 70bbe28dba66df26837714da524c774ec268873d
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:22:45 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+
+commit 1dd4d6d8cfbc6c693e6ee1bf27739fbf979b200e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:05:43 2018 +0800
+
+    [SQ31T][WPH][KEY][]: 解决：唯品会按键定制不生效（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:解决：唯品会按键定制不生效（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0031
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-23:48~00:38
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-04-18:21~19:15
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(c292b50<---ac0be4c )          
+commit c292b500d1bc706f4a55d1b59ed31cef82cca1f8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 18:02:35 2018 +0800
+
+    [SQ31T][XX][Other][]: 修改版本号
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改版本号
+    
+    Commit Tools Version:d6794eb
+
+commit 460d0c318d11d67c86cf0f8b0c399ac14fb0e70f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 15:06:58 2018 +0800
+
+    [SQ31T][XX][KEY][]: 增加FN图标
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:增加FN图标
+    
+    Commit Tools Version:d6794eb
+
+commit 9c8d445aab0651ea325b6e75e232f972c04c80be
+Merge: 4e61ae6 ef5ad3c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 14:03:27 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 4e61ae6a857df4480440d17a9b70f5c09f8c1936
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 14:01:18 2018 +0800
+
+    [SQ31T][XX][KEY][]: 合入FN切换功能
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:合入FN切换功能
+    
+    Commit Tools Version:d6794eb
+
+commit ef5ad3c6443c52548c8c4259614acb29b000079c
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jul 3 19:22:21 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_audio_the_same_to_yufan
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_audio_the_same_to_yufan
+    Description:modfy_audio_the_same_to_yufan
+    
+    Commit Tools Version:0be60f5
+commit ac0be4c727dff4b81a4e65df509a9fcce095ab69
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 22:32:53 2018 +0800
+
+    [SQ31T][XX][KEY][]: 更新通用版本按键映射文件（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:更新通用版本按键映射文件（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0032
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-04-18:21~19:15
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-04-20:12~21:15
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(c292b50<---c292b50 )          
+
+commit c292b500d1bc706f4a55d1b59ed31cef82cca1f8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 18:02:35 2018 +0800
+
+    [SQ31T][XX][Other][]: 修改版本号
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改版本号
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0034
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL  PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-05-20:46~21:40
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-09:28~10:33
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(4acd53a<---4acd53a )          
+
+commit 4acd53ad261e61428e0378c4f3f4151d791a71d1
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 5 19:33:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: deleted_modem_image
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:deleted_modem_image
+    Description:deleted_modem_image
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0035
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-09:28~10:33
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-11:02~12:07
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(4acd53a<---4acd53a )          
+
+commit 4acd53ad261e61428e0378c4f3f4151d791a71d1
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 5 19:33:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: deleted_modem_image
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:deleted_modem_image
+    Description:deleted_modem_image
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0036
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-11:02~12:07
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-14:58~15:51
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(4acd53a<---4acd53a )          
+
+commit 4acd53ad261e61428e0378c4f3f4151d791a71d1
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 5 19:33:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: deleted_modem_image
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:deleted_modem_image
+    Description:deleted_modem_image
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0038
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 04      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-16:01~16:52
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 05      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-17:15~18:07
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f2b1970<---f2b1970 )          
+
+commit f2b19706032d5212ff4a8273ceefa999ac9ddc3f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 15:55:13 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0039
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 05      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-17:15~18:07
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 06      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-19:12~20:04
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(629e3fc<---f2b1970 )          
+commit 629e3fc8af47a18ae0381b6202a9270eb98261d4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 19:07:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit f2b19706032d5212ff4a8273ceefa999ac9ddc3f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 15:55:13 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0040
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 06      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-19:12~20:04
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-07-10:48~11:28
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(817dcf8<---629e3fc )          
+commit 817dcf80ba33899cbca191b943429f218d543eb7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:45:55 2018 +0800
+
+    [SQ31T][XX][Factory][]: 修改予凡工厂测试FN键（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:修改予凡工厂测试FN键（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 1c80dd9778b19998cd7fa47bb20bc5de0793a56c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:11:01 2018 +0800
+
+    [SQ31T][XX][UI][]: 版本号区分内存和存储大小
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:版本号区分内存和存储大小
+    
+    Commit Tools Version:d6794eb
+
+commit 5efa45106ddd6b638990dd371ff339886b5f85e8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:09:20 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：添加用户后并立即设置新用户，设备提示：6601扫描头已停止运行
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：添加用户后并立即设置新用户，设备提示：6601扫描头已停止运行
+    
+    Commit Tools Version:d6794eb
+
+commit 90f436d98f46fc3dd7a0b7c16bc2bac7cc37fb1d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:04:57 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：【6603】扫描demo界面，操作scan键，不出光（红光和白光),可解码
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：【6603】扫描demo界面，操作scan键，不出光（红光和白光),可解码
+    
+    Commit Tools Version:d6794eb
+
+commit 950d2a44bd77ef46e410f4cbeeb6e0b2a91290e8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:00:32 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：*#1261*#中切换扫描头类型，设备提示：扫描头高级设置停止运行
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：*#1261*#中切换扫描头类型，设备提示：扫描头高级设置停止运行
+    
+    Commit Tools Version:d6794eb
+commit 629e3fc8af47a18ae0381b6202a9270eb98261d4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 19:07:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0041
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-07-10:48~11:28
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-07-12:39~13:29
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(2b0062b<---817dcf8 )          
+commit 2b0062b2c40fd63d991dc59baf3afefa8433d36d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 12:18:40 2018 +0800
+
+    [SQ31T][XX][UI][]: 修复版本号
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:修复版本号
+    
+    Commit Tools Version:d6794eb
+commit 817dcf80ba33899cbca191b943429f218d543eb7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:45:55 2018 +0800
+
+    [SQ31T][XX][Factory][]: 修改予凡工厂测试FN键（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:修改予凡工厂测试FN键（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0044
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-16:22~17:21
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-20:14~21:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(f3d2e79<---35c7e49 )          
+commit f3d2e799249b21c4a9a9bb477609dd916bb2ce79
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:48:09 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3c82de9<---c17524f )          
+commit 3c82de962dc573ff6534e32c1a9e078b48766f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:28:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+commit c17524f75b7023a2f681f4340489e910a8bcfa01
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 9 10:52:58 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0046
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 04      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-21:55~23:09
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-10-17:52~18:59
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---f3d2e79 )          
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+commit f3d2e799249b21c4a9a9bb477609dd916bb2ce79
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:48:09 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(7d2b914<---3c82de9 )          
+commit 7d2b914b7789e206575c3b70588b1e3f910e465f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 17:18:38 2018 +0800
+
+    [SQ31T][XX][KEY][]: 修复问题：合入补丁导致扫描键失效
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:修复问题：合入补丁导致扫描键失效
+    
+    Commit Tools Version:d6794eb
+
+commit bca576d933bd798a9270be75cda1dc6f22dec74e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 15:05:02 2018 +0800
+
+    [SQ31T][UTE][UI][]: HT510定制划分到UTE
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:HT510定制划分到UTE
+    
+    Commit Tools Version:d6794eb
+
+commit de21f44696454fc3f8989aef3230fa03d143cbad
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 14:22:51 2018 +0800
+
+    [SQ31T][XX][KEY][]: b611-HT510  定制虚拟按键补丁适配
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:b611-HT510  定制虚拟按键补丁适配
+    
+    Commit Tools Version:d6794eb
+
+commit 1e3ab3220994f8f916ec28bddc6eedcaf8aabb5b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jul 10 10:07:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+commit 3c82de962dc573ff6534e32c1a9e078b48766f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:28:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0049
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-19:15~20:18
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-20:18~21:24
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(e962fa2<---e962fa2 )          
+
+commit e962fa2a82cd73ee8ee424aaad175ace5c7a35e1
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 11 17:42:38 2018 +0800
+
+    [SQ31T][UTE][UI][]: UTE定制型号改为HT510
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:UTE定制型号改为HT510
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0050
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-20:18~21:24
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-13-15:08~16:13
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f6561b8<---e962fa2 )          
+commit f6561b8c54b78a00a60b08a5ca4a9127a9ec2c85
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 13 11:37:21 2018 +0800
+
+    [SQ31T][UTE][KEY][]: FN模式下，使用UTE定制键值
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:FN模式下，使用UTE定制键值
+    
+    Commit Tools Version:d6794eb
+commit e962fa2a82cd73ee8ee424aaad175ace5c7a35e1
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 11 17:42:38 2018 +0800
+
+    [SQ31T][UTE][UI][]: UTE定制型号改为HT510
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:UTE定制型号改为HT510
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0051
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-13-15:08~16:13
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-D 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-16-11:47~12:41
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(94e77eb<---f6561b8 )          
+commit 94e77ebaae57e0cdf8d7a90dcd9c6af038823eea
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 23:04:58 2018 +0800
+
+    [SQ31T][WPH][Scan][]: 开缓存时延时150ms（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:开缓存时延时150ms（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 3b143b676b47f81e48d826936adfd2fe8bc9548e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 14:28:09 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新应用中心（解决无法调用MTK文件管理器）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新应用中心（解决无法调用MTK文件管理器）
+    
+    Commit Tools Version:d6794eb
+
+commit 8dcb959d5aa706ba776357c682dc352548dec4cc
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 14:14:53 2018 +0800
+
+    [SQ31T][XX][UI][]: 只有国内通用版本才合入超高频apk
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:只有国内通用版本才合入超高频apk
+    
+    Commit Tools Version:d6794eb
+
+commit 25aa38cf44fcd64890b1e39d7d57976abcbff72a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 14:00:50 2018 +0800
+
+    [SQ31T][XX][UI][]: 解决问题：1，工厂测试led乱跳，2，将wifi改为WLAN  2，系统升级界面不正确
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：1，工厂测试led乱跳，2，将wifi改为WLAN  2，系统升级界面不正确
+    
+    Commit Tools Version:d6794eb
+commit f6561b8c54b78a00a60b08a5ca4a9127a9ec2c85
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 13 11:37:21 2018 +0800
+
+    [SQ31T][UTE][KEY][]: FN模式下，使用UTE定制键值
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:FN模式下，使用UTE定制键值
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0052
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-D 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-16-11:47~12:41
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-D 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-16-13:55~14:48
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(94e77eb<---94e77eb )          
+
+commit 94e77ebaae57e0cdf8d7a90dcd9c6af038823eea
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 23:04:58 2018 +0800
+
+    [SQ31T][WPH][Scan][]: 开缓存时延时150ms（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:开缓存时延时150ms（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0053
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-D 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-16-13:55~14:48
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-17-13:53~14:41
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(94e77eb<---94e77eb )          
+
+commit 94e77ebaae57e0cdf8d7a90dcd9c6af038823eea
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 23:04:58 2018 +0800
+
+    [SQ31T][WPH][Scan][]: 开缓存时延时150ms（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:开缓存时延时150ms（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

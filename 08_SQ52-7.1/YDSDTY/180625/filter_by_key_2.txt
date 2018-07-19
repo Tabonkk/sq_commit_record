@@ -1,0 +1,10 @@
+ [SQ52][ALL][USB][]: improve_usb_drive_power <yangguang>
+ model name 改为 M7(M) <gouwei>
+ 修复6603 Enable checksum不生效 <DengTonglong>
+ YTO定制型号修改为I6310B <liqianbo>
+ OTA在线断电续传升级，偶现验证签名失败 <liqianbo>
+ 海外版本默认英文 <gouwei>
+ 韵达速递通用版本提交，扫描头默认不勾选键盘，开机动画，型号改为M7 <gouwei>
+ 显示蓝牙耗电量，电量显示情况更改百分比策略 <gouwei>
+ 工厂测试增加英文 <gouwei>
+ 拨号盘搜索添加搜索通话记录功能 <gouwei>

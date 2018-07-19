@@ -1,0 +1,6 @@
+ [SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+ 工厂测试更改唯品会按键测试 <wujinquan>
+ 修改*#06#标题，区分MEID和IMEI <wujinquan>
+ 支持*#1261*#多次选择 <DengTonglong>
+ 解决问题：955扫描头开机出红点 <wujinquan>
+ 增加GMS包，可编译英文版本 <wujinquan>

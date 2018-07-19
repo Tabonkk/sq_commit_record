@@ -1,0 +1,46 @@
+serial number of this version: 0016
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-22-09:11~10:02
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-D 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-22-09:13~10:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(1f945d9<---1f945d9 )          
+
+commit 1f945d9c4a9637518d27fc3df7f5b78cd6839e80
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 22 09:07:32 2018 +0800
+
+    [SQ31T][XX][Factory][]: 工厂测试更改唯品会按键测试
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:工厂测试更改唯品会按键测试
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

@@ -1,0 +1,27 @@
+*************************************************************************
+SQ52_XX_Nsigned
+编译日期：2018-04-01 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52][ALL][Charge][]: add charge curve <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+定制销售样机，界面添加水印　展示样机，不可商用，同时应用独立系统证书，不能刷其它非签正常版本OS <Rocky>
+YDSD 获取流量使用情况接口更新（软件自测） <gouwei>
+回退 修改SQ42T签名证书，临时出个版本给SOTI认证用（软件验证） <Rocky>
+UTE修改SQ52签名证书，临时出个版本给SOTI认证用（软件验证） <Rocky>
+修改SQ51签名证书，临时出个版本给SOTI认证用（软件验证） <Rocky>
+更新GSM <hechao>
+圆通定制广播输出方式 <Rocky>
+圆通定制提交默认关闭键盘模式 <gouwei>
+YDSD 接口更新（软件自测） <gouwei>
+韵达定制，规避云桌面服务内存吃紧时被系统关闭 <Rocky>
+签名版本更新双签名验证方案，ftp目录下RD/DeviceManager-endc.apk可验证安装 <Rocky>
+修复某些移动卡iccid带字母的SIM卡，iccid被截断的问题 <Rocky>
+6603扫描头设置中去掉取景模式为sub image的选项 <gouwei>
+支持非签名版OS可以升级到签名版OS，但是不支持签名版OS升级到非签名版OS <baixueyuan>
+去掉调试log（软件自测） <gouwei>
+YDSD 先去掉云桌面 <gouwei>
+YDSD 接口无效问题修复（软件自测） <gouwei>
+YDSD接口提交（软件验证） <gouwei>
+UTE 需求wifi连接时不显示信号类型图标，可以关闭两张sim卡 <gouwei>

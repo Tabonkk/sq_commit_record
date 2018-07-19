@@ -1,0 +1,601 @@
+serial number of this version: 0002
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-D 01      ALL-O FTP true P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-23-16:01~16:58
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-16:17~17:17
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bf5845d<---bb9641c )          
+commit bf5845d97baeddee4ea78e3c50ce7ee3e6bf5610
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 18:06:34 2018 +0800
+
+    [SQ31T][XX][UI][]: 设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Commit Tools Version:d6794eb
+
+commit e3c4b3e85ea5977fd41d41f35e8dfd9e7e5b0adf
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 17:24:02 2018 +0800
+
+    [SQ31T][XX][BT][]: 海外版本去掉超高屏应用，蓝牙名字和设备型号一致
+    
+    Product:SQ31T
+    Customer:XX
+    Module:BT
+    Bug ID:
+    Key Word:
+    Description:海外版本去掉超高屏应用，蓝牙名字和设备型号一致
+    
+    Commit Tools Version:d6794eb
+
+commit 6bcdec65589f320500dded24a7c6832e4dcd4773
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 13:52:00 2018 +0800
+
+    [SQ31T][XX][Other][]: DeviceManagerService实现reboot，shutdown等接口（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:DeviceManagerService实现reboot，shutdown等接口（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 0577adf27a0af438052ee9ed139f164840ce2345
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Jun 28 11:08:56 2018 +0800
+
+    [SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function
+
+commit 7ee594723afc8bac95fcc6783f0e85c06d56b0bf
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jun 26 11:03:46 2018 +0800
+
+    [SQ31T][XX][APP][]: 海外版浏览器使用Chrome
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外版浏览器使用Chrome
+    
+    Commit Tools Version:d6794eb
+
+commit 21477874ca47cdeb038dfcafe3a104c77c93604d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 18:50:08 2018 +0800
+
+    [SQ31T][XX][APP][]: 解决GMs编译问题（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:解决GMs编译问题（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 9f2a7441b229e1823ce7666c858ce09ae5f2149b
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 18:12:58 2018 +0800
+
+    [SQ31T][XX][APP][]: 增加WebViewGoogle apk（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:增加WebViewGoogle apk（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit c8b873454c97d68dacca183610ce2b3812c6e5fa
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 16:11:36 2018 +0800
+
+    [SQ31T][XX][APP][]: 海外版去掉触宝输入法apk
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外版去掉触宝输入法apk
+    
+    Commit Tools Version:d6794eb
+
+commit 18d0fe877bbedcda7edff023f74df7008cdc6254
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jun 25 10:02:57 2018 +0800
+
+    [SQ31T][XX][UI][]: 海外版本型号改为V5100
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:海外版本型号改为V5100
+    
+    Commit Tools Version:d6794eb
+commit bb9641c28b17583f3c1d7f16ce691bb4caac6053
+Merge: c2911e8 4f10a46
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 23 15:58:41 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+****************************************************************************
+serial number of this version: 0003
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-16:17~17:17
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-18:27~19:17
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(2f955d4<---bf5845d )          
+commit 2f955d43bdd7ff4ce9dd2f341efb59c9f8189e5f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 17:14:45 2018 +0800
+
+    [SQ31T][XX][Other][]: WPH去掉应用中心
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:WPH去掉应用中心
+    
+    Commit Tools Version:d6794eb
+commit bf5845d97baeddee4ea78e3c50ce7ee3e6bf5610
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 18:06:34 2018 +0800
+
+    [SQ31T][XX][UI][]: 设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0004
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-18:27~19:17
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-10:37~11:28
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5dfbe97<---5d08e69 )          
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9035d4b<---2f955d4 )          
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+
+commit 923228e4d090c6470a4a468289da9c9d760c1d0b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:40:11 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+commit 2f955d43bdd7ff4ce9dd2f341efb59c9f8189e5f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 17:14:45 2018 +0800
+
+    [SQ31T][XX][Other][]: WPH去掉应用中心
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:WPH去掉应用中心
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0005
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-10:37~11:28
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-14:36~15:33
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---5dfbe97 )          
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3741d66<---9035d4b )          
+commit 3741d663916a96ff839ecd91f9bb9ddcf4837ed7
+Merge: 256ab8a 70bbe28
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:33:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 256ab8a00f03f4d7aa778699f24d10e669d6fb44
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:31:18 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新应用中心
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新应用中心
+    
+    Commit Tools Version:d6794eb
+
+commit 70bbe28dba66df26837714da524c774ec268873d
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:22:45 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+
+commit 1dd4d6d8cfbc6c693e6ee1bf27739fbf979b200e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:05:43 2018 +0800
+
+    [SQ31T][WPH][KEY][]: 解决：唯品会按键定制不生效（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:解决：唯品会按键定制不生效（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0006
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-14:36~15:33
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-18:03~19:16
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(91673be<---3741d66 )          
+commit 91673be6a6fc27c0a537ffb6022d982e834c54d5
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 17:59:43 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决：连续扫描出光慢
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决：连续扫描出光慢
+    
+    Commit Tools Version:d6794eb
+
+commit bd9ced10baf2f3508ae36ff7d4671e0040a6a7b4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 16:58:10 2018 +0800
+
+    [SQ31T][XX][KEY][]: 更新按键映射表，解决扫描键无效的问题
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:更新按键映射表，解决扫描键无效的问题
+    
+    Commit Tools Version:d6794eb
+commit 3741d663916a96ff839ecd91f9bb9ddcf4837ed7
+Merge: 256ab8a 70bbe28
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 14:33:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+****************************************************************************
+serial number of this version: 0007
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-18:03~19:16
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-20:38~21:32
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b964788<---91673be )          
+commit b9647889afc48cd7c7cfaa7b2e6e0d7016992895
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 20:32:13 2018 +0800
+
+    [SQ31T][WPH][KEY][]: 恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 91673be6a6fc27c0a537ffb6022d982e834c54d5
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 17:59:43 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决：连续扫描出光慢
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决：连续扫描出光慢
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0008
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-20:38~21:32
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 04      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-22:35~23:25
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ac0be4c<---b964788 )          
+commit ac0be4c727dff4b81a4e65df509a9fcce095ab69
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 22:32:53 2018 +0800
+
+    [SQ31T][XX][KEY][]: 更新通用版本按键映射文件（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:更新通用版本按键映射文件（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit b9647889afc48cd7c7cfaa7b2e6e0d7016992895
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 20:32:13 2018 +0800
+
+    [SQ31T][WPH][KEY][]: 恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

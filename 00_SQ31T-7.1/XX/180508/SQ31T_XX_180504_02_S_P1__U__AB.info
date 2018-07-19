@@ -1,0 +1,68 @@
+serial number of this version: 0047
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-04-09:50~10:56
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 02      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-04-14:53~16:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d0a1c5f<---85d0690 )          
+commit d0a1c5fd5875c725b2deb99c428903f2904e73fd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:12:56 2018 +0800
+
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+commit 85d0690295ca1569f884810acc44abff307666bd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Apr 27 14:05:41 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0426
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0426
+    Description:patch_from_yufan_0426
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(5e4c474<---0e87d55 )          
+commit 5e4c47438d314e407ccaa1e69013ae25403faa3d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:10:50 2018 +0800
+
+    [SQ31T][XX][Log][]: 增加urovo log
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+    
+    Commit Tools Version:0be60f5
+commit 0e87d551621c34c0018fd597a4449ce8830802fa
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 3 22:52:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 修复TF卡升级完后升级包被删除
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复TF卡升级完后升级包被删除
+    
+    Commit Tools Version:0be60f5
+****************************************************************************

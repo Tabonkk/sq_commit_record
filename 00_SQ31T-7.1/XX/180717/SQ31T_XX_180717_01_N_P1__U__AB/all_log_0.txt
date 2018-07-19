@@ -1,0 +1,215 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-28 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function <jiaxinxin>
+海外版浏览器使用Chrome <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-28 编译序号：02
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function <jiaxinxin>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-30 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_0629 <yangguang>
+[SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+patch_from_yufan_0629 <yangguang>
+WPH去掉应用中心 <wujinquan>
+设置wifi选项显示成WLAN，解决：下载apk安装置灰 <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-30 编译序号：02
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_0629 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-02 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+[SQ31T][ALL][Other][]: patch_from_yufan_0629 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+更新通用版本按键映射文件（软件自测） <wujinquan>
+解决：连续扫描出光慢 <wujinquan>
+更新按键映射表，解决扫描键无效的问题 <wujinquan>
+patch_from_yufan_for_no_scankey <yangguang>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-04 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修改版本号 <wujinquan>
+增加FN图标 <wujinquan>
+合入FN切换功能 <wujinquan>
+modfy_audio_the_same_to_yufan <yangguang>
+更新通用版本按键映射文件（软件自测） <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-04 编译序号：02
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修改版本号 <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-06 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+deleted_modem_image <yangguang>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-06 编译序号：02
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+deleted_modem_image <yangguang>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-06 编译序号：03
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+deleted_modem_image <yangguang>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-06 编译序号：05
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+增加dev/input/event*权限（软件自测） <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-06 编译序号：06
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+增加dev/input/event*权限（软件自测） <wujinquan>
+增加dev/input/event*权限（软件自测） <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-07 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修改予凡工厂测试FN键（软件自测） <wujinquan>
+版本号区分内存和存储大小 <wujinquan>
+解决问题：添加用户后并立即设置新用户，设备提示：6601扫描头已停止运行 <wujinquan>
+解决问题：【6603】扫描demo界面，操作scan键，不出光（红光和白光),可解码 <wujinquan>
+解决问题：*#1261*#中切换扫描头类型，设备提示：扫描头高级设置停止运行 <wujinquan>
+增加dev/input/event*权限（软件自测） <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-07 编译序号：02
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修复版本号 <wujinquan>
+修改予凡工厂测试FN键（软件自测） <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-09 编译序号：03
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_0709 <yangguang>
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+patch_from_yufan_0709 <yangguang>
+解决问题：偶现6603扫描头设置点击“配置取景框”报错 <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-10 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+[SQ31T][ALL][Other][]: patch_from_yufan_0709 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修复问题：合入补丁导致扫描键失效 <wujinquan>
+b611-HT510  定制虚拟按键补丁适配 <wujinquan>
+patch_from_yufan_0709 <yangguang>
+patch_from_yufan_0709 <yangguang>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-11 编译序号：03
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-13 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-16 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+只有国内通用版本才合入超高频apk <wujinquan>
+解决问题：1，工厂测试led乱跳，2，将wifi改为WLAN  2，系统升级界面不正确 <wujinquan>
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-16 编译序号：02
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-17 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+

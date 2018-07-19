@@ -1,0 +1,99 @@
+serial number of this version: 0057
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-14-02:53~04:54
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-15-14:08~16:07
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(a9f0261<---bc8149e )          
+commit a9f0261d0dcca09813d5187e54d1b76b37676778
+Author: luolin <lin.luo@urovo.com>
+Date:   Sun Jul 15 11:29:45 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误
+
+commit ff6edad06522176ab2aab2b3d886be7e877b2893
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jul 14 15:02:27 2018 +0800
+
+    [SQ52T][ALL][Other][]: back_to_one_mic
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:back_to_one_mic
+    Description:back_to_one_mic
+    
+    Commit Tools Version:0be60f5
+
+commit 93694a451c3dc6b8ced4fd83f9540cf9bf0f9e09
+Merge: 3aea682 7e61644
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jul 14 13:30:15 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3aea682fe00d90e8797d1da57fdab50a021c27cb
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jul 14 13:23:34 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE dmi接口定制#软件自测
+
+commit 7e61644b94150228b789c7bf6239fae6808b0b35
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jul 14 13:20:13 2018 +0800
+
+    [SQ52][UTE][APP][]: UTE定制要求设置关于设备里的“Serial number” 必须和“SN”一致（注意，恢复出厂第一次不一致，需重启），删除摄像头解码APP“Barcode Scanner”
+    
+    Product:SQ52
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:UTE定制要求设置关于设备里的“Serial number” 必须和“SN”一致（注意，恢复出厂第一次不一致，需重启），删除摄像头解码APP“Barcode Scanner”
+    
+    Commit Tools Version:995a256
+commit bc8149e2a174addbb22f9f47124b1ac070430504
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 16:19:51 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 UTE dmi接口定制
+****************************************************************************

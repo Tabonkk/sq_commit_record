@@ -1,0 +1,361 @@
+serial number of this version: 0002
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-04-01:29~04:10
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD N-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-10-01:50~04:26
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5e21a69<---5e21a69 )          
+
+commit 5e21a69252093926d0dde74a2431e928f3777814
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue Mar 27 15:00:28 2018 +0800
+
+    [SQ52T][ALL][Scan]调整6603扫描头导致的休眠功耗高问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(573b4ae<---6d09d15 )          
+commit 573b4ae27a02311767c6672f6ae211ef4623b39e
+Merge: 6d09d15 f22003e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 8 18:34:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f22003e9fbe4d7769f25f05e358a21ff6dfa054c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Apr 8 15:04:17 2018 +0800
+
+    [ALL][XX][Scan][]: 同步扫描头代码(软件验证)
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:同步扫描头代码(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit ac4259bf739ba9bb276d808ff6e70b89064abb44
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sun Apr 8 11:33:58 2018 +0800
+
+    [SQ52T][ALL][Camera]高像后摄像头和舜宇前摄兼容
+
+commit 3641f994710b09b9e7c41464b06f692784798dc8
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Apr 8 11:21:05 2018 +0800
+
+    [ALL][XX][Scan][]: N6603添加Convert upc-a to ean-13
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:N6603添加Convert upc-a to ean-13
+    
+    Commit Tools Version:f7b8ba2
+commit 6d09d15fe7f6e57f9c81250874eeaca88ce84eac
+Merge: dd195a6 248804c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 3 17:05:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************
+serial number of this version: 0003
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD N-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-10-01:50~04:26
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-12-16:31~18:04
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5e21a69<---5e21a69 )          
+
+commit 5e21a69252093926d0dde74a2431e928f3777814
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue Mar 27 15:00:28 2018 +0800
+
+    [SQ52T][ALL][Scan]调整6603扫描头导致的休眠功耗高问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(8bd0fac<---573b4ae )          
+commit 8bd0fac360720a07c86c7f8541c67a39c94afc25
+Merge: 8e0d3db 3427ff4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 16:29:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3427ff4866c53f8810cd9b8f81ac91f1fa717c6a
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Apr 12 16:16:06 2018 +0800
+
+    [SQ52T][ALL][Camera]修改高像前摄效果编译错误
+
+commit 8e0d3dbeea831caa87fd41a05604eca8ae9a41e2
+Merge: 54a069a 48536be
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 12:38:24 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 48536be7ad2e91b32138eebeccafdc8eb5bc27c9
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Apr 12 11:38:38 2018 +0800
+
+    [SQ52T][ALL][Camera]更新高像效果参数
+
+commit 62a928fc8bc42d01059c2efc056b5c12a52e85e4
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Apr 12 11:09:27 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD SQ52T 替换系统UI相关的apk - 更新
+
+commit 1d7243a3b20b1858b309f84fe2e99d0369d66a1c
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Apr 12 10:46:56 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD SQ52T 项目替换若干个系统apk
+
+commit 54a069a02fee6eeba29ca2c6e03f84436232f4f9
+Merge: bd0f2ce d9798f3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 21:11:38 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d9798f38e3343065dfc2bc58f762d947a1e5c052
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Wed Apr 11 18:58:46 2018 +0800
+
+    [SQ52T][ALL][fingerprint]指纹识别库拷贝
+
+commit b140afc2020623c0a045d631305b2750d494971c
+Merge: 2b0385d 941caaa
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Wed Apr 11 17:51:25 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+    更新指纹识别库
+
+commit 2b0385d604fcd825c9ba22afb23d8ef3890a0e86
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Wed Apr 11 17:48:02 2018 +0800
+
+    [SQ52T][ALL][fingerprint]更新指纹识别库文件
+
+commit bd0f2cec97bbce82e3d276f8e349e2fb1195f6ec
+Merge: 644aa18 941caaa
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 13:29:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 644aa185070e2c0faf65081d78fac23d93838713
+Merge: a7b5715 88b229b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 09:45:02 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 941caaa405a48bfc6227855dab94a2a94a070188
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Apr 11 09:42:18 2018 +0800
+
+    [SQ52][YDSD][Other][]: YD 需求隐藏系统升级，同时提供接口app可以打开系统升级并且如有升级包，强制升级
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YD 需求隐藏系统升级，同时提供接口app可以打开系统升级并且如有升级包，强制升级
+    
+    Commit Tools Version:5b9f5d3
+
+commit 88b229b62b86a4c2f5660c6280843b7350a71261
+Merge: bd80e87 3ed9488
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 11 09:32:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bd80e872ad77d7d20007a55fdf4d6247274ac164
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 11 09:29:37 2018 +0800
+
+    [SQ52W][XX][Other][]: SQ52W签名OS包的签名和SQ52、SQ52T的保持一致
+    
+    Product:SQ52W
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:SQ52W签名OS包的签名和SQ52、SQ52T的保持一致
+    Description:SQ52W签名OS包的签名和SQ52、SQ52T的保持一致
+    
+    Commit Tools Version:6119286
+
+commit a7b571596c48bf09179aa7a4b79ea448b830699a
+Merge: 525acc8 3ed9488
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 10 22:14:26 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3ed948839414409121aea75f89f7f4cb3e75e209
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 10 18:14:37 2018 +0800
+
+    [SQ52][XX][Other][]: MEID 只显示一个
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:MEID 只显示一个
+    
+    Commit Tools Version:5b9f5d3
+
+commit 525acc898918e1e0c4287b7fcbbc020c61e9bae5
+Merge: 573b4ae 49cb26a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 10 15:05:20 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 49cb26a29ac3c47a8f550118a42da8cd0318512e
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 10 14:24:51 2018 +0800
+
+    [SQ52][YDSD][Other][]: 桌面图标布局更改
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:桌面图标布局更改
+    
+    Commit Tools Version:5b9f5d3
+
+commit da5cdaf398cf1ca259c9cceaf6bc7b72d7c868da
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Apr 10 10:02:55 2018 +0800
+
+    [SQ52T][XX][Audio][]: 更新音频效果文件
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Audio
+    Bug ID:
+    Key Word:更新音频效果文件
+    Description:更新音频效果文件
+    
+    Commit Tools Version:e77912a
+commit 573b4ae27a02311767c6672f6ae211ef4623b39e
+Merge: 6d09d15 f22003e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 8 18:34:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************
+serial number of this version: 0004
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-12-16:31~18:04
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-13-01:31~04:42
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5e21a69<---5e21a69 )          
+
+commit 5e21a69252093926d0dde74a2431e928f3777814
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue Mar 27 15:00:28 2018 +0800
+
+    [SQ52T][ALL][Scan]调整6603扫描头导致的休眠功耗高问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bd20f58<---8bd0fac )          
+commit bd20f58bc17b1456a62fb54df27bcb76f1d8b77d
+Merge: 8bd0fac e1d2311
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 21:47:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e1d2311f283cd088e3532c5af3a45f39c2c4f8b7
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Apr 12 19:12:40 2018 +0800
+
+    [SQ52][Other][UI][]: 韵达SQ52T暂时移除第三方手机UI，恢复android原生UI
+    
+    Product:SQ52
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:韵达SQ52T暂时移除第三方手机UI，恢复android原生UI
+    
+    Commit Tools Version:f7b8ba2
+
+commit 4099482b624657ba4e19f36b20c5635ed7767104
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Apr 12 19:01:39 2018 +0800
+
+    [SQ52][Other][APP][]: 更新韵达应用中心V1.2.18.0412，暂时移除第三方手机UI，恢复android原生UI
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新韵达应用中心V1.2.18.0412，暂时移除第三方手机UI，恢复android原生UI
+    
+    Commit Tools Version:f7b8ba2
+
+commit fec3e7ee530e2cfd7a73e8347f78d785eb052bdf
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Apr 12 16:41:45 2018 +0800
+
+    [ALL][XX][Other][]: 老化测试扫描头一直出光扫码问题修复
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:老化测试扫描头一直出光扫码问题修复
+    
+    Commit Tools Version:5b9f5d3
+commit 8bd0fac360720a07c86c7f8541c67a39c94afc25
+Merge: 8e0d3db 3427ff4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 16:29:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

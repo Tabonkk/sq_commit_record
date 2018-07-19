@@ -1,0 +1,1415 @@
+serial number of this version: 0163
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-01-07:14~09:16
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-05-17:14~18:33
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5828612<---8850a4d )          
+commit 582861256688745dee42a5d2741614d31ffab345
+Author: ShiXiaoKai <xiaokai.shi@urovo.com>
+Date:   Sat May 5 16:35:13 2018 +0800
+
+    [SQ52][XX][USB][]: add from yangguang
+    
+    Product:SQ52
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:add from yangguang
+    Description:add from yangguang
+    
+    Commit Tools Version:0be60f5
+commit 8850a4de75c78aa59849c0d8fbb3300b5711531f
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sun Apr 29 14:31:05 2018 +0800
+
+    [SQ52][ALL][Other][]: suppert_3d_camera
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:support_3d_camera
+    Description:suppert_3d_camera
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(fd9b4b0<---f230a29 )          
+commit fd9b4b02375bac2e2978a589fc8a9f7f2b5cb8ab
+Merge: 6fa7e89 3930261
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat May 5 17:12:46 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 39302619c3dff6a149d25475f511839a53a887d0
+Author: ShiXiaoKai <xiaokai.shi@urovo.com>
+Date:   Sat May 5 16:37:01 2018 +0800
+
+    [SQ52][XX][USB][]: add from yangguang
+    
+    Product:SQ52
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:add from yangguang
+    Description:add from yangguang
+    
+    Commit Tools Version:0be60f5
+
+commit 4f6a60436358f19bad9d82a097b4cb41fdea639f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat May 5 09:59:53 2018 +0800
+
+    [SQ52T][YDSD][Other][]: SQ52T YDSD先不编译新UI（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD先不编译新UI（软件自测）
+    
+    Commit Tools Version:0be60f5
+
+commit 6fa7e89c7b82f4f129ee1ddf9852bf452a41f88a
+Merge: 572cd83 1cc30b5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed May 2 14:37:45 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1cc30b5811279f87fd8931a0c1d924639f352bf2
+Author: hetao <tao.he@urovo.com>
+Date:   Wed May 2 10:28:38 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新UI
+
+commit 572cd83b533cadcc21849f3b7d1bff49ca8f2b88
+Merge: 5669a34 f230a29
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 29 14:50:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5669a34ca65288b81d6680463d1b425fbef56417
+Merge: cb96fb1 eece75e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Apr 28 17:10:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cb96fb1eb10268f0dc9b31e42fc950deb7a6aab0
+Merge: cd09900 48caee7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 27 22:58:24 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cd09900876bc9767cc036a773407312aef05f94e
+Merge: f243739 a8d11a4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 27 16:14:03 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f2437393fb0617dcd01053f4954391dc245e8ae4
+Merge: 5a59188 cd20788
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 26 19:23:11 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5a59188488bb254133a2132a5f6973625ae8c514
+Merge: 937956f 68cc5eb
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 26 12:32:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 937956f666dae950097dec719fdf395cf651c6c0
+Merge: 6050caf 92a6a6f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 25 10:00:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6050caf3509a552bfc753cd01ceb4d8f8d1fa101
+Merge: 349ca02 ae39002
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 24 22:52:02 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 349ca02540a3cfd4f4e56b3e05173704678eb233
+Merge: 7963679 0ba13b9
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 24 17:11:43 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7963679563448028fbcfa27961d99e9b62b927e5
+Merge: feb1b77 305a3b6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Apr 23 21:43:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit feb1b779399c1ea386a49d5611749769d83eaf4f
+Merge: 001e553 1490604
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Apr 21 18:43:53 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 001e55332893de622d3f0c0beb63434b0f890e41
+Merge: 99263b9 52452c6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 20 12:38:28 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 99263b97756ca88f37dfce4f82f8bf61881c705f
+Merge: 8c138e0 bd1b0d3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 20 00:20:43 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8c138e01f6eb4397d82e037f21257e3cf40568bf
+Merge: 1e5be74 7879964
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 19 17:43:47 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1e5be74b715cb65700dd36e219e518705d45b800
+Merge: 1a5dc13 7a07bfd
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 18 17:35:27 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1a5dc139a84a632221106a21a0e1187d904ce48e
+Merge: a7b9361 26fa6a0
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 18 13:05:40 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a7b9361c3ac59066d951bf8898a60123ba3b3bd3
+Merge: 5d9c5f5 434f6b6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Apr 16 18:48:14 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5d9c5f59c258027be872ae1a3f9f6a6660747ccd
+Merge: 796e038 24b34c4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Apr 14 14:48:59 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 796e0388409688eb4ec7122c1df9cdad813f33b0
+Merge: ed4b084 571fe08
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Apr 14 01:06:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ed4b0848786b21bd55ed772a9ab0434cec1e8a45
+Merge: cd65e2b 549ff92
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 13 21:12:36 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cd65e2b143d5ea04b2345f250a2ddb1349ed4e26
+Merge: bd20f58 4c934d6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 13 18:37:42 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bd20f58bc17b1456a62fb54df27bcb76f1d8b77d
+Merge: 8bd0fac e1d2311
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 21:47:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8bd0fac360720a07c86c7f8541c67a39c94afc25
+Merge: 8e0d3db 3427ff4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 16:29:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8e0d3dbeea831caa87fd41a05604eca8ae9a41e2
+Merge: 54a069a 48536be
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 12 12:38:24 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 54a069a02fee6eeba29ca2c6e03f84436232f4f9
+Merge: bd0f2ce d9798f3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 21:11:38 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bd0f2cec97bbce82e3d276f8e349e2fb1195f6ec
+Merge: 644aa18 941caaa
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 13:29:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 644aa185070e2c0faf65081d78fac23d93838713
+Merge: a7b5715 88b229b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 09:45:02 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a7b571596c48bf09179aa7a4b79ea448b830699a
+Merge: 525acc8 3ed9488
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 10 22:14:26 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 525acc898918e1e0c4287b7fcbbc020c61e9bae5
+Merge: 573b4ae 49cb26a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 10 15:05:20 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 573b4ae27a02311767c6672f6ae211ef4623b39e
+Merge: 6d09d15 f22003e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 8 18:34:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6d09d15fe7f6e57f9c81250874eeaca88ce84eac
+Merge: dd195a6 248804c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 3 17:05:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit dd195a633d408326f19ff27c9be32aabd73cd966
+Merge: 0be76c6 e80d7f2
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Apr 2 17:45:11 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0be76c69a34dfc85f7cd5a00ceda6364738b510d
+Merge: d6205a9 c96cb19
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 1 17:37:05 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d6205a9b55dadc90b9edc6e643e33cf625b08ec9
+Merge: 3de022a 344a614
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Mar 30 15:15:02 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3de022afdc10e6c1425e5fa114753dd20662cae9
+Merge: 02a6f71 fd36b1b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 29 01:13:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 02a6f7180413824c39e9778545df260b33714260
+Merge: 0e9020a e85180f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 28 19:26:16 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0e9020a76de6ca415eb21df04929ea7c88271b9a
+Merge: 5ad0d80 d4b9e3c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 27 17:03:37 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5ad0d8048d0f1e5830d7514e1dc19b899dbb8349
+Merge: 09697ed 9317c5c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 27 13:14:53 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 09697edd7b21d08fb57e0521a0a2333179235123
+Merge: f5c0a44 64ee814
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 26 19:45:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f5c0a44e8b7c25f05ab7c83e0e04a24af9c6c1cd
+Merge: a6f62c7 a209212
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 26 15:20:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a6f62c7f1f7ff9aa761329387940ee546e5e7fec
+Merge: dce185a c4a0880
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 26 15:01:24 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit dce185aae24140d630f5d16e63b8f57ad4f79c29
+Merge: 71231dc 563a4c7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Mar 25 19:57:24 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 71231dc9ca653023809b96e5ab23cf394e15200b
+Merge: b8854b6 b5e8bb4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Mar 25 01:34:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b8854b6d4c82b5394be89b21136e7f598c77c909
+Merge: 62bc254 dbd4da1
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 24 16:52:43 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 62bc254eb4e28c6f260bb93972815050fa3aeccd
+Merge: f872a13 a9322f6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 22 18:58:20 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f872a13381158434bec5667252a1f955e460980d
+Merge: f6cb5aa 32f11aa
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 21 16:01:04 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f6cb5aacf69efac6723c130798e16c256953bd61
+Merge: 6855f55 b5a3e00
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 20 14:24:48 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6855f550dcfc1087245016419ae788e7bcfffde0
+Merge: 6990fd6 825b716
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 19 17:41:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6990fd6a93a25e70d86e5e2601f7816d06fdcf6e
+Merge: f47f40f 053bf72
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 15 16:03:10 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f47f40f11bc87064e7ca397bac100040cb3da3d7
+Merge: defd1cf c44634f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 14 20:37:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit defd1cfad602df7e66b6bca516aba4a578041229
+Merge: d5f9cc1 1441368
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 13 10:25:21 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d5f9cc11c33876adb76c55c9c94574480919706b
+Merge: 4d23172 5de66a7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 12 23:04:17 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4d231720ed3c596f3c58e6b68e36f1092e231bb4
+Merge: f386338 62712a4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 12 16:29:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f3863380872f570d64743b63c20172abaea730e2
+Merge: e17bea7 c489eb5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 10 13:49:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e17bea71265fa183e2ab063c8f665a3e5f7e8539
+Merge: d4109e4 4598261
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 10 09:52:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d4109e49b7384c9f120f7bc6c780ea3859317c5f
+Merge: ac39f19 6764e38
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Mar 9 21:06:42 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ac39f19c6a7c8fdc8a80f72f3757ea86362fbb35
+Merge: 0643e64 a295fe3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 8 14:59:22 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0643e64b9e7569e38220c6484e2e9e300badbf09
+Merge: 73654a3 4e68540
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 8 10:11:30 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 73654a37d4db8f272144fa04c4ce9c0ab8df2f87
+Merge: bc6741d a645a53
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 7 17:10:05 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bc6741d657d9c14ddd221048183423b342ab9a40
+Merge: 5d9b85c a0a2f9d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 7 10:18:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5d9b85c508dc6531502426bc69f8d40122cd22ea
+Merge: 189d7a1 dcdb6e4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 6 15:45:04 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 189d7a1371a4318ecf2d63f95b53ee5bc1efc5fe
+Merge: e8a2f33 0cfdaee
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 6 15:04:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e8a2f33eaeccc1e9fe0ba9cd6b8375bb22ae6eb4
+Merge: 39d1540 6583e86
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 5 17:25:17 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 39d1540bb595f8fbb52a9a20c284a19ee89d2a2d
+Merge: 879f9bb 82e0201
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 3 11:03:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 879f9bb824800bd34ee51d7a173f63000faf661b
+Merge: 8edb4ff 42fbcf9
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Mar 1 19:33:48 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8edb4fff6a83493a8145d50ef6ddf92dee85cb85
+Merge: 3d30347 fd7bc18
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Feb 3 15:51:49 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3d30347f5123cb3a19be45c3c0d889a4cd922b04
+Merge: 3086420 4ca607e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Feb 2 00:11:04 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3086420df1a7c8166e8f6840dd02e3e5a0f00e01
+Merge: bcf7db9 1b3f49f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 31 16:59:15 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bcf7db96893d72d52e8e0ba563ffc59bfdf68bda
+Merge: 93c0695 2146f60
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 31 13:26:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 93c069590aa93e9e5182faa7632f5a55348c711a
+Merge: 0fef115 c3bb8b3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jan 29 22:23:03 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0fef1150e7b1bd59f4c4777a5fdf1da1acc3849d
+Merge: 07a0696 7ddee0b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 20:56:10 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 07a0696d7d8ee84c474e972d86011b1b86bb2df5
+Merge: f3586d3 4673a15
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 16:13:33 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f3586d3a876afee7815da08a73e1edb4a332642a
+Merge: 6591dbc 6c284c4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 25 11:11:25 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6591dbc775e3931c7ff9ff078344943c137a31d9
+Merge: dad453b d327cee
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 24 16:07:48 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit dad453b20d6c08fc373864a7a2267eda71c92330
+Merge: bbf7f70 8941668
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Jan 19 09:45:12 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bbf7f7084acd651937aa7c52c1feaca29d4a017d
+Merge: 02fb69b faebb09
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 18 19:34:12 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 02fb69b9cfeaa0d27ad6c71942d6406ce2c8f0e8
+Merge: edaaf31 db6e75d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 18 15:44:59 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit edaaf31703b988050a4cd18d6ed9a03eac9f6bd8
+Merge: 5671cce 16cb229
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jan 18 12:22:37 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5671cce70773de2a064e75fe1f451c501b84b827
+Merge: feaaeb2 c58cfd4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 17 23:39:35 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit feaaeb23605c71940e9f3daca3b876c8a9aa1981
+Merge: 7808dd5 e918a2d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 17 17:19:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7808dd58fb146377431a05c3c04fbfc93f6f00af
+Merge: 9461f1b ada530e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 17 13:38:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 9461f1b6c4b5d8b8beada2a294f69807db690178
+Merge: a98b2a6 914be0b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Jan 16 17:37:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a98b2a66259c89a036e6d43701f82ac67a312368
+Merge: c96832b 2b0f876
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Jan 16 09:51:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c96832bc66f102d8d4b38b98db3f801d688abea8
+Merge: fd771fd 8edc323
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jan 15 14:34:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit fd771fdb19ad88ad6b08369fad72462e271570fd
+Merge: cf64869 e316e35
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Jan 13 11:34:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cf648695b6004843cd5308e110f79a9c0c46f034
+Merge: cb6e5dc 3fa27d0
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 10 14:52:31 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cb6e5dcbcda39c2dfb42cd4067489ca4b692e858
+Merge: 2c165ad 747552a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 10 10:16:59 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2c165ad9701f8998015c98037516b14b3bba52ff
+Merge: b489a97 158d15f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jan 8 10:31:30 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b489a9778caa83f04120843413768832cdfee448
+Merge: b3efae7 53344f2
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Jan 2 22:52:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b3efae747c6e5563b23c439a4fb88bf55e6eebd7
+Merge: 84626d7 e2f4ee8
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Jan 2 10:26:26 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 84626d75d6e0c7c5b40e0fc67c73b26b84526d83
+Merge: 1086f87 1719240
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Dec 28 18:46:03 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1086f87cb9fb937ea3dff607afd22009c1bc282c
+Merge: 77001ef 76728ea
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Dec 28 09:07:11 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 77001ef2e5923d73a353a3f39ee48627551de2e0
+Merge: ed171df 25babe0
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Dec 27 18:36:04 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ed171df52f600ca06d82c1f39de31cdaaf46e95a
+Merge: ec4580f 703d392
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Dec 25 15:44:15 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ec4580fa71972ea892d558a64770fe99a411f76b
+Merge: a6837de 115684a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Dec 22 16:54:11 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a6837deec2d770ad8b512c7e6af3eb0193f592a6
+Merge: ffdb1ba 0dca63a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Dec 21 10:52:51 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ffdb1ba367c30ab217794b56df15ac4331541bc8
+Merge: 3e0a998 ad7ba02
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Dec 19 23:15:57 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3e0a9984a2ecee82ec0a3fd8384d5867ddccf60a
+Merge: 9affb4e ff15be1
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Dec 14 17:32:32 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 9affb4e66e27aed98c55b16fb9fe6b202a5e9c96
+Merge: 383aa61 5ee7f6c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Dec 13 12:21:30 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 383aa61e70d954bff3fdf12a07eacdad473b83d1
+Merge: 79d87ae 0545d381
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Dec 9 17:13:48 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 79d87ae971c48ab9bde5c7fed87c7ace90a0daa8
+Merge: 9cf0385 dedd166
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Dec 9 10:55:35 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 9cf0385c273384f3d783bc696615174a2efecf20
+Merge: c23cb2d c80abf5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Dec 5 21:22:57 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c23cb2d4eb3a07734cfea6f4225094ebbf7aead5
+Merge: ec64897 d434bac
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Dec 5 10:47:22 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ec648970666f502815ea4b0e35436c60442b363b
+Merge: 67f3026 fa7c3e3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Dec 4 21:40:46 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 67f3026feccdf7c7dcc551424106a6242397ab01
+Merge: e70c50c 795609d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Dec 4 15:22:31 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e70c50c3f6939e71681c09e1f6d7c6badbdfcf5a
+Merge: bf0e496 936ee5b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Dec 2 10:29:25 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bf0e49639fde366bf69f6e2725b9e94fe269b4db
+Merge: 43e4eb4 0b3721d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Dec 1 18:37:31 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 43e4eb4a68017ab02b5da84db2376ce87d3760ea
+Merge: 7545f6e ac66ec4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Dec 1 18:01:37 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7545f6eed9c93dd0a628614f8194d0d13da7a1ee
+Merge: 8ee8619 3707e3b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Dec 1 14:06:55 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8ee861976b6cef82b4ec18b34490b16b4867125a
+Merge: 74dd142 0ec853e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Dec 1 13:43:20 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 74dd1422cfee04702483e2ee6118450ebfd5de69
+Merge: 343e318 93dc410
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Dec 1 11:52:58 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 343e318ee0b1aa39fac90b47f9b44817bde4200d
+Merge: 459ad74 1b19ef4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Nov 29 21:01:19 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 459ad7494b0aacee1d23bbf9673d50059860ed13
+Merge: 45d431d e6d97f5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Nov 28 16:13:45 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 45d431d917f5b89e8172bfcf359059abc2430531
+Merge: efe2b6c 2a6ca76
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Nov 25 18:27:41 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit efe2b6cb09d8d4de60de8d069884b842fdcaacf6
+Merge: da68488 531ea1b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Nov 22 19:35:41 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit da68488e773d2e954ba70070c7f73e4d1f083dd2
+Merge: 87b00c3 28d264a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Nov 21 19:00:38 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 87b00c3d719a45a0d0bb16bf2ec11a998a64e4fe
+Merge: e376e71 772c01c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Nov 20 16:57:53 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e376e7173e4c563db68fb5921df60e9d25d32004
+Merge: 9577676 a78dd16
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Nov 17 19:32:37 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 957767613eb5daf45a5790f4b58a4713946796ba
+Merge: d28f6bb 5cd1d9d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Nov 16 11:01:50 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d28f6bb641fac3a920abde22e0f5674e1d3bc2ae
+Merge: 6be2d12 793a6b6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Nov 15 18:37:04 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6be2d12bb43d3346a85f8f9877a472176bf38cdd
+Merge: 80a87b7 93b601e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Nov 15 16:16:47 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 80a87b7bf7c4a508c8f58e8ea358f5323913e7fa
+Merge: f957930 8fa6934
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Nov 15 11:58:24 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f957930a157b13b257d1a4160a9f8adf4c2e2d27
+Merge: 98bdd1c affc05e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Nov 14 14:42:56 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 98bdd1cc6a4d90ad7809c8fc3d03fc36590c5d3d
+Merge: 76e8340 eccbed7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Nov 14 10:54:29 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 76e83408a2322b288bdbb54a530a7091bd30850b
+Merge: 1b7f522 c91709c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Nov 13 16:54:37 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1b7f522d83f87d23cadfe89f0a635d5bbab10a55
+Merge: b47581e 54e5552
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Nov 11 13:37:26 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b47581eefc3f3d61b6d2f8dfb7fab561fe61e27e
+Merge: f931d8e 18b448e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Nov 10 16:53:21 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f931d8e14a716a580cbf59902d00d61cc99aa4f8
+Merge: 8f11a74 ea6776b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Nov 8 19:03:39 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8f11a748ea1759bba583e762778b225ae414d232
+Merge: e11583e 35997e9
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Nov 7 13:28:03 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e11583edfeb4041cf6a5a969d86f4e295b61f667
+Merge: d34f48e fc63145
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Nov 4 18:49:52 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d34f48efe496de267e8b6501c043d93ed48dc0bb
+Merge: e974ff4 8957b28
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Nov 3 10:33:35 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e974ff4b81c67f7ab09d9ca55148d3921a78b5fb
+Merge: 2f3f5f4 cebf498
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Nov 2 18:27:18 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2f3f5f490de5849427f572565f82c56b07a83720
+Merge: f47cd53 222dd39
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Nov 1 11:02:30 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f47cd5340aeb6f32e6ee5e2059f4600627bd1c64
+Merge: 4af8f70 2533c8f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Oct 31 15:19:18 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4af8f70a5bacdc4122585b38e4ddceef52d09c0b
+Merge: e23c706 1eda6d9
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Oct 27 19:13:43 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e23c706a371c69e1008cec142932828f4d3fca5e
+Merge: 912b36b a554acb
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Oct 27 10:24:42 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 912b36b30abd243863b7ca28b641dde52ae72d51
+Merge: f934e0b 8c73b64
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Oct 26 17:40:41 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f934e0b8def83b090254634e36fb25ea22507bf4
+Merge: 290942c cbb4b1f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Oct 26 13:19:51 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 290942c3fa8b4f399517672a267a7705be176d83
+Merge: b773503 1946668
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Oct 25 20:44:20 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b773503e25c07ce19fd84bb3d0bc9affc84d1de1
+Merge: 6db5e4c bc79569
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Oct 25 14:04:56 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6db5e4ca67c08099ddc68205bc6f5e56966dff86
+Merge: 16efca1 dc39ead
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Oct 24 18:17:44 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 16efca16ca8112acdde3e678981c69739bbeeb7c
+Merge: 12f36ee 1cb2e2f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Oct 23 10:36:53 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 12f36ee8f44824764fb2d507789e4772da57e35a
+Merge: 6a1247f 4765791
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Oct 18 15:06:12 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6a1247f921d33141e5cd528b711fe5bc4e58b585
+Merge: b1da5e5 01a30ae
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Oct 16 19:21:33 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b1da5e5cc773299b9ba91b4985a5ff1605c8aa48
+Merge: 1b1ba27 810c4a4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Oct 16 15:40:35 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1b1ba27cbc02246ef65a0469c97f503939b935eb
+Merge: b1f30ca 5142273
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Oct 14 17:19:26 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b1f30ca7c58d1f187ef4705efe2ddf903995bab0
+Merge: 0c31cfb ff8777f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Oct 13 21:19:53 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0c31cfb60773e2d83138c8b42ee85d16266867ba
+Merge: 653c247 bbb4adb
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Oct 12 17:35:47 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 653c247e54c3ddf6e4f0fd177caf8c0082193af0
+Merge: be1159f e7bf84e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Oct 10 20:40:36 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit be1159f608fb99e3b2447d66e9bf910384227bcb
+Merge: d2b66bc 6367d21
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Oct 10 14:18:38 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d2b66bc8b245fd2be83f0b03e2a4faf7cfb7cd35
+Merge: 8d15b54 29a9690
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Oct 10 14:07:33 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8d15b542ca49655568d434774b67179953f52885
+Merge: 8984e32 de95caa
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Oct 10 08:42:56 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8984e32fbb3461c2bacd9880037c03a3897bb06c
+Merge: 5f445a51 2f805b2
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Oct 9 20:21:14 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 5f445a51235b640428d3126ea2ae452388ad2982
+Merge: 510a662 9210005
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Oct 9 15:50:27 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 510a662d60d308120f128d3d080efbb4317be10d
+Merge: d883f31 f9d2ac5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 30 20:11:41 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d883f3169fcc1e19a8b2e872ab6f4b0c90321f66
+Merge: 2ee4f79 a895ce6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 30 19:11:46 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2ee4f79aa1869324b00feb59e27f264865e052e6
+Merge: cdcf17a 9f33bda
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 30 17:23:47 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cdcf17a5a0d351d141b5eef67d45fc88f1f86a7e
+Merge: c70920c e8c0033
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 30 15:27:36 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c70920c4e6d5f0c45063ae5059f9cc7289ba2d09
+Merge: a26e004 991b95b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 30 10:10:37 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a26e004e27f798fcc6214e6ebcb8af4082555dee
+Merge: f8a7c01 4341c76
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 29 19:41:20 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f8a7c01c285e6319fe08bc267ab983a2c5ea3815
+Merge: a4ca188 4cfe30e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 29 15:34:46 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a4ca188a6b7220591e43239e1874970e03cc986d
+Merge: 9f7bfc6 0549df5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 29 14:22:00 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 9f7bfc61a6f02b75f83898e3b89707e3a0c390ce
+Merge: cc019b5 63fe2f1
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 29 10:21:05 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cc019b545457f019fd250bcb3882cf358902ab2f
+Merge: 511c114 35e95cc
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Sep 28 22:53:11 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 511c114898bdfae0bbd8d71248fac52530f212b9
+Merge: 1ff1017 9dd4fb5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Sep 28 19:23:46 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1ff101712e96dcb768a4c78b4402eae681f0eacf
+Merge: 8b35085 81a4f89
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Sep 27 19:38:43 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8b350851015e26be2eb2206454aec4fb39d8ae08
+Merge: 1f31ae6 8577aff
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Sep 27 17:30:49 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1f31ae6262a6f9493225b42c8c7def88b5f23f8a
+Merge: de8e697 e68f23a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Sep 26 16:49:03 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit de8e697af082a61378e03dba2986ee832cd956b1
+Merge: b7528fc 88587fd
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Sep 25 20:30:15 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit b7528fc5187189fd18b57ded1d870af6ff974946
+Merge: 634153f fda15be
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Sep 25 15:57:54 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 634153f1b5d39c47856162715867b2b07d5a17b2
+Merge: a50d880 88fd3bf
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Sep 25 11:39:22 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a50d8804a1316b0d569f0ab8def54514232a5e87
+Merge: 3dc018c ce42095
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 23 14:57:23 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3dc018cb44242fb64d629bbc703227fbecf136f2
+Merge: 7ee1441 7b23e5c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 22 21:00:45 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7ee1441919b9021c169a2ddd9013f101292ca4f8
+Merge: 2e913f5 909f84d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 22 10:37:40 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2e913f5dc3b98e5a9b49714acd6ae29f5f80d508
+Merge: 060788e 9010567
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Sep 21 19:24:11 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 060788e767b33a785ac13db135f3d7b9d180b26e
+Merge: 76ef528 2e0060f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Sep 18 18:31:51 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 76ef528c6f2cffa117ae9606d0773259574a8b07
+Merge: 864ac47 b2ebc62
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Sep 18 11:41:24 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 864ac4761c8745e691883c92e0f8fcb847f80573
+Merge: 028845c 1adf522
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 16 13:14:42 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 028845c21f93e2842c69afa8f67e3a34659175d9
+Merge: a024946 9579881
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 15 18:09:22 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a024946b46c2f9ce3925dfdf0ec463018861f778
+Merge: 7186868 403de30
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Sep 14 17:00:27 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7186868952203367b3bac88f67d90f5f47b14542
+Merge: 0d1c679 1d5e13f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Sep 9 10:36:04 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0d1c6793f8f819721526f18ba137eb0401aa040d
+Merge: f4052d2 3ad568a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 8 16:02:23 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f4052d298e3127b2f80a5cf73e35b1713414b612
+Merge: 2514745 6841aa2
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Sep 8 11:32:56 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2514745d7a4f3b1c391748f887f01d8ecb5c1a4e
+Merge: 4d749f4 c2dc985
+Author: baixueyuan <xuyuan.bai@urovo.com>
+Date:   Wed Sep 6 16:11:36 2017 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4d749f46c619040f13c70de633a6029d5bfd8edd
+Author: baixueyuan <xuyuan.bai@urovo.com>
+Date:   Wed Sep 6 16:08:33 2017 +0800
+
+    [SQ52][XX][Other][]: 1.Open USB port for user-build 2. revert committed changes for "No command" before
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:1.Open USB port for user-build 2. revert committed changes for "No command" before
+    Description:1.Open USB port for user-build 2. revert committed changes for "No command" before
+    
+    Commit Tools Version:213989f
+commit f230a296d35469519efaf6aaff42261511a0c366
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sun Apr 29 14:24:46 2018 +0800
+
+    [SQ52][ALL][Other][]: support_3d_camera
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:support_3d_camera
+    Description:support_3d_camera
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************

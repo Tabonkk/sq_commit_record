@@ -1,0 +1,8 @@
+drwxrwxrwx   1 user     group           0 Jun  8 12:10 .
+drwxrwxrwx   1 user     group           0 Jun  8 12:10 ..
+-rw-rw-rw-   1 user     group        6245 Jun  5 22:15 SQ46W_UTE_180605_01_N_P1_AX_U_16+16_EN_AB.info
+-rw-rw-rw-   1 user     group        1036 Jun  5 22:15 SQ46W_UTE_180605_01_N_P1_AX_U_16+16_EN_AB.txt
+-rw-rw-rw-   1 user     group        4480 Jun  7 19:35 SQ46W_UTE_180607_01_N_P1_AX_U_16+16_EN_AB.info
+-rw-rw-rw-   1 user     group         450 Jun  7 19:35 SQ46W_UTE_180607_01_N_P1_AX_U_16+16_EN_AB.txt
+-rw-rw-rw-   1 user     group        5131 Jun  8 12:10 SQ46W_UTE_180608_01_N_P1_AX_U_16+16_EN_AB.info
+-rw-rw-rw-   1 user     group         334 Jun  8 12:10 SQ46W_UTE_180608_01_N_P1_AX_U_16+16_EN_AB.txt

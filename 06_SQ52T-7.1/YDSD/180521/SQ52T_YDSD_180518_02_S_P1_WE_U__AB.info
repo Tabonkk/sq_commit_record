@@ -1,0 +1,64 @@
+serial number of this version: 0005
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-11:21~13:24
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-14:52~16:55
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b9c3df2<---5b66794 )          
+commit b9c3df2e8292f5b88f0151c1d744951c4f5fd2b9
+Merge: 4c918ab 5679484
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 14:50:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4c918ab976541988b6e801ac551dce16f3a0ab05
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 14:47:02 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 修改音频参数通道
+
+commit 56794842fcac506ef3e3b3eb5c27244983d7c3db
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri May 18 13:59:17 2018 +0800
+
+    [ALL][XX][Other][]: 插入电信卡，×#06#显示MEID有时为0问题修复
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:插入电信卡，×#06#显示MEID有时为0问题修复
+    
+    Commit Tools Version:d6794eb
+commit 5b66794af62079fa0acf84e4556c7ed7933c7ac1
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 11:15:33 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本 修复录音文件无法删除问题
+****************************************************************************

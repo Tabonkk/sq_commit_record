@@ -1,0 +1,111 @@
+serial number of this version: 0031
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-23:48~00:38
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-04-18:21~19:15
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(c292b50<---ac0be4c )          
+commit c292b500d1bc706f4a55d1b59ed31cef82cca1f8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 18:02:35 2018 +0800
+
+    [SQ31T][XX][Other][]: 修改版本号
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改版本号
+    
+    Commit Tools Version:d6794eb
+
+commit 460d0c318d11d67c86cf0f8b0c399ac14fb0e70f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 15:06:58 2018 +0800
+
+    [SQ31T][XX][KEY][]: 增加FN图标
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:增加FN图标
+    
+    Commit Tools Version:d6794eb
+
+commit 9c8d445aab0651ea325b6e75e232f972c04c80be
+Merge: 4e61ae6 ef5ad3c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 14:03:27 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 4e61ae6a857df4480440d17a9b70f5c09f8c1936
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 4 14:01:18 2018 +0800
+
+    [SQ31T][XX][KEY][]: 合入FN切换功能
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:合入FN切换功能
+    
+    Commit Tools Version:d6794eb
+
+commit ef5ad3c6443c52548c8c4259614acb29b000079c
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jul 3 19:22:21 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_audio_the_same_to_yufan
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_audio_the_same_to_yufan
+    Description:modfy_audio_the_same_to_yufan
+    
+    Commit Tools Version:0be60f5
+commit ac0be4c727dff4b81a4e65df509a9fcce095ab69
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 22:32:53 2018 +0800
+
+    [SQ31T][XX][KEY][]: 更新通用版本按键映射文件（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:更新通用版本按键映射文件（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

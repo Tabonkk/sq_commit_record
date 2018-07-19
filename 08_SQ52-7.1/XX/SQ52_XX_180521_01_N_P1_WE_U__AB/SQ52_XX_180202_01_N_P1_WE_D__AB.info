@@ -1,0 +1,139 @@
+serial number of this version: 0138
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-30-15:19~18:42
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-02-02-00:12~03:04
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(45ad459<---45ad459 )          
+
+commit 45ad4595863b64604ac079aac60654f3a2efe8a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:03:51 2018 +0800
+
+    [SQ52][XX][TP][]: 更新华视1供煜烨TP固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:更新华视1供煜烨TP固件
+    Description:更新华视1供煜烨TP固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3d30347<---93c0695 )          
+commit 3d30347f5123cb3a19be45c3c0d889a4cd922b04
+Merge: 3086420 4ca607e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Feb 2 00:11:04 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4ca607ef2928d157778ad5cd87d81392621b929d
+Merge: 8427b24 1477af7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Thu Feb 1 18:14:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 8427b24cd26416ae57e5c8b77e7e41adacecfa86
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Thu Feb 1 18:09:56 2018 +0800
+
+    [SQ52][XX][KEY][]: 软件自测-添加USB手柄扫码的KEYPAD
+    
+    Product:SQ52
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:软件自测-添加USB手柄扫码的KEYPAD
+    Description:软件自测-添加USB手柄扫码的KEYPAD
+    
+    Commit Tools Version:140f12f
+
+commit 1477af72c4d5116ab71a60f58c55fbe0082eeef6
+Author: hechao <chao.he@urovo.com>
+Date:   Thu Feb 1 17:20:54 2018 +0800
+
+    [SQ52][XX][Other][]: 韵达指定的APK下载完成之后无法安装
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:韵达指定的APK下载完成之后无法安装
+    Description:韵达指定的APK下载完成之后无法安装
+    
+    Commit Tools Version:d61bdd2
+
+commit 014b0143afd5dba19d0af8ecdf7b2f9ca5a26669
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Feb 1 11:21:07 2018 +0800
+
+    [SQ52][PRAX][Other][]: PRAX 新增预置wifi功能导致工厂测试sim卡测试中提示设置停止运行bug修复
+    
+    Product:SQ52
+    Customer:PRAX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX 新增预置wifi功能导致工厂测试sim卡测试中提示设置停止运行bug修复
+    
+    Commit Tools Version:2d283fd
+
+commit 3086420df1a7c8166e8f6840dd02e3e5a0f00e01
+Merge: bcf7db9 1b3f49f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 31 16:59:15 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1b3f49fe91bcb7afd6a4fa454ea1d4e00d8061bc
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jan 31 16:54:32 2018 +0800
+
+    [SQ52][PRAX][Other][]: PRAX测试提出问题修改
+    
+    Product:SQ52
+    Customer:PRAX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX测试提出问题修改
+    
+    Commit Tools Version:2d283fd
+
+commit bcf7db96893d72d52e8e0ba563ffc59bfdf68bda
+Merge: 93c0695 2146f60
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 31 13:26:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2146f60cb5bea476ad4fb9b56402b99ce53183bf
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jan 31 10:58:44 2018 +0800
+
+    [SQ52][PRAX][Other][]: PRAX测试提出问题修改
+    
+    Product:SQ52
+    Customer:PRAX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:PRAX测试提出问题修改
+    
+    Commit Tools Version:2d283fd
+commit 93c069590aa93e9e5182faa7632f5a55348c711a
+Merge: 0fef115 c3bb8b3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jan 29 22:23:03 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

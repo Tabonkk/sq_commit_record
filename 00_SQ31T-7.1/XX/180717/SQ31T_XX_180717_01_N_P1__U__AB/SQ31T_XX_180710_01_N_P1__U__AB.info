@@ -1,0 +1,117 @@
+serial number of this version: 0046
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 04      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-21:55~23:09
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-10-17:52~18:59
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---f3d2e79 )          
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+commit f3d2e799249b21c4a9a9bb477609dd916bb2ce79
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:48:09 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(7d2b914<---3c82de9 )          
+commit 7d2b914b7789e206575c3b70588b1e3f910e465f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 17:18:38 2018 +0800
+
+    [SQ31T][XX][KEY][]: 修复问题：合入补丁导致扫描键失效
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:修复问题：合入补丁导致扫描键失效
+    
+    Commit Tools Version:d6794eb
+
+commit bca576d933bd798a9270be75cda1dc6f22dec74e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 15:05:02 2018 +0800
+
+    [SQ31T][UTE][UI][]: HT510定制划分到UTE
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:HT510定制划分到UTE
+    
+    Commit Tools Version:d6794eb
+
+commit de21f44696454fc3f8989aef3230fa03d143cbad
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 14:22:51 2018 +0800
+
+    [SQ31T][XX][KEY][]: b611-HT510  定制虚拟按键补丁适配
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:b611-HT510  定制虚拟按键补丁适配
+    
+    Commit Tools Version:d6794eb
+
+commit 1e3ab3220994f8f916ec28bddc6eedcaf8aabb5b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jul 10 10:07:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+commit 3c82de962dc573ff6534e32c1a9e078b48766f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:28:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************

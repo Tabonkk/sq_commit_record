@@ -1,0 +1,12 @@
+drwxrwxrwx   1 user     group           0 Apr 13 04:41 .
+drwxrwxrwx   1 user     group           0 Apr 13 04:41 ..
+-rw-rw-rw-   1 user     group        1447 Apr  4 04:09 SQ52T_YDSD_180404_01_N_P1_WE_U__AB.info
+-rw-rw-rw-   1 user     group         366 Apr  4 04:09 SQ52T_YDSD_180404_01_N_P1_WE_U__AB.txt
+-rw-rw-rw-   1 user     group        2673 Apr 10 04:25 SQ52T_YDSD_180410_01_N_P1_WE_D__AB.info
+-rw-rw-rw-   1 user     group         530 Apr 10 04:25 SQ52T_YDSD_180410_01_N_P1_WE_D__AB.txt
+-rw-rw-rw-   1 user     group        6742 Apr 12 18:03 SQ52T_YDSD_180412_01_N_P1_WE_U__AB.info
+-rw-rw-rw-   1 user     group         659 Apr 12 18:03 SQ52T_YDSD_180412_01_N_P1_WE_U__AB.txt
+-rw-rw-rw-   1 user     group        1448 Apr 13 01:05 SQ52T_YDSD_180412_01_S_P1_WE_U__AB.info
+-rw-rw-rw-   1 user     group         365 Apr 13 01:05 SQ52T_YDSD_180412_01_S_P1_WE_U__AB.txt
+-rw-rw-rw-   1 user     group        3053 Apr 13 04:41 SQ52T_YDSD_180413_01_N_P1_WE_U__AB.info
+-rw-rw-rw-   1 user     group         432 Apr 13 04:41 SQ52T_YDSD_180413_01_N_P1_WE_U__AB.txt

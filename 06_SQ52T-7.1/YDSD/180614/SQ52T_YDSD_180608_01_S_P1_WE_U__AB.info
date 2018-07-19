@@ -1,0 +1,178 @@
+serial number of this version: 0022
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-13-18:51~20:48
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-14-11:54~14:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f52b9b7<---e9a4d0d )          
+commit f52b9b7cc91748b7d73661d61bc43d26fb7dfa3e
+Author: hetao <tao.he@urovo.com>
+Date:   Mon May 14 11:50:26 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本默认关闭蓝牙
+commit e9a4d0d5b3ee8492c49a3525210b37e32cf58737
+Author: hetao <tao.he@urovo.com>
+Date:   Sun May 13 18:45:07 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本修复双卡发送短信Crash问题
+****************************************************************************
+serial number of this version: 0022
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-05-01:48~03:51
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-08-19:21~21:28
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3873a4b<---2932f87 )          
+commit 3873a4b1cc452928eef0f0c347e9211ba70ae1ae
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jun 7 17:56:23 2018 +0800
+
+    [SQ52][YDSDTY][Other][]: model name  改为 M7(M)
+    
+    Product:SQ52
+    Customer:YDSDTY
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:model name  改为 M7(M)
+    
+    Commit Tools Version:ca2c4f7
+
+commit 79c340fa381c674c790adda349b85e90971a06ba
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jun 7 15:17:45 2018 +0800
+
+    [SQ52T][XX][Other][]: 更改CPU调频策略（软件自测）
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更改CPU调频策略（软件自测）
+    
+    Commit Tools Version:ca2c4f7
+
+commit 0e7f68baf757c06221e1601dc61b63a4c69352e2
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jun 7 13:54:54 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 仅YDSD 来通知不亮屏幕
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:仅YDSD 来通知不亮屏幕
+    
+    Commit Tools Version:2133d84
+
+commit f9d047df1c6f69833809bf8bfe0d976ceca4bf97
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Wed Jun 6 19:35:33 2018 +0800
+
+    [ALL][XX][Scan][]: 修复6603 Enable checksum不生效
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复6603 Enable checksum不生效
+    
+    Commit Tools Version:ca2c4f7
+
+commit 57648d4ff70ba1dabbcd4281e927e5bbecb0a53a
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 6 16:47:47 2018 +0800
+
+    [SQ52T][XX][Other][]: SQ52T 来通知不亮屏幕，默认打开强制GPU渲染
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T 来通知不亮屏幕，默认打开强制GPU渲染
+    
+    Commit Tools Version:2133d84
+
+commit 86fe5787f548e4472ae45e554c691e28df394c9b
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Wed Jun 6 16:29:45 2018 +0800
+
+    [ALL][XX][Other][]: YTO定制型号修改为I6310B
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YTO定制型号修改为I6310B
+    
+    Commit Tools Version:94c45c6
+
+commit 4871cfeaf2a35f019f62274e6263668286fed0ec
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Wed Jun 6 11:20:41 2018 +0800
+
+    [ALL][XX][Other][]: OTA在线断电续传升级，偶现验证签名失败
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:OTA在线断电续传升级，偶现验证签名失败
+    
+    Commit Tools Version:94c45c6
+commit 2932f87ce703a74e1dcb278e61aeeb3a7e09c4b9
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Jun 4 23:06:07 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本 1.电量使用详情列表移除蓝牙；2.添加settings动态配置方案，并支持一级菜单配置
+****************************************************************************

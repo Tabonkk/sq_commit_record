@@ -1,0 +1,72 @@
+serial number of this version: 0044
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-16:22~17:21
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-20:14~21:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(f3d2e79<---35c7e49 )          
+commit f3d2e799249b21c4a9a9bb477609dd916bb2ce79
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:48:09 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3c82de9<---c17524f )          
+commit 3c82de962dc573ff6534e32c1a9e078b48766f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:28:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+commit c17524f75b7023a2f681f4340489e910a8bcfa01
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 9 10:52:58 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

@@ -1,0 +1,12 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-29 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+设置wifi选项显示成WLAN，解决：下载apk安装置灰 <wujinquan>
+海外版本去掉超高屏应用，蓝牙名字和设备型号一致 <wujinquan>
+DeviceManagerService实现reboot，shutdown等接口（软件自测） <wujinquan>
+[SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function <jiaxinxin>

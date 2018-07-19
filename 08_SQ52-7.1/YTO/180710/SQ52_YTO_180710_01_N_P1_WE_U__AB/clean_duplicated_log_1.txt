@@ -1,0 +1,14 @@
+ *************************************************************************
+ SQ52_YTO_Nsigned
+ 编译日期：2018-07-10 编译序号：01
+ 内核提交记录：
+ 未发现前一正式版本，使用前一编译版本
+ [SQ52][ALL][USB][]: improve_usb_drive_power <yangguang>
+ 系统提交记录：
+ UTE定制only wifi版本UTEWO需使用定制系统key <Rocky>
+ YDSD OTA升级报错（定制关闭蓝牙时出现权限问题） <liqianbo>
+ 卡２插入电信卡，*#06# imei显示相同问题修复 <gouwei>
+ 修复编译报错（软件自测） <gouwei>
+ google应用不进行预优化（软件自测） <gouwei>
+ 删除无用camera so库，节省系统空间（软件自测） <gouwei>
+ 增加日志分析关机问题 <gouwei>

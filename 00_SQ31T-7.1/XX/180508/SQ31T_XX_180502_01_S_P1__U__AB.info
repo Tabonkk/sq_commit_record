@@ -1,0 +1,46 @@
+serial number of this version: 0044
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      FAST-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-04-28-14:10~14:26
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O PRO false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-02-10:55~11:54
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(85d0690<---85d0690 )          
+
+commit 85d0690295ca1569f884810acc44abff307666bd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Apr 27 14:05:41 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0426
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0426
+    Description:patch_from_yufan_0426
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9912d28<---9912d28 )          
+
+commit 9912d28ec5f8a409b2ca3841e697851ccb73173c
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri Apr 27 15:45:05 2018 +0800
+
+    [ALL][XX][Other][]: 修改adb命令不能进入recovery
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改adb命令不能进入recovery
+    
+    Commit Tools Version:94c45c6
+****************************************************************************

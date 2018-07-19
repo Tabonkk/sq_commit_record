@@ -1,0 +1,119 @@
+serial number of this version: 0040
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 06      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-06-19:12~20:04
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O PRO false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-07-10:48~11:28
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(817dcf8<---629e3fc )          
+commit 817dcf80ba33899cbca191b943429f218d543eb7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:45:55 2018 +0800
+
+    [SQ31T][XX][Factory][]: 修改予凡工厂测试FN键（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:修改予凡工厂测试FN键（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 1c80dd9778b19998cd7fa47bb20bc5de0793a56c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:11:01 2018 +0800
+
+    [SQ31T][XX][UI][]: 版本号区分内存和存储大小
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:版本号区分内存和存储大小
+    
+    Commit Tools Version:d6794eb
+
+commit 5efa45106ddd6b638990dd371ff339886b5f85e8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:09:20 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：添加用户后并立即设置新用户，设备提示：6601扫描头已停止运行
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：添加用户后并立即设置新用户，设备提示：6601扫描头已停止运行
+    
+    Commit Tools Version:d6794eb
+
+commit 90f436d98f46fc3dd7a0b7c16bc2bac7cc37fb1d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:04:57 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：【6603】扫描demo界面，操作scan键，不出光（红光和白光),可解码
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：【6603】扫描demo界面，操作scan键，不出光（红光和白光),可解码
+    
+    Commit Tools Version:d6794eb
+
+commit 950d2a44bd77ef46e410f4cbeeb6e0b2a91290e8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 7 10:00:32 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：*#1261*#中切换扫描头类型，设备提示：扫描头高级设置停止运行
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：*#1261*#中切换扫描头类型，设备提示：扫描头高级设置停止运行
+    
+    Commit Tools Version:d6794eb
+commit 629e3fc8af47a18ae0381b6202a9270eb98261d4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jul 6 19:07:14 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加dev/input/event*权限（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加dev/input/event*权限（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

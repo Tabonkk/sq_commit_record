@@ -1,0 +1,302 @@
+serial number of this version: 0005
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-11:21~13:24
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-14:52~16:55
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b9c3df2<---5b66794 )          
+commit b9c3df2e8292f5b88f0151c1d744951c4f5fd2b9
+Merge: 4c918ab 5679484
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 14:50:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4c918ab976541988b6e801ac551dce16f3a0ab05
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 14:47:02 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 修改音频参数通道
+
+commit 56794842fcac506ef3e3b3eb5c27244983d7c3db
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri May 18 13:59:17 2018 +0800
+
+    [ALL][XX][Other][]: 插入电信卡，×#06#显示MEID有时为0问题修复
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:插入电信卡，×#06#显示MEID有时为0问题修复
+    
+    Commit Tools Version:d6794eb
+commit 5b66794af62079fa0acf84e4556c7ed7933c7ac1
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 11:15:33 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本 修复录音文件无法删除问题
+****************************************************************************
+serial number of this version: 0006
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-14:52~16:55
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-21:00~22:59
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(940eb5a<---b9c3df2 )          
+commit 940eb5a5636e8611ac59b907cc005531505128c1
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri May 18 19:42:21 2018 +0800
+
+    [SQ52][Other][APP][]: YTO圆通定制，应用请求连接vpn时跳过确认对话框
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:YTO圆通定制，应用请求连接vpn时跳过确认对话框
+    
+    Commit Tools Version:f7b8ba2
+
+commit 26c4c5bad0cbb4eba1390638985ac62ce1fa727f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri May 18 19:35:57 2018 +0800
+
+    [SQ52][XX][APP][]: 恢复美格提交的修改，应用无法监听到ConnectivityManager.CONNECTIVITY_ACTION网络切换广播
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:恢复美格提交的修改，应用无法监听到ConnectivityManager.CONNECTIVITY_ACTION网络切换广播
+    
+    Commit Tools Version:f7b8ba2
+
+commit ae5daed6e8f28b8966b127ed42fe50c39b154c6b
+Merge: aaccb37 2c8e789
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri May 18 18:43:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit aaccb376ae4b6b171f2433faa30458b56b54b3a5
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri May 18 18:41:46 2018 +0800
+
+    [SQ52][YDSD][Other][]: 白名单功能重启失效bug修复
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:白名单功能重启失效bug修复
+    
+    Commit Tools Version:d6794eb
+
+commit 2c8e789e34def45e0e956a980dc8552bfa131b8d
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 18:39:55 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 音频参数回退
+commit b9c3df2e8292f5b88f0151c1d744951c4f5fd2b9
+Merge: 4c918ab 5679484
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 14:50:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************
+serial number of this version: 0007
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-21:00~22:59
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-21-11:21~13:20
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(8929627<---940eb5a )          
+commit 8929627f10632f0375cb62bbc8c34632038da5ac
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 11:09:10 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD白名单定制（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD白名单定制（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit ca8c94174b284925ec77ba81bba9df8f322bb90d
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Fri May 18 21:32:10 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设置DeviceOwner权限
+commit 940eb5a5636e8611ac59b907cc005531505128c1
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri May 18 19:42:21 2018 +0800
+
+    [SQ52][Other][APP][]: YTO圆通定制，应用请求连接vpn时跳过确认对话框
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:YTO圆通定制，应用请求连接vpn时跳过确认对话框
+    
+    Commit Tools Version:f7b8ba2
+****************************************************************************
+serial number of this version: 0008
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-21-11:21~13:20
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-21-16:35~18:34
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ad54640<---8929627 )          
+commit ad5464065063ae3308112bed5828a4bef44d1c99
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 16:34:03 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 编译错误（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译错误（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 8cd795b8d4a8ed9ec1dacab21de02912c3059a10
+Merge: d645c9b 753beae
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon May 21 14:47:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d645c9b855f5f1bb1abd4b46d76dc1de4a9dddd0
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon May 21 14:44:32 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_acdb
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_acdb
+    Description:add_acdb
+    
+    Commit Tools Version:0be60f5
+
+commit 753beae4900c1d8c87c00fcf4742d0b236f853f0
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 14:35:27 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD白名单定制（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD白名单定制（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 8929627f10632f0375cb62bbc8c34632038da5ac
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 11:09:10 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD白名单定制（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD白名单定制（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

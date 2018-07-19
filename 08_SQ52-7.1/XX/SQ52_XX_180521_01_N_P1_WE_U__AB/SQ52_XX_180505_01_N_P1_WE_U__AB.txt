@@ -1,0 +1,22 @@
+*************************************************************************
+SQ52W_UTE_Nsigned
+编译日期：2018-05-03 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+YDSD 锁屏需求提交 <gouwei>
+YDSD 锁屏需求提交 <gouwei>
+*************************************************************************
+SQ52_XX_Nsigned
+编译日期：2018-05-05 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52][XX][USB][]: add from yangguang <ShiXiaoKai>
+[SQ52][ALL][Other][]: suppert_3d_camera <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+add from yangguang <ShiXiaoKai>
+1.Open USB port for user-build 2. revert committed changes for "No command" before <baixueyuan>
+support_3d_camera <yangguang>

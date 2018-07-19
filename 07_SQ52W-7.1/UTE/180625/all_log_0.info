@@ -1,0 +1,296 @@
+serial number of this version: 0019
+the previous command is: ./OS_Build7_8917.sh SQ52W UTE N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-14-14:30~17:44
+the command of this build is: ./OS_Build7_8917.sh SQ52W UTE N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-25-10:18~13:25
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f959ea5<---766b6a8 )          
+commit f959ea50061638d7eb5a4206a495a7ae87e52966
+Merge: fc88080 694a301
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jun 25 10:16:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 694a30131c4fe55b1de00e4321999effefad1a22
+Merge: 2d6e4f0 a3045a4
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jun 23 11:57:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a3045a49c5c54d4607e26799a1a8a66ac7484ef3
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jun 23 10:51:02 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通移动管理DevicePolicyManagerService权限问题（软件自测）
+
+commit 2d6e4f03e938907c96b2ee70a95f4658da12d41f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jun 23 09:48:29 2018 +0800
+
+    [ALL][XX][Other][]: 显示蓝牙耗电量，电量显示情况更改百分比策略
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:显示蓝牙耗电量，电量显示情况更改百分比策略
+    
+    Commit Tools Version:ca2c4f7
+
+commit fc880804a5bfed75d25d59c50858729db8b34d72
+Merge: e70b375 9a9fd53
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Jun 22 16:21:58 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 9a9fd53cbb80292002ba17551f846a96f2108539
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 22 15:55:51 2018 +0800
+
+    [SQ52W][ALL][Wifi][]: add_wifi_config
+    
+    Product:SQ52W
+    Customer:ALL
+    Module:Wifi
+    Bug ID:
+    Key Word:add_wifi_config
+    Description:add_wifi_config
+    
+    Commit Tools Version:0be60f5
+
+commit 3ac21f28302e0d279f02d836374fec4434fe128d
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 22 14:35:11 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通管理应用admindevice权限问题（软件自测）
+
+commit cf607716b18e97799e736b0390809285cfd1c5a5
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 20:01:24 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(软件自测)
+
+commit 96321be3bcd2a5f0da389ea4f88aabac1e05d4d9
+Merge: 84d36a7 6005cce
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 17:02:25 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 84d36a77347adb6bff204cda58cd8a893af1437c
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 16:57:51 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误(软件自测)
+
+commit 6005ccef5451b89919f301f26bff88cfd3710bdd
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jun 21 14:32:02 2018 +0800
+
+    [SQ52W][ALL][Other][]: modfy_4G_network_station
+    
+    Product:SQ52W
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_4G_network_station
+    Description:modfy_4G_network_station
+    
+    Commit Tools Version:0be60f5
+
+commit 245d7a745eb6d0f079382953620a46971f653544
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 10:04:54 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:DeviceAdmin清除密码权限；禁止设置gps接口；（软件自测）
+
+commit e70b375a08d3173bbb68ab88e8f8efde0d5d6de0
+Merge: 766b6a8 4e9576e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jun 20 15:36:55 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 4e9576ebe4ba89f5d86b0a0ad4c399129e4b71b4
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 20 09:48:10 2018 +0800
+
+    [SQ52][UTE][Other][]: 工厂测试增加英文
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:工厂测试增加英文
+    
+    Commit Tools Version:ca2c4f7
+
+commit d61804ef3d21210bac2023897892eae3950a1dbc
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 19 10:20:30 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设备管理设置，“圆通移动管理”置灰
+
+commit d02168868550d395d4f2dc2ad54e0aa9d0b3c25d
+Merge: 1fd1217 42b11de
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 17:16:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1fd12177b205af899d2ac501b975f043445256ff
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 17:14:53 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_double_mic_test_device
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_double_mic_test_device
+    Description:add_double_mic_test_device
+    
+    Commit Tools Version:0be60f5
+
+commit 42b11de2c465766efb565ad08b39633d05f418ac
+Merge: 345284d 5183a5e
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 15 16:42:58 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 345284d1997fba4677c9a36b160a3218b5af595c
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 15 16:38:14 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复自动激活设备管理器失败问题（软件自测）
+
+commit 5183a5e87821971287e090139b30391078c49cc0
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 16:17:01 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_two_miac_acdb
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_two_mic_acdb
+    Description:add_two_miac_acdb
+    
+    Commit Tools Version:0be60f5
+
+commit 28d2810dca49ae9e2bcfba3910ad765f9e0edccb
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Jun 15 15:17:33 2018 +0800
+
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:工厂模式可以测试双mic
+commit 766b6a84eef4fb331b00f8b293d52556988c59cd
+Merge: 79ce5bd b5e045b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jun 13 10:26:33 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************
+serial number of this version: 0020
+the previous command is: ./OS_Build7_8917.sh SQ52W UTE N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-25-10:18~13:25
+the command of this build is: ./OS_Build7_8917.sh SQ52W UTE N 02      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-25-15:05~17:09
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(87faac5<---f959ea5 )          
+
+
+****************************************************************************

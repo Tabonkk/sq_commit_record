@@ -1,0 +1,3 @@
+ [SQ46W][XX][Other][]: 解决飞行模式下低电流为20mA左右的问题，座充的插入检测处理根据硬件的提议设定在延迟1秒左右 <baixueyuan>
+ 配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。 <baixueyuan>
+ [SQ46W][XX][Other][]: 解决关机充电插入DC座充反复重启的问题 <baixueyuan>

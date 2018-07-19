@@ -1,0 +1,4 @@
+drwxrwxrwx   1 user     group           0 Jul  2 18:48 .
+drwxrwxrwx   1 user     group           0 Jul  2 18:48 ..
+-rw-rw-rw-   1 user     group       87187 Jul  2 18:48 SQ42T_HRDC_180702_01_N_P1_AX_U_16+16_AB.info
+-rw-rw-rw-   1 user     group        3216 Jul  2 18:48 SQ42T_HRDC_180702_01_N_P1_AX_U_16+16_AB.txt

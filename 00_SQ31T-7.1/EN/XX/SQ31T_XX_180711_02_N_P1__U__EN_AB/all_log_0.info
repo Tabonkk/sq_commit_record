@@ -1,0 +1,292 @@
+serial number of this version: 0027
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-28-13:53~15:00
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-29-15:54~17:12
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5d08e69<---5d08e69 )          
+
+commit 5d08e6966ff0bd4bcc07aad6b6c4d598b82c72ed
+Author: yangguang <guang.yang@urovo.com>
+Date:   Fri Jun 15 15:20:54 2018 +0800
+
+    [SQ31T][ALL][Charge][]: change_charge_curren_to_150000
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:change_charge_current_to_150000
+    Description:change_charge_curren_to_150000
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bf5845d<---0577adf )          
+commit bf5845d97baeddee4ea78e3c50ce7ee3e6bf5610
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 18:06:34 2018 +0800
+
+    [SQ31T][XX][UI][]: 设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:设置wifi选项显示成WLAN，解决：下载apk安装置灰
+    
+    Commit Tools Version:d6794eb
+
+commit e3c4b3e85ea5977fd41d41f35e8dfd9e7e5b0adf
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 17:24:02 2018 +0800
+
+    [SQ31T][XX][BT][]: 海外版本去掉超高屏应用，蓝牙名字和设备型号一致
+    
+    Product:SQ31T
+    Customer:XX
+    Module:BT
+    Bug ID:
+    Key Word:
+    Description:海外版本去掉超高屏应用，蓝牙名字和设备型号一致
+    
+    Commit Tools Version:d6794eb
+
+commit 6bcdec65589f320500dded24a7c6832e4dcd4773
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Jun 28 13:52:00 2018 +0800
+
+    [SQ31T][XX][Other][]: DeviceManagerService实现reboot，shutdown等接口（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:DeviceManagerService实现reboot，shutdown等接口（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 0577adf27a0af438052ee9ed139f164840ce2345
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Jun 28 11:08:56 2018 +0800
+
+    [SQ31T][XX][Camera]æmodify GX ov5648 camera tunning function
+****************************************************************************
+serial number of this version: 0043
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-10:58~12:02
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-16:22~17:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(c17524f<---c17524f )          
+
+commit c17524f75b7023a2f681f4340489e910a8bcfa01
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 9 10:52:58 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决问题：偶现6603扫描头设置点击“配置取景框”报错
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0045
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-20:14~21:21
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 04      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-09-21:55~23:09
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(f3d2e79<---f3d2e79 )          
+
+commit f3d2e799249b21c4a9a9bb477609dd916bb2ce79
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:48:09 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3c82de9<---3c82de9 )          
+
+commit 3c82de962dc573ff6534e32c1a9e078b48766f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 9 19:28:26 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0709
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0709
+    Description:patch_from_yufan_0709
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+serial number of this version: 0047
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-10-17:52~18:59
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-10:03~11:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(7d2b914<---7d2b914 )          
+
+commit 7d2b914b7789e206575c3b70588b1e3f910e465f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 17:18:38 2018 +0800
+
+    [SQ31T][XX][KEY][]: 修复问题：合入补丁导致扫描键失效
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:修复问题：合入补丁导致扫描键失效
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0048
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-10:03~11:00
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-19:15~20:18
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(e962fa2<---7d2b914 )          
+commit e962fa2a82cd73ee8ee424aaad175ace5c7a35e1
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 11 17:42:38 2018 +0800
+
+    [SQ31T][UTE][UI][]: UTE定制型号改为HT510
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:UTE定制型号改为HT510
+    
+    Commit Tools Version:d6794eb
+
+commit 544b0307c6196ac61f04fe7ecdf6306ab8ba4ecc
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 11 17:23:53 2018 +0800
+
+    [SQ31T][UTE][Factory][]: 解决问题：工厂测试触摸屏显示不全
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:解决问题：工厂测试触摸屏显示不全
+    
+    Commit Tools Version:d6794eb
+commit 7d2b914b7789e206575c3b70588b1e3f910e465f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 17:18:38 2018 +0800
+
+    [SQ31T][XX][KEY][]: 修复问题：合入补丁导致扫描键失效
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:修复问题：合入补丁导致扫描键失效
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

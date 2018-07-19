@@ -1,0 +1,70 @@
+serial number of this version: 0002
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-04-01:29~04:10
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD N-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-10-01:50~04:26
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5e21a69<---5e21a69 )          
+
+commit 5e21a69252093926d0dde74a2431e928f3777814
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue Mar 27 15:00:28 2018 +0800
+
+    [SQ52T][ALL][Scan]调整6603扫描头导致的休眠功耗高问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(573b4ae<---6d09d15 )          
+commit 573b4ae27a02311767c6672f6ae211ef4623b39e
+Merge: 6d09d15 f22003e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 8 18:34:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f22003e9fbe4d7769f25f05e358a21ff6dfa054c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Apr 8 15:04:17 2018 +0800
+
+    [ALL][XX][Scan][]: 同步扫描头代码(软件验证)
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:同步扫描头代码(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit ac4259bf739ba9bb276d808ff6e70b89064abb44
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sun Apr 8 11:33:58 2018 +0800
+
+    [SQ52T][ALL][Camera]高像后摄像头和舜宇前摄兼容
+
+commit 3641f994710b09b9e7c41464b06f692784798dc8
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Apr 8 11:21:05 2018 +0800
+
+    [ALL][XX][Scan][]: N6603添加Convert upc-a to ean-13
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:N6603添加Convert upc-a to ean-13
+    
+    Commit Tools Version:f7b8ba2
+commit 6d09d15fe7f6e57f9c81250874eeaca88ce84eac
+Merge: dd195a6 248804c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 3 17:05:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

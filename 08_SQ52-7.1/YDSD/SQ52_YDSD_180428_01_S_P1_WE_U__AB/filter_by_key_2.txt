@@ -1,0 +1,23 @@
+ [SQ52][ALL][Charge][]: add charge curve <yangguang>
+ 设置应用里面不能操作云桌面 <gouwei>
+ 设置中不能禁用云桌面 <gouwei>
+ YD 需求隐藏系统升级，同时提供接口app可以打开系统升级并且如有升级包，强制升级 <gouwei>
+ MEID 只显示一个 <gouwei>
+ 桌面图标布局更改 <gouwei>
+ N6603添加Convert upc-a to ean-13 <Rocky>
+ [SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。 <baixueyuan>
+ [SQ52][XX][Other][]: 限制gpu最多频率，按阳工提供的修改 <ShiXiaoKai>
+ YDSD 锁屏需求提交 <gouwei>
+ [SQ52][ALL][fingerprint]添加同面积录入和同手指录入提醒 <jiaxinxin>
+ ro.product.manufacturer显示Unitech，apk内置AutoExec需系统签名 <Rocky>
+ 调整系统硬件耗电量的profile文件，原来的根本不能用 <gouwei>
+ 配合阳广优化设置中电量使用情况中蓝牙的电量消耗 <gouwei>
+ 配合阳广做省电优化，默认锁屏时间为30秒，锁屏界面灭屏时间为5秒，CPU调频策略优化 <gouwei>
+ UTE 客户需求提交 <gouwei>
+ UTE使用独立定制证书，升级后允许UTE版本升级普通版本互刷 <Rocky>
+ YDSD 开发者选项中正在运行的服务选项置灰 <gouwei>
+ 韵达定制更新APP <Rocky>
+ 所有项目关机温度设置为80度，YDSD默认关闭USB调试，并设置为禁用 <gouwei>
+ 韵达SQ52T暂时移除第三方手机UI，恢复android原生UI <Rocky>
+ 更新韵达应用中心V1.2.18.0412，暂时移除第三方手机UI，恢复android原生UI <Rocky>
+ 老化测试扫描头一直出光扫码问题修复 <gouwei>

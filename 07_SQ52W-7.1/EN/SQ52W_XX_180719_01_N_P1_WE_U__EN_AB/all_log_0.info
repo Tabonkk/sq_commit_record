@@ -1,0 +1,154 @@
+serial number of this version: 0013
+the previous command is: ./OS_Build7_8917.sh SQ52W XX  N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-16-09:32~12:19
+the command of this build is: ./OS_Build7_8917.sh SQ52W XX  N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-19-10:03~12:48
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(303f14a<---8c11f5d )          
+commit 303f14abe3709c35f7b88aedae10ec5728da8389
+Author: tankaikun <kaikun.tan@urovo.com>
+Date:   Thu Jul 19 09:37:14 2018 +0800
+
+    Product:SQ52W
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:
+    Description:解决问题：TP休眠不正常导致待机功耗高
+
+commit 5445a2c629d2f74f84efd4bbe2c7fdbe880ef2e7
+Author: tankaikun <kaikun.tan@urovo.com>
+Date:   Wed Jul 18 09:18:01 2018 +0800
+
+    drivers/input/touchscreen/gt1x/gt1x_generic.c
+commit 8c11f5dcdc82e9e69a6d9174a147e927a165542b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 19:24:18 2018 +0800
+
+    [SQ52T][ALL][Other][]: improve_usb_driver
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:improve_usb_driver
+    Description:improve_usb_driver
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(7fcb9e1<---d672726 )          
+commit 7fcb9e10737deb1fb2abdaf5a0516de1201edd65
+Merge: d672726 ebd8854
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jul 19 10:01:58 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ebd8854b8023faa57b23646a888a06c05dab1157
+Author: hetao <tao.he@urovo.com>
+Date:   Wed Jul 18 18:11:34 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新应用中心
+
+commit f21f1303f5d26c2fa99955fa58775c7b20f6833e
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 18 16:08:54 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_two_mic
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_two_mic
+    Description:add_two_mic
+    
+    Commit Tools Version:0be60f5
+
+commit 0c030da8ca28116bba3bf8ef4bb80c0f846ceded
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 18:05:23 2018 +0800
+
+    [ALL][XX][Other][]: 编译报错（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译报错（软件自测）
+    
+    Commit Tools Version:94c45c6
+
+commit 3deeda531b65701f5594ff8a466ec0718f2ec4ef
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 17:58:52 2018 +0800
+
+    [ALL][XX][Other][]: SQ52 YDSD OTA升级时清除开机密码
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 YDSD OTA升级时清除开机密码
+    
+    Commit Tools Version:94c45c6
+
+commit 7b6a2092cafef62affc3f892a37644752b8da320
+Merge: 305889d 7e2c322
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Jul 16 17:26:53 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7e2c3224698885780364994c5f140064865ca272
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Jul 16 15:13:34 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD 版本号体现非签名版
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD 版本号体现非签名版
+    
+    Commit Tools Version:ca2c4f7
+
+commit 305889d57168e2a91f07db625dc763c3b4e92a84
+Merge: 75f7a60 bc8149e
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 17:31:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 75f7a606b67c440f8b03d960801e067e4b997ffd
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 17:29:26 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新ui版本设置，修复蓝牙电量显示问题，隐藏按键音设置按钮
+commit d67272663b6188effd3909cd6f96a61502aa8331
+Merge: 1cc0bf0 a9f0261
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Jul 16 09:31:06 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

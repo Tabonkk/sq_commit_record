@@ -1,0 +1,189 @@
+serial number of this version: 0011
+the previous command is: ./OS_Build7_8917.sh SQ52 YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-03-17:07~20:14
+the command of this build is: ./OS_Build7_8917.sh SQ52 YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-11-17:35~20:51
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(68c2948<---68c2948 )          
+
+commit 68c294843f61dffc10d231517c3d1d84a79fbdf5
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Mar 12 15:11:36 2018 +0800
+
+    [SQ52][ALL][Charge][]: add charge curve
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:add charge curve
+    Description:add charge curve
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bd0f2ce<---6d09d15 )          
+commit bd0f2cec97bbce82e3d276f8e349e2fb1195f6ec
+Merge: 644aa18 941caaa
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 13:29:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 644aa185070e2c0faf65081d78fac23d93838713
+Merge: a7b5715 88b229b
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 11 09:45:02 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 941caaa405a48bfc6227855dab94a2a94a070188
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Apr 11 09:42:18 2018 +0800
+
+    [SQ52][YDSD][Other][]: YD 需求隐藏系统升级，同时提供接口app可以打开系统升级并且如有升级包，强制升级
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YD 需求隐藏系统升级，同时提供接口app可以打开系统升级并且如有升级包，强制升级
+    
+    Commit Tools Version:5b9f5d3
+
+commit 88b229b62b86a4c2f5660c6280843b7350a71261
+Merge: bd80e87 3ed9488
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 11 09:32:19 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bd80e872ad77d7d20007a55fdf4d6247274ac164
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 11 09:29:37 2018 +0800
+
+    [SQ52W][XX][Other][]: SQ52W签名OS包的签名和SQ52、SQ52T的保持一致
+    
+    Product:SQ52W
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:SQ52W签名OS包的签名和SQ52、SQ52T的保持一致
+    Description:SQ52W签名OS包的签名和SQ52、SQ52T的保持一致
+    
+    Commit Tools Version:6119286
+
+commit a7b571596c48bf09179aa7a4b79ea448b830699a
+Merge: 525acc8 3ed9488
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 10 22:14:26 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3ed948839414409121aea75f89f7f4cb3e75e209
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 10 18:14:37 2018 +0800
+
+    [SQ52][XX][Other][]: MEID 只显示一个
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:MEID 只显示一个
+    
+    Commit Tools Version:5b9f5d3
+
+commit 525acc898918e1e0c4287b7fcbbc020c61e9bae5
+Merge: 573b4ae 49cb26a
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 10 15:05:20 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 49cb26a29ac3c47a8f550118a42da8cd0318512e
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 10 14:24:51 2018 +0800
+
+    [SQ52][YDSD][Other][]: 桌面图标布局更改
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:桌面图标布局更改
+    
+    Commit Tools Version:5b9f5d3
+
+commit da5cdaf398cf1ca259c9cceaf6bc7b72d7c868da
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Apr 10 10:02:55 2018 +0800
+
+    [SQ52T][XX][Audio][]: 更新音频效果文件
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Audio
+    Bug ID:
+    Key Word:更新音频效果文件
+    Description:更新音频效果文件
+    
+    Commit Tools Version:e77912a
+
+commit 573b4ae27a02311767c6672f6ae211ef4623b39e
+Merge: 6d09d15 f22003e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 8 18:34:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f22003e9fbe4d7769f25f05e358a21ff6dfa054c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Apr 8 15:04:17 2018 +0800
+
+    [ALL][XX][Scan][]: 同步扫描头代码(软件验证)
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:同步扫描头代码(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit ac4259bf739ba9bb276d808ff6e70b89064abb44
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sun Apr 8 11:33:58 2018 +0800
+
+    [SQ52T][ALL][Camera]高像后摄像头和舜宇前摄兼容
+
+commit 3641f994710b09b9e7c41464b06f692784798dc8
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Apr 8 11:21:05 2018 +0800
+
+    [ALL][XX][Scan][]: N6603添加Convert upc-a to ean-13
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:N6603添加Convert upc-a to ean-13
+    
+    Commit Tools Version:f7b8ba2
+commit 6d09d15fe7f6e57f9c81250874eeaca88ce84eac
+Merge: dd195a6 248804c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 3 17:05:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

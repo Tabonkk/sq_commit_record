@@ -1,0 +1,12 @@
+*************************************************************************
+SQ46W_UTE_Nsigned
+编译日期：0605 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+删除Installer V1.2.93_unsigned；AirPlaneModeOff-unsigned；OSInstaller V1.1.3_unsigned ； U2-R70； <wujinquan>
+JANAM定制:1,内核版本号第二行改为@Linux #15  2，版本号显示为“10.01A1-”+日期 3， 更改扫描demo对话框里的显示为：Aim device at barcode and hold either scan button，4，在打电话的时候默认为免提模式 ，  5、扫描头设置显示在桌面 ，6、U2-R70 app改为BTS-01 Connect <wujinquan>
+设备连接电脑后，允许第三方app启动打开USB连接模式选项界面，同时移除android.permission.MANAGE_USB系统权限检查(软件验证) <Rocky>
+配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。 <baixueyuan>

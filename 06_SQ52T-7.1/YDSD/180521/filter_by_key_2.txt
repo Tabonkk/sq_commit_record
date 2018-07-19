@@ -1,0 +1,3 @@
+ [SQ52T][ALL][Scan]修复部分6603不出光问题 <jiaxinxin>
+ 插入电信卡，×#06#显示MEID有时为0问题修复 <gouwei>
+ add_acdb <yangguang>

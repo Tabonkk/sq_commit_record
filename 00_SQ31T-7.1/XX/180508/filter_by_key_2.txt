@@ -1,0 +1,9 @@
+ [SQ31T][ALL][Other][]: patch_from_yufan_0426 <yangguang>
+ 修改adb命令不能进入recovery <liqianbo>
+ 修复TF卡升级完后升级包被删除 <wujinquan>
+ 去掉切换摄像头按钮 <wujinquan>
+ 6603扫描头增加手机模式设置选项 <wujinquan>
+ *#316显示界面移除Baseline <wujinquan>
+ 修复工厂测试NFC结果状态不更新 <wujinquan>
+ 增加urovo log <wujinquan>
+ 增加按键映射 <DengTonglong>

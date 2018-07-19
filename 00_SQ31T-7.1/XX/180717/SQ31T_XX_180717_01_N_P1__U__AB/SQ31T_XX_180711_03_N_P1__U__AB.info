@@ -1,0 +1,46 @@
+serial number of this version: 0049
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-19:15~20:18
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-20:18~21:24
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(e962fa2<---e962fa2 )          
+
+commit e962fa2a82cd73ee8ee424aaad175ace5c7a35e1
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 11 17:42:38 2018 +0800
+
+    [SQ31T][UTE][UI][]: UTE定制型号改为HT510
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:UTE定制型号改为HT510
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

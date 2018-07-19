@@ -1,0 +1,132 @@
+serial number of this version: 0149
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 02      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-11-06:18~09:05
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-12-16:32~19:38
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(2b506d2<---5487b15 )          
+commit 2b506d2554fd5f55584ba10f975fdc94c196eaa2
+Merge: ee37797 5487b15
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Mar 12 12:09:28 2018 +0800
+
+    Merge branch 'kernel_8940' of 192.168.8.215:8917/Nougat/kernel into kernel_8940
+    
+    Conflicts:
+    	msm-3.18/arch/arm/boot/dts/qcom/msm8937-pinctrl.dtsi
+
+commit ee377978755ad59d1e2408a6c096cd6a973c8718
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Mar 10 16:22:06 2018 +0800
+
+    [SQ52][XX][LED][]: 系统运行充电双色LED，扫描双色LED支持
+    
+    Product:SQ52
+    Customer:XX
+    Module:LED
+    Bug ID:
+    Key Word:系统运行充电双色LED，扫描双色LED支持
+    Description:系统运行充电双色LED，扫描双色LED支持
+    
+    Commit Tools Version:140f12f
+commit 5487b15b8355a04565c5ec193e738242a8a92c84
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sat Mar 10 17:47:14 2018 +0800
+
+    [SQ52][XX][Camera]添加s5k5和s5k3，6603配置
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(4d23172<---f386338 )          
+commit 4d231720ed3c596f3c58e6b68e36f1092e231bb4
+Merge: f386338 62712a4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 12 16:29:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 62712a4b8ca563e8758b86c1d1ce4bce40219b01
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Mar 12 15:43:56 2018 +0800
+
+    [ALL][XX][Other][]: 更改电池状态为8 9,引起的电池信息中显示未知的问题
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更改电池状态为8 9,引起的电池信息中显示未知的问题
+    
+    Commit Tools Version:e77912a
+
+commit 89716d4fa426fcc48954a06f846e132f7e71e2f5
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Mar 12 14:40:47 2018 +0800
+
+    [SQ52][XX][APP][]: SQ52T更新系统证书。目前SQ52T设备全部使用urovo生成证书key,SQ52 PDA签名版urovo key,非签版本使用google默认（暂时不能更换）
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:SQ52T更新系统证书。目前SQ52T设备全部使用urovo生成证书key,SQ52 PDA签名版urovo key,非签版本使用google默认（暂时不能更换）
+    
+    Commit Tools Version:f7b8ba2
+
+commit c4891773f5a5c403c240493cb87aa382ef236169
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Mar 12 14:03:27 2018 +0800
+
+    [SQ52][XX][Other][]: 修复编译错误(软件自测)
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误(软件自测)
+    
+    Commit Tools Version:e77912a
+
+commit 34ddd7ee9db11f828d824806341a9a425c433b83
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Mar 12 10:18:25 2018 +0800
+
+    [SQ52][YDSD][Other][]: 添加clouddesktop app
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:添加clouddesktop app
+    
+    Commit Tools Version:e77912a
+
+commit 4d50b4883e912e6bd30f9d8cb5dd0c3104a5155e
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Mar 12 10:04:08 2018 +0800
+
+    [ALL][XX][Scan][]: 扫描头模块添加进下进系统白名单，防止内存不足时被杀死
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描头模块添加进下进系统白名单，防止内存不足时被杀死
+    
+    Commit Tools Version:e77912a
+commit f3863380872f570d64743b63c20172abaea730e2
+Merge: e17bea7 c489eb5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Mar 10 13:49:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

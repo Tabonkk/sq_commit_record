@@ -1,0 +1,46 @@
+serial number of this version: 0001
+the previous command is: NULL
+Build time:
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-21-18:40~20:37
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d20ef39<---d20ef39 )          
+
+commit d20ef39267dad6020b6f1f7f73caddf00ff9f2ae
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed May 9 13:52:31 2018 +0800
+
+    [SQ52][ALL][USB][]: reduce_usb_log
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:reduce_usb_log
+    Description:reduce_usb_log
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ad54640<---ad54640 )          
+
+commit ad5464065063ae3308112bed5828a4bef44d1c99
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon May 21 16:34:03 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 编译错误（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译错误（软件自测）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

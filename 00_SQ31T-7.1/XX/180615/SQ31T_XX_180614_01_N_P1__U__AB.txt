@@ -1,0 +1,16 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-14 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_for_yufan_0604 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+文件漏传，编译报错 <liqianbo>
+去除小部件中的“WLAN热点” <wujinquan>
+patch_from_yufan_0613 <yangguang>
+OTA在线断电续传升级，偶现验证签名失败,整理当前应用 <liqianbo>
+解决问题：【6603】【4750DPM/SR/MR】扫描QR 10mil -20mil 条码，扫描头ANR <wujinquan>
+ 设备状态中不用显示“自定义版本”这项 <wujinquan>
+删除：计算器->点击屏幕右上角的"菜单"图标,显示"开放源代码许可"菜单 <wujinquan>
+扫描头设置只保留斑马原库的“Postal codes”菜单 <wujinquan>

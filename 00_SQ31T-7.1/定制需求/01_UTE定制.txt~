@@ -1,0 +1,12 @@
+定制需求：
+1.在屏幕下方实现虚拟按键，详细键盘布局见附件
+2，Settings->[Languages & input]->[Physical key mapping]->  客户可以选择 F1到F4作为启动按键(代码示例写好了 F1到F4的代码，客户可根据需要进行添加其他按键
+3，定制型号HT510
+4，第三方应用启动的方法如下：
+private static final String ACTION_VIRTUAL_KEY = "com.ufans.action_virtual_key_menu";
+private static final String COMMAND_STRING = "command";
+private static final String COMMAND_VAL_SWITCH = "switch";
+ 
+                Intent intentShowMenu = new Intent(ACTION_VIRTUAL_KEY);
+                intentShowMenu.putExtra(COMMAND_STRING,COMMAND_VAL_SWITCH);
+                sendBroadcast(intentShowMenu);

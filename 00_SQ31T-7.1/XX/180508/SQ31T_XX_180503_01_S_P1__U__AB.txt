@@ -1,0 +1,14 @@
+*************************************************************************
+SQ31T_XX_Signed
+编译日期：2018-05-03 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_0426 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+修复TF卡升级完后升级包被删除 <wujinquan>
+去掉切换摄像头按钮 <wujinquan>
+6603扫描头增加手机模式设置选项 <wujinquan>
+*#316显示界面移除Baseline <wujinquan>
+修复工厂测试NFC结果状态不更新 <wujinquan>
+修改adb命令不能进入recovery <liqianbo>

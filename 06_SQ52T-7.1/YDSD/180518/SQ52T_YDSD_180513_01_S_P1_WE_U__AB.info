@@ -1,0 +1,38 @@
+serial number of this version: 0021
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 04      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-12-20:03~22:01
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-13-18:51~20:48
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(e9a4d0d<---1e8be3d )          
+commit e9a4d0d5b3ee8492c49a3525210b37e32cf58737
+Author: hetao <tao.he@urovo.com>
+Date:   Sun May 13 18:45:07 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本修复双卡发送短信Crash问题
+commit 1e8be3dba9a1d991e4e988e54400c0ab97071dfc
+Merge: 60bc237 2ebf24d
+Author: hetao <tao.he@urovo.com>
+Date:   Sat May 12 16:01:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

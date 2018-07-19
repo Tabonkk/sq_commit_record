@@ -1,0 +1,61 @@
+serial number of this version: 0004
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-17-16:17~18:14
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-18-11:21~13:24
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(5b66794<---4a64b9a )          
+commit 5b66794af62079fa0acf84e4556c7ed7933c7ac1
+Author: hetao <tao.he@urovo.com>
+Date:   Fri May 18 11:15:33 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本 修复录音文件无法删除问题
+
+commit 1eae0db895d9896ed64b5671bb8704b78c365506
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 17 17:49:00 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_handset_Speaker_cal_acdb
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_handset_Speaker_cal_acdb
+    Description:add_handset_Speaker_cal_acdb
+    
+    Commit Tools Version:0be60f5
+commit 4a64b9a176138e8ea14ff06e3b2bf558a1b05aec
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu May 17 15:39:03 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD 新UI更新，去掉开启联网提示
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD 新UI更新，去掉开启联网提示
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

@@ -1,0 +1,46 @@
+serial number of this version: 0012
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-02-14:39~17:25
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-08-11:48~13:47
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(966779c<---0c6ce79 )          
+commit 966779c893c85cd07db3e6063d2f1a958cd05b61
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 8 10:35:12 2018 +0800
+
+    [SQ52T][ALL][TP][]: update_tp_firmware
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:TP
+    Bug ID:
+    Key Word:update_tp_firmware
+    Description:update_tp_firmware
+    
+    Commit Tools Version:0be60f5
+commit 0c6ce791f75255417769bd97c2046dec8f1d8766
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Thu Apr 19 14:22:54 2018 +0800
+
+    [SQ52T][XX][Charge][]: 合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Charge
+    Bug ID:
+    Key Word:合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    Description:合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    
+    Commit Tools Version:6119286
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(aa2f365<---6fa7e89 )          
+
+
+****************************************************************************

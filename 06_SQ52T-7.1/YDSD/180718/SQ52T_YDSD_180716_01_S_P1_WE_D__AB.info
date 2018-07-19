@@ -1,0 +1,110 @@
+serial number of this version: 0058
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-15-14:08~16:07
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-16-18:13~20:19
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0c030da<---a9f0261 )          
+commit 0c030da8ca28116bba3bf8ef4bb80c0f846ceded
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 18:05:23 2018 +0800
+
+    [ALL][XX][Other][]: 编译报错（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译报错（软件自测）
+    
+    Commit Tools Version:94c45c6
+
+commit 3deeda531b65701f5594ff8a466ec0718f2ec4ef
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 17:58:52 2018 +0800
+
+    [ALL][XX][Other][]: SQ52 YDSD OTA升级时清除开机密码
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 YDSD OTA升级时清除开机密码
+    
+    Commit Tools Version:94c45c6
+
+commit 7b6a2092cafef62affc3f892a37644752b8da320
+Merge: 305889d 7e2c322
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Jul 16 17:26:53 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7e2c3224698885780364994c5f140064865ca272
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Jul 16 15:13:34 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD 版本号体现非签名版
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD 版本号体现非签名版
+    
+    Commit Tools Version:ca2c4f7
+
+commit 305889d57168e2a91f07db625dc763c3b4e92a84
+Merge: 75f7a60 bc8149e
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 17:31:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 75f7a606b67c440f8b03d960801e067e4b997ffd
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 17:29:26 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新ui版本设置，修复蓝牙电量显示问题，隐藏按键音设置按钮
+commit a9f0261d0dcca09813d5187e54d1b76b37676778
+Author: luolin <lin.luo@urovo.com>
+Date:   Sun Jul 15 11:29:45 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误
+****************************************************************************

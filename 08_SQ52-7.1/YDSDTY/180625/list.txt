@@ -1,0 +1,8 @@
+drwxrwxrwx   1 user     group           0 Jun 25 14:59 .
+drwxrwxrwx   1 user     group           0 Jun 25 14:59 ..
+-rw-rw-rw-   1 user     group        1884 May 31 21:38 SQ52_YDSDTY_180531_01_N_P1_WE_U__AB.info
+-rw-rw-rw-   1 user     group         447 May 31 21:38 SQ52_YDSDTY_180531_01_N_P1_WE_U__AB.txt
+-rw-rw-rw-   1 user     group        6634 Jun  7 20:05 SQ52_YDSDTY_180607_01_N_P1_WE_U__AB.info
+-rw-rw-rw-   1 user     group         846 Jun  7 20:05 SQ52_YDSDTY_180607_01_N_P1_WE_U__AB.txt
+-rw-rw-rw-   1 user     group        8552 Jun 25 14:59 SQ52_YDSDTY_180625_01_N_P1_WE_U__AB.info
+-rw-rw-rw-   1 user     group         544 Jun 25 14:59 SQ52_YDSDTY_180625_01_N_P1_WE_U__AB.txt

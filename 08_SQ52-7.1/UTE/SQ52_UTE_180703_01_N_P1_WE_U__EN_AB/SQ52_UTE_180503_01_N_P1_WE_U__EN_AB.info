@@ -1,0 +1,390 @@
+serial number of this version: 0044
+the previous command is: ./OS_Build7_8917.sh SQ52 UTE N 02      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-20-09:01~12:04
+the command of this build is: ./OS_Build7_8917.sh SQ52 UTE N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-03-11:30~14:37
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(8850a4d<---00e3c75 )          
+commit 8850a4de75c78aa59849c0d8fbb3300b5711531f
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sun Apr 29 14:31:05 2018 +0800
+
+    [SQ52][ALL][Other][]: suppert_3d_camera
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:support_3d_camera
+    Description:suppert_3d_camera
+    
+    Commit Tools Version:de4e0fc
+commit 00e3c756a93ea78cfa1068f3ff562bd3e395b00b
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Apr 18 15:38:08 2018 +0800
+
+    [SQ52][XX][Charge][]: 合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Product:SQ52
+    Customer:XX
+    Module:Charge
+    Bug ID:
+    Key Word:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    Description:合入美格提供的patch，解决设备typeC直连PC电流超过500mA的问题。设备通过座充连接PC和充电器的最大电流是1.5A维持不变。
+    
+    Commit Tools Version:6119286
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(6fa7e89<---99263b9 )          
+commit 6fa7e89c7b82f4f129ee1ddf9852bf452a41f88a
+Merge: 572cd83 1cc30b5
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed May 2 14:37:45 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1cc30b5811279f87fd8931a0c1d924639f352bf2
+Author: hetao <tao.he@urovo.com>
+Date:   Wed May 2 10:28:38 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新UI
+
+commit 572cd83b533cadcc21849f3b7d1bff49ca8f2b88
+Merge: 5669a34 f230a29
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 29 14:50:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f230a296d35469519efaf6aaff42261511a0c366
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sun Apr 29 14:24:46 2018 +0800
+
+    [SQ52][ALL][Other][]: support_3d_camera
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:support_3d_camera
+    Description:support_3d_camera
+    
+    Commit Tools Version:de4e0fc
+
+commit 5669a34ca65288b81d6680463d1b425fbef56417
+Merge: cb96fb1 eece75e
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Apr 28 17:10:54 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit eece75e510db5f766806e80fa8ba03091884f76b
+Merge: e058563 9cb1268
+Author: hetao <tao.he@urovo.com>
+Date:   Sat Apr 28 16:45:39 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e058563a4068770b10f128252bd07bb41fe6d0e0
+Author: hetao <tao.he@urovo.com>
+Date:   Sat Apr 28 16:43:20 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新UI
+
+commit 9cb12684d1635600e4214c270c5ab327121c8387
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Apr 28 16:30:32 2018 +0800
+
+    [SQ52][XX][APP][]: 修复编译错误
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:修复编译错误
+    
+    Commit Tools Version:f7b8ba2
+
+commit 71ecf7caaf5cf21533e6f6bc470460bd7cfed871
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Apr 28 15:29:22 2018 +0800
+
+    [ALL][YDSD][Other][]: YDSD 锁屏需求提交
+    
+    Product:ALL
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD 锁屏需求提交
+    
+    Commit Tools Version:0be60f5
+
+commit cb96fb1eb10268f0dc9b31e42fc950deb7a6aab0
+Merge: cd09900 48caee7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 27 22:58:24 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 48caee7898956b36e33deeaebaeb8bff2afee570
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Apr 27 20:30:11 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 暂不编译新UI（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:暂不编译新UI（软件自测）
+    
+    Commit Tools Version:0be60f5
+
+commit 6cffeda924249e18bca0943d9d4e8c25f5d5bf0d
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Apr 27 17:24:20 2018 +0800
+
+    [SQ52][XX][Scan][]: 6601扫描头添加返回条码类型标示值（软件验证）
+    
+    Product:SQ52
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:6601扫描头添加返回条码类型标示值（软件验证）
+    
+    Commit Tools Version:f7b8ba2
+
+commit cd09900876bc9767cc036a773407312aef05f94e
+Merge: f243739 a8d11a4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 27 16:14:03 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a8d11a4b487e637c1aedfc93b9da7d0e7746539f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Apr 27 15:30:56 2018 +0800
+
+    [ALL][YDSD][Other][]: YDSD 锁屏需求提交
+    
+    Product:ALL
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD 锁屏需求提交
+    
+    Commit Tools Version:0be60f5
+
+commit f2437393fb0617dcd01053f4954391dc245e8ae4
+Merge: 5a59188 cd20788
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 26 19:23:11 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit cd20788825c49c49231ee4f8a15d3767ad60cdb1
+Merge: f1e244c 68cc5eb
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Apr 26 18:35:07 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit f1e244c3f37cfa133b8861be90f1d3d414a36f75
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Apr 26 18:32:47 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新UI
+
+commit 5a59188488bb254133a2132a5f6973625ae8c514
+Merge: 937956f 68cc5eb
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Apr 26 12:32:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 68cc5eb5ee3ab5dbe2d8be7ebdb561e6a7c5ce62
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Apr 25 11:47:47 2018 +0800
+
+    [ALL][XX][Other][]: 修改电池计算文件（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改电池计算文件（软件自测）
+    
+    Commit Tools Version:0be60f5
+
+commit 937956f666dae950097dec719fdf395cf651c6c0
+Merge: 6050caf 92a6a6f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Apr 25 10:00:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 92a6a6fa15d388309ba137b6067567610d32b618
+Author: hetao <tao.he@urovo.com>
+Date:   Wed Apr 25 09:32:05 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本 修复双卡切换掉网问题
+
+commit 6050caf3509a552bfc753cd01ceb4d8f8d1fa101
+Merge: 349ca02 ae39002
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 24 22:52:02 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit ae390029e01abfc8960bec56487d4ca53c5acb37
+Merge: df7da27 0ba13b9
+Author: hetao <tao.he@urovo.com>
+Date:   Tue Apr 24 21:11:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit df7da275fc754b49b6fdd00d0e2658663893c465
+Author: hetao <tao.he@urovo.com>
+Date:   Tue Apr 24 21:09:09 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本，修复设置SIM卡网络切换bug
+
+commit 349ca02540a3cfd4f4e56b3e05173704678eb233
+Merge: 7963679 0ba13b9
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 24 17:11:43 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0ba13b9b95c365211926ce6f1fe3dfe5721c2933
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue Apr 24 10:08:40 2018 +0800
+
+    [SQ52][ALL][fingerprint]添加同面积录入和同手指录入提醒
+
+commit 9bd78bf557fc1caf98dd6e81b4476dbbf6769a99
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 24 09:32:21 2018 +0800
+
+    [ALL][XX][Other][]: 修改电池计算文件（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改电池计算文件（软件自测）
+    
+    Commit Tools Version:0be60f5
+
+commit 7963679563448028fbcfa27961d99e9b62b927e5
+Merge: feb1b77 305a3b6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Apr 23 21:43:32 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 305a3b69dc9db82fc3bf6b07d06cd30b3c59cab6
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Apr 23 21:07:14 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新UI wifi、蓝牙设置apk，添加launcherL默认权限
+
+commit feb1b779399c1ea386a49d5611749769d83eaf4f
+Merge: 001e553 1490604
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Apr 21 18:43:53 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 149060462b46470f750a756b0eab45fc27abebde
+Author: hetao <tao.he@urovo.com>
+Date:   Sat Apr 21 18:10:21 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新UI, 新增集成AGPSSetting.apk
+
+commit 566724ac37919ee091690241e73eb51aa338ee11
+Author: hetao <tao.he@urovo.com>
+Date:   Sat Apr 21 18:00:43 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新UI相关的apk
+
+commit 001e55332893de622d3f0c0beb63434b0f890e41
+Merge: 99263b9 52452c6
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 20 12:38:28 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 52452c67f8608bc5318f454df6a8320c6b7412d2
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Apr 20 11:30:15 2018 +0800
+
+    [SQ52T][XX][Audio][]: 修改听筒杂音和免提失真的问题
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Audio
+    Bug ID:
+    Key Word:修改听筒杂音和免提失真的问题
+    Description:修改听筒杂音和免提失真的问题
+    
+    Commit Tools Version:6119286
+commit 99263b97756ca88f37dfce4f82f8bf61881c705f
+Merge: 8c138e0 bd1b0d3
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Apr 20 00:20:43 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

@@ -1,0 +1,29 @@
+serial number of this version: 0001
+the previous command is: NULL
+Build time:
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-17-09:36~11:34
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(610c422<---610c422 )          
+
+commit 610c422ada3f808f81aca81b0d39994c283dedc5
+Merge: 6bf0333 f1bcc34
+Author: hetao <tao.he@urovo.com>
+Date:   Wed May 16 18:18:05 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

@@ -1,0 +1,3 @@
+ 显示蓝牙耗电量，电量显示情况更改百分比策略 <gouwei>
+ add_wifi_config <yangguang>
+ modfy_4G_network_station <yangguang>

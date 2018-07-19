@@ -1,0 +1,46 @@
+serial number of this version: 0008
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-29-12:13~13:21
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-30-18:59~19:51
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(52c2d02<---52c2d02 )          
+
+commit 52c2d02ab877b9742f4af61d9f6c720b75fdcc28
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 22 11:07:27 2018 +0800
+
+    [SQ31T][ALL][Battery][]: modfy_usb_charging_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Battery
+    Bug ID:
+    Key Word:modfy_usb_charging_current
+    Description:modfy_usb_charging_current
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b4b2bfd<---b4b2bfd )          
+
+commit b4b2bfd9736e817b0375394d7f291488307ecee8
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue May 29 10:22:22 2018 +0800
+
+    [SQ31T][XX][Other][]: 修改签名显示为非签
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改签名显示为非签
+    
+    Commit Tools Version:d557003
+****************************************************************************

@@ -1,0 +1,17 @@
+ *************************************************************************
+ SQ52_GEENK_Nsigned
+ 编译日期：2018-05-15 编译序号：01
+ 内核提交记录：
+ 未发现前一正式版本，使用前一编译版本
+ [SQ52][ALL][USB][]: reduce_usb_log <yangguang>
+ 系统提交记录：
+ 横屏启动camera，预览界面异常bug修复 <gouwei>
+ 韵达定制白名单功能接口 <Rocky>
+ 修复不同设备连接电脑后出现adb devices命令获取到一样id 12344321 <Rocky>
+ YDSD白名单功能提交 <gouwei>
+ 移除扫描设置中连续扫描选项 <Rocky>
+ 更改默认解锁提示语 <gouwei>
+ 添加自定义NTP服务器地址功能 <gouwei>
+ YTO定制更新 开机动画 <liqianbo>
+ YTO添加开机Logo和开机动画 <liqianbo>
+ GEENK定制广播切换扫描模式，型号改为GEENK_X8，扫描头广播改为com.geenk.action.GET_SCANDATA <gouwei>

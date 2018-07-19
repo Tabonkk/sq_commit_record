@@ -1,0 +1,11 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-15 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+[SQ31T][ALL][Other][]: patch_for_yufan_0604 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+更改编译脚本project/b611/autobuild_user.sh（软件自测） <wujinquan>
+文件漏传，编译报错 <liqianbo>

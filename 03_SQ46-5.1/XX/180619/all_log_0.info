@@ -1,0 +1,768 @@
+serial number of this version: 0062
+the previous command is: ./OS_Build51.sh SQ46 XX  N 01      ALL-O FTP false P1 WE i9000S  server   RD-ALL 16+8   /               
+Build time:2018-06-07-11:13~11:53
+the command of this build is: ./OS_Build51.sh SQ46 XX  N 02      ALL-O FTP false P1 WE i9000S  server   RD-ALL 16+8   /               
+Build time:2018-06-07-17:01~17:45
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(2299fca<---2299fca )          
+
+commit 2299fcaecc677643724d541dc04cebdba6a7792f
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Mon Jun 4 16:10:31 2018 +0800
+
+    [SQ46][XX][Other][]: SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:SQ46增加底座检测节点，充电支持F1唤醒
+    Description:SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b9dc9b0<---dfb92fb )          
+commit b9dc9b0867f3b76c932fd1356f13ace4643526fc
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Thu Jun 7 16:29:42 2018 +0800
+
+    [SQ46][XX][Other][]: SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Commit Tools Version:d6794eb
+
+commit cb5c67a3c745c4966e0aa9011739bf52943470a7
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jun 7 14:51:35 2018 +0800
+
+    [SQ27TE][Other][APP][]: CCB撤销提交 建行临时提交编译中间版本给客户升级内置app
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:CCB撤销提交 建行临时提交编译中间版本给客户升级内置app
+    
+    Commit Tools Version:f7b8ba2
+commit dfb92fb8f5376eda2770e0a8ce15a2209fcca2ae
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 6 16:50:45 2018 +0800
+
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:奥比3D摄像头（0x2BC5）默认USB权限（软件自测）
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: 9be8715                                                         
+                   扫描头修改点(9be8715<---9be8715 )          
+
+commit 9be87153eccbd2fba3b4f8b6823bb9267ad17156
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Wed Jun 6 19:29:39 2018 +0800
+
+    [ALL][XX][Scan][]: 修复6603 Enable checksum不生效
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复6603 Enable checksum不生效
+    
+    Commit Tools Version:ca2c4f7
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: a525f52                                                         
+                   打印机修改点(a525f52<---a525f52 )          
+
+commit a525f52a44199aca7e7e7cb8e7e46957e884b892
+Author: cb <bin.chen@urovo.com>
+Date:   Thu May 24 16:20:17 2018 +0800
+
+    增加打印机精度调整，校准功能
+****************************************************************************
+serial number of this version: 0063
+the previous command is: ./OS_Build51.sh SQ46 XX  N 02      ALL-O FTP false P1 WE i9000S  server   RD-ALL 16+8   /               
+Build time:2018-06-07-17:01~17:45
+the command of this build is: ./OS_Build51.sh SQ46 XX  N 01      ALL-O FTP false P1 WE i9000S  server   RD-ALL 16+8   /               
+Build time:2018-06-19-09:31~10:10
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(7d8298b<---2299fca )          
+commit 7d8298b4fea552c85a6986a626c4e07714d6d216
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Fri Jun 15 22:17:15 2018 +0800
+
+    [SQ46][XX][USB][]: 底座电源和usb同时存在时电流1.25A，与46w保持一致
+    
+    Product:SQ46
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:底座电源和usb同时存在时电流1.25A，与46w保持一致
+    Description:底座电源和usb同时存在时电流1.25A，与46w保持一致
+    
+    Commit Tools Version:d6794eb
+
+commit 4dc69d407a387b5978fad5dc67b9485c27bb0cf6
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Tue Jun 12 13:58:10 2018 +0800
+
+    [SQ46][XX][USB][]: 优化待机功耗
+    
+    Product:SQ46
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:优化待机功耗
+    Description:优化待机功耗
+    
+    Commit Tools Version:d6794eb
+commit 2299fcaecc677643724d541dc04cebdba6a7792f
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Mon Jun 4 16:10:31 2018 +0800
+
+    [SQ46][XX][Other][]: SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:SQ46增加底座检测节点，充电支持F1唤醒
+    Description:SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(88cea38<---b9dc9b0 )          
+commit 88cea38a0251eee642dc02b62063b1396164f44f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 22:56:23 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制更新编译错误
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制更新编译错误
+    
+    Commit Tools Version:f7b8ba2
+
+commit de3357fc27b03158e06d98a062914f91d057461c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 21:25:44 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制提交测试 软件验证
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制提交测试 软件验证
+    
+    Commit Tools Version:f7b8ba2
+
+commit bca18895c71af1abdec9114967662d086a762664
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 19:54:02 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制默认关机温度65
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制默认关机温度65
+    
+    Commit Tools Version:f7b8ba2
+
+commit db142c211496448b8a260acb085e1b87284ad5a7
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 19:17:16 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制开机自动检查是否有OTA更新
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制开机自动检查是否有OTA更新
+    
+    Commit Tools Version:f7b8ba2
+
+commit cb38866ec905ea5db47d659ba180a575be22aa95
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 19:07:04 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制关于设备中添加显示印度版本信息
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制关于设备中添加显示印度版本信息
+    
+    Commit Tools Version:f7b8ba2
+
+commit 2214916bf9decc131ea3b3acfdd9a65032cca01e
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 18:02:09 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制开机自动选择网络
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制开机自动选择网络
+    
+    Commit Tools Version:f7b8ba2
+
+commit b40294c43dae2eda6576f900d5ce6731860c4aee
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 17:16:14 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制关于设备中显示硬件版本
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制关于设备中显示硬件版本
+    
+    Commit Tools Version:f7b8ba2
+
+commit 206c35815bbe9301ef2a52125f54629c6bc81173
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 15:13:16 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制 修改拨号页面*#1262*#需要拨两次的问题，TMS界面 设备收到短信后 跳转短信列表页面
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制 修改拨号页面*#1262*#需要拨两次的问题，TMS界面 设备收到短信后 跳转短信列表页面
+    
+    Commit Tools Version:f7b8ba2
+
+commit bf9a8da1700577316aee5492ffbd0c07a7c6179e
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jun 14 13:54:25 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制版本关于设备中增加显示reliance新版
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制版本关于设备中增加显示reliance新版
+    
+    Commit Tools Version:f7b8ba2
+
+commit b1472978054c81858c096d9d94c2c6cffee9782f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jun 14 10:28:59 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制默认开机自动OTA检测新版本
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制默认开机自动OTA检测新版本
+    
+    Commit Tools Version:f7b8ba2
+
+commit d4207c58fd105e32900c8c7a93716f22bc5b55a8
+Merge: f7613dc 3a3802f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jun 13 17:39:32 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit f7613dc233f002dcbfdbee740f694c995fe66904
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jun 13 17:36:47 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制版本工厂激活模式支持英文，工厂激活模式测试项仅显示316 1262入口
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制版本工厂激活模式支持英文，工厂激活模式测试项仅显示316 1262入口
+    
+    Commit Tools Version:f7b8ba2
+
+commit 3a3802fef5f10ba237b23e578bac846a28b302ec
+Merge: 1868937 d892039
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jun 13 17:21:23 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 186893727da0ceeeda6730454f57d4fdfbcd9fdd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jun 13 17:18:31 2018 +0800
+
+    [ALL][XX][APP][]: XmlTools apk不显示在桌面
+    
+    Product:ALL
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:XmlTools apk不显示在桌面
+    
+    Commit Tools Version:d6794eb
+
+commit d8920399e25af41994fbb4d3b43c830cafef0820
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jun 13 17:17:58 2018 +0800
+
+    [SQ27T][Other][APP][]: 添加哥伦比亚定制，开机动画，内置TMSapp,apk验签证书
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:添加哥伦比亚定制，开机动画，内置TMSapp,apk验签证书
+    
+    Commit Tools Version:f7b8ba2
+
+commit 16c61fb50eb4ce586a9678135b1d71b06688c3ed
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 13 13:49:29 2018 +0800
+
+    Product:SQ27TE
+    Customer:Reliance
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改联机激活应用部分界面的英文描述;
+
+commit 1acf8b1c5623c26ec7c66adfaf896bafe80864b9
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Wed Jun 13 09:44:57 2018 +0800
+
+    Product:SQ42T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:兼容扫描头2100和4500
+
+commit 734eb43331f9a0eb1b2f77db5e34d559ab105b3d
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jun 12 18:43:58 2018 +0800
+
+    [SQ27T][XX][Factory][]: SQ27T工厂测试移除按键背光和Gsensor测试项
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:SQ27T工厂测试移除按键背光和Gsensor测试项
+    
+    Commit Tools Version:f7b8ba2
+
+commit 94b0f062069e11979c3e1c52d5cf30f9d1e04ee0
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jun 12 17:39:24 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制要求关机温度为65
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制要求关机温度为65
+    
+    Commit Tools Version:f7b8ba2
+
+commit bf394fed1184fe61c11822d19409818c8bec8ecb
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jun 12 17:25:39 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制版本状态栏上4G图标改成LTE
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制版本状态栏上4G图标改成LTE
+    
+    Commit Tools Version:f7b8ba2
+
+commit d8dddbcb7908e0065d28dacb96b032274abcca0f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jun 12 16:22:37 2018 +0800
+
+    [SQ27T][XX][APP][]: 海外版本升级较新google play service后其它app 功能依赖google paly Store,所以签名版本要内置并隐藏google play store
+    
+    Product:SQ27T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外版本升级较新google play service后其它app 功能依赖google paly Store,所以签名版本要内置并隐藏google play store
+    
+    Commit Tools Version:f7b8ba2
+
+commit 4bb37c3fb13af60e9e0c4558fe2466aac031c768
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jun 12 10:35:14 2018 +0800
+
+    [SQ27TE][Other][UI][]: 联动定制添加log上传APP，在关于设备中加入启动入口
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:联动定制添加log上传APP，在关于设备中加入启动入口
+    
+    Commit Tools Version:f7b8ba2
+
+commit ad83beade03a0f6383e9aec23b918377ca0a83ca
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jun 11 18:10:23 2018 +0800
+
+    [SQ27T][XX][APP][]: 海外签名版本不内置google paly store应用市场
+    
+    Product:SQ27T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外签名版本不内置google paly store应用市场
+    
+    Commit Tools Version:f7b8ba2
+
+commit 902e6f911304b3e458b33c379d851ac2761cfe1b
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jun 11 17:40:50 2018 +0800
+
+    [SQ27T][XX][APP][]: 海外版本更新google play serviceV12.6.85 google play store v10.3.31,签名版本也添加google市场方便客户升级google应用
+    
+    Product:SQ27T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:海外版本更新google play serviceV12.6.85 google play store v10.3.31,签名版本也添加google市场方便客户升级google应用
+    
+    Commit Tools Version:f7b8ba2
+
+commit d03f125ee5598806b6a0f2c3b994d28727473ebe
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Jun 11 17:00:25 2018 +0800
+
+    Product:POS
+    Customer:Reliance
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:远程下载秘钥，添加连接服务失败英文提示
+
+commit f21405cea92ce5a75288d0df3f1c1c97b10e339a
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jun 11 15:34:20 2018 +0800
+
+    [SQ27TE][Other][APP][]: 浙江农信更新内置APP
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:浙江农信更新内置APP
+    
+    Commit Tools Version:f7b8ba2
+
+commit a5193805f2ccbc31ac65acf624d94fc8c8a8741a
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jun 11 10:05:44 2018 +0800
+
+    [SQ27TE][SYB][APP][]: 通联智收银整套5月最新 应用市场 SDK服务V2_2.1.024  USDK-v2.5.2.180518 USDK_CASH_v2.2.0
+    
+    Product:SQ27TE
+    Customer:SYB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:通联智收银整套5月最新 应用市场 SDK服务V2_2.1.024  USDK-v2.5.2.180518 USDK_CASH_v2.2.0
+    
+    Commit Tools Version:f7b8ba2
+
+commit 23e41f8f72292c774fe133b2f9ce34a6c93583f3
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Jun 10 12:44:48 2018 +0800
+
+    [POS][CPOS][APP][]: 云POS接口调用异常(软件验证)
+    
+    Product:POS
+    Customer:CPOS
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:云POS接口调用异常(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit 66a515ad5fcd98ae287e27684b8d4ceec765fb9a
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jun 9 15:46:45 2018 +0800
+
+    [SQ27TE][CPOS][APP][]: 关闭logcat输出
+    
+    Product:SQ27TE
+    Customer:CPOS
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:关闭logcat输出
+    
+    Commit Tools Version:f7b8ba2
+
+commit 7d6a82e0666d443a76d674a13b7585245ef734e2
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jun 9 13:37:25 2018 +0800
+
+    [PDA][XX][APP][]: 通用版本才显示Xmltools定制导入工具(软件验证)
+    
+    Product:PDA
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:通用版本才显示Xmltools定制导入工具(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit a93df313ada4431cbc06dba005ed957bc12f2f4d
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jun 9 09:56:31 2018 +0800
+
+    [SQ27TE][XX][APP][]: 添加广播接口给第三方app触发系统控制保存log(软件验证)
+    
+    Product:SQ27TE
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:添加广播接口给第三方app触发系统控制保存log(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit bf14664347f5630d8de3411a17a142013ca74dd7
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Fri Jun 8 20:08:19 2018 +0800
+
+    [SQ27T][XX][Other][]: 修复编译错误；# 软件自测；
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误；# 软件自测；
+    
+    Commit Tools Version:ca2c4f7
+
+commit 74488d082981a56951d76d777103b1ec751bd0d8
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 8 16:31:09 2018 +0800
+
+    Product:SQ42T
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE DMI借口问题（软件自测）
+
+commit bcabf4ba693d773fc1d86733c377e6aa8b244fb2
+Merge: 99f22f7 822a65d
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Fri Jun 8 15:33:16 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 99f22f7b61f79febaa2fc677a92d551c20b834ad
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Fri Jun 8 15:32:21 2018 +0800
+
+    [SQ42T][XX][Scan]添加se2100扫描头
+
+commit 822a65da8f90f9bd2f110faf606f32dc126f7ed4
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 8 15:15:36 2018 +0800
+
+    [SQ27T][Other][APP][]: 更新泰国定制云桌面APP1.2.9
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新泰国定制云桌面APP1.2.9
+    
+    Commit Tools Version:f7b8ba2
+
+commit 0e42001efbc77896145a676db6b7f6f53513a9cb
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 8 15:05:42 2018 +0800
+
+    [SQ46][XX][Other][]: 编译失败（软件自测）
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译失败（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 61d8b2e72ed2f16aec48a8edb4c2acddd95a7ab0
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 8 14:33:14 2018 +0800
+
+    Product:SQ27TE
+    Customer:CCB
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更新开机logo
+
+commit 408dbab7e85eea69248afa81190188fcc1729aeb
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 8 10:54:12 2018 +0800
+
+    [SQ27T][Other][APP][]: 更新泰国app验签
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新泰国app验签
+    
+    Commit Tools Version:f7b8ba2
+
+commit 917ad82966d3beb725f2f3d101a237b0769ebc5e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 8 10:14:55 2018 +0800
+
+    [ALL][XX][Other][]: 将扫描头设置相关也合入到Settings定制工具
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:将扫描头设置相关也合入到Settings定制工具
+    
+    Commit Tools Version:d6794eb
+commit b9dc9b0867f3b76c932fd1356f13ace4643526fc
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Thu Jun 7 16:29:42 2018 +0800
+
+    [SQ46][XX][Other][]: SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ46增加底座检测节点，充电支持F1唤醒
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: 9be8715                                                         
+                   扫描头修改点(e3d15af<---9be8715 )          
+commit e3d15afc1cfc13840aa6101179f6dfed62548dcf
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Wed Jun 13 09:39:03 2018 +0800
+
+    [SQ42T][XX][Scan][]: 增加2100扫描头
+    
+    Product:SQ42T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:增加2100扫描头
+    
+    Commit Tools Version:ca2c4f7
+commit 9be87153eccbd2fba3b4f8b6823bb9267ad17156
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Wed Jun 6 19:29:39 2018 +0800
+
+    [ALL][XX][Scan][]: 修复6603 Enable checksum不生效
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复6603 Enable checksum不生效
+    
+    Commit Tools Version:ca2c4f7
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: a525f52                                                         
+                   打印机修改点(a525f52<---a525f52 )          
+
+commit a525f52a44199aca7e7e7cb8e7e46957e884b892
+Author: cb <bin.chen@urovo.com>
+Date:   Thu May 24 16:20:17 2018 +0800
+
+    增加打印机精度调整，校准功能
+****************************************************************************

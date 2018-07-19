@@ -1,0 +1,9 @@
+ [SQ52T][ALL][Scan]修复部分6603不出光问题 <jiaxinxin>
+ 海外版本默认英文 <gouwei>
+ 仅YDSD 来通知不亮屏幕 <gouwei>
+ 修复6603 Enable checksum不生效 <DengTonglong>
+ SQ52T 来通知不亮屏幕，默认打开强制GPU渲染 <gouwei>
+ YTO定制型号修改为I6310B <liqianbo>
+ OTA在线断电续传升级，偶现验证签名失败 <liqianbo>
+ 修复6603扫描头概率性出光异常 <DengTonglong>
+ [SQ52T][ALL][Audio][]: add_audio_boost <yangguang>

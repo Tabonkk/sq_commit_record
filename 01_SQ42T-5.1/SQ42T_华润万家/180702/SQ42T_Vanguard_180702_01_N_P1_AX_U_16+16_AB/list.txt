@@ -1,0 +1,4 @@
+drwxrwxrwx   1 user     group           0 Jul  2 17:16 .
+drwxrwxrwx   1 user     group           0 Jul  2 17:16 ..
+-rw-rw-rw-   1 user     group      100876 Jul  2 17:16 SQ42T_Vanguard_180702_01_N_P1_AX_U_16+16_AB.info
+-rw-rw-rw-   1 user     group        3710 Jul  2 17:16 SQ42T_Vanguard_180702_01_N_P1_AX_U_16+16_AB.txt

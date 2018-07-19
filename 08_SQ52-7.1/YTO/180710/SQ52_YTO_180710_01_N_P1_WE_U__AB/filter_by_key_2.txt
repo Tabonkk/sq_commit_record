@@ -1,0 +1,5 @@
+ [SQ52][ALL][USB][]: improve_usb_drive_power <yangguang>
+ UTE定制only wifi版本UTEWO需使用定制系统key <Rocky>
+ YDSD OTA升级报错（定制关闭蓝牙时出现权限问题） <liqianbo>
+ 卡２插入电信卡，*#06# imei显示相同问题修复 <gouwei>
+ 增加日志分析关机问题 <gouwei>

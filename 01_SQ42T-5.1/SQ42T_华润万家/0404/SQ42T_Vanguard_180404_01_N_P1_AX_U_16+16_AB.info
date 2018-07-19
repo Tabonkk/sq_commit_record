@@ -1,0 +1,1240 @@
+serial number of this version: 0006
+the previous command is: ./OS_Build51.sh SQ42T Vanguard N 01      ALL-O FTP false P1 AX i9000S  server   RD-ALL 16+16  /               
+Build time:2018-03-14-15:49~16:29
+the command of this build is: ./OS_Build51.sh SQ42T Vanguard N 01      ALL-O FTP false P1 AX i9000S  server   RD-ALL /      /               
+Build time:2018-04-04-15:11~15:54
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(ee577b7<---f275775 )          
+commit ee577b7d0c98402f018fd4f6c412de5c1f8b2982
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Thu Mar 29 15:38:22 2018 +0800
+
+    [SQ42T][ALL][TP][]: 更新SQ42T新的TP的驱动，解决概率性TP失效的问题
+    
+    Product:SQ42T
+    Customer:ALL
+    Module:TP
+    Bug ID:
+    Key Word:更新SQ42T新的TP的驱动，解决概率性TP失效的问题
+    Description:更新SQ42T新的TP的驱动，解决概率性TP失效的问题
+    
+    Commit Tools Version:0130143
+
+commit b1739be246edf1042a27810a9369073ce2b46c64
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue Mar 27 09:05:21 2018 +0800
+
+    [SQ42T][XX][NFC][]: 修改提交报错(软件自测)
+    
+    Product:SQ42T
+    Customer:XX
+    Module:NFC
+    Bug ID:
+    Key Word:修改提交报错(软件自测)
+    Description:修改提交报错(软件自测)
+    
+    Commit Tools Version:d61bdd2
+
+commit 783d7440bf9790d89bae6d4ad7c073106a853d28
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Mon Mar 26 21:24:30 2018 +0800
+
+    [SQ42T][XX][NFC][]: 修改编译报错(nfc)
+    
+    Product:SQ42T
+    Customer:XX
+    Module:NFC
+    Bug ID:
+    Key Word:修改编译报错(nfc)
+    Description:修改编译报错(nfc)
+    
+    Commit Tools Version:d61bdd2
+
+commit ba53b485b9cbecb094051885fa80fcd7411f3426
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sat Mar 24 09:24:42 2018 +0800
+
+    [SQ42T][XX][Sensor][]: 修改距离传感器(em30718)感应距离
+    
+    Product:SQ42T
+    Customer:XX
+    Module:Sensor
+    Bug ID:
+    Key Word:修改距离传感器(em30718)感应距离
+    Description:修改距离传感器(em30718)感应距离
+    
+    Commit Tools Version:d61bdd2
+
+commit b11e271d14efe6d80cae4c7c50072d373c8e3cee
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Fri Mar 23 11:08:43 2018 +0800
+
+    [SQ42T][XX][Sensor][]: 根据客户要求，修改距离传感器(em30718)感应距离
+    
+    Product:SQ42T
+    Customer:XX
+    Module:Sensor
+    Bug ID:
+    Key Word:根据客户要求，修改距离传感器(em30718)感应距离
+    Description:根据客户要求，修改距离传感器(em30718)感应距离
+    
+    Commit Tools Version:d61bdd2
+
+commit 9e23890b7b327eaeafaf92c09509fea82ca44100
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 19 10:20:59 2018 +0800
+
+    [SQ42T][ALL][NFC][]: 修改PN547 NFC驱动，跟PN548用同一套代码，解决客户遇到的有些NFC TAG重叠检测的时候，NFC会挂掉的问>题
+    
+    Product:SQ42T
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:修改PN547 NFC驱动，跟PN548用同一套代码，解决客户遇到的有些NFC TAG重叠检测的时候，NFC会挂掉的问题
+    Description:修改PN547 NFC驱动，跟PN548用同一套代码，解决客户遇到的有些NFC TAG重叠检测的时候，NFC会挂掉的问>题
+    
+    Commit Tools Version:0130143
+
+commit 79e8f860701173f524f0520032c6506d9f20c99e
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Sat Mar 17 10:04:01 2018 +0800
+
+    [SQ42T][ALL][TP][]: 添加SQ42T盛世新的TP驱动并兼容旧的TP驱动
+    
+    Product:SQ42T
+    Customer:ALL
+    Module:TP
+    Bug ID:
+    Key Word:添加SQ42T盛世新的TP驱动并兼容旧的TP驱动
+    Description:添加SQ42T盛世新的TP驱动并兼容旧的TP驱动
+    
+    Commit Tools Version:0130143
+
+commit 4bced839ca2c2ff69ce54c83390c663295045ee8
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Mar 15 20:01:55 2018 +0800
+
+    [SQ42T][XX][Sensor][]: 提高em30718型号距离传感器速度
+    
+    Product:SQ42T
+    Customer:XX
+    Module:Sensor
+    Bug ID:
+    Key Word:提高em30718型号距离传感器速度
+    Description:提高em30718型号距离传感器速度
+    
+    Commit Tools Version:d61bdd2
+commit f2757750d0075df8d321b2e4f92798a1ac308164
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Thu Mar 1 19:49:12 2018 +0800
+
+    [SQ42T][XX][Sensor][]: 修复无遮挡出光问题，在硬件结构更改基础上更改阈值
+    
+    Product:SQ42T
+    Customer:XX
+    Module:Sensor
+    Bug ID:
+    Key Word:根据硬件结构修改，修复无遮挡出光问题
+    Description:修复无遮挡出光问题，在硬件结构更改基础上更改阈值
+    
+    Commit Tools Version:d61bdd2
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(23eeaab<---2821ec6 )          
+commit 23eeaab1367c226f0a9d7ee4ec8d8f368b808d04
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Apr 4 15:05:46 2018 +0800
+
+    [SQ42T][Vanguard][Other][]: 工厂测试扫描灯不亮问题修复
+    
+    Product:SQ42T
+    Customer:Vanguard
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:工厂测试扫描灯不亮问题修复
+    
+    Commit Tools Version:315f15f
+
+commit 98d6c01a4034e09de4fd00aa1a6729471d599124
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Apr 4 11:27:04 2018 +0800
+
+    [SQ27TE][CCB][Other][]: 修改开机logo、开机动画、开机铃声；默认不锁屏
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改开机logo、开机动画、开机铃声；默认不锁屏
+    
+    Commit Tools Version:d2eac4b
+
+commit f015a6e7cfbe209936396de60dcc4a47285a5873
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Apr 4 10:47:17 2018 +0800
+
+    [SQ42T][HCKJ][Other][]: HCKJ 下拉栏问题修复
+    
+    Product:SQ42T
+    Customer:HCKJ
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:HCKJ 下拉栏问题修复
+    
+    Commit Tools Version:315f15f
+
+commit 1b431c1ae440ff01aef5a49492edff8b11b15be1
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Apr 2 16:36:05 2018 +0800
+
+    [SQ27TE][Other][UI][]: 更新丰雷定制需求内置APP,开机界面
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:更新丰雷定制需求内置APP,开机界面
+    
+    Commit Tools Version:f7b8ba2
+
+commit d40039747c747e76109e492e47db5ebccf6ea039
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Apr 2 16:04:32 2018 +0800
+
+    [ALL][XX][UI][]: 更新SN最大长度到32位，满足不同客户sn长度需求。需要使用行业应用开发最新的工具
+    
+    Product:ALL
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:更新SN最大长度到32位，满足不同客户sn长度需求。需要使用行业应用开发最新的工具
+    
+    Commit Tools Version:f7b8ba2
+
+commit 31c62d6a62585d89dc248ac573558422feebec11
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Apr 2 15:35:14 2018 +0800
+
+    [POS][XX][Other][]: 修复SE安全芯片通讯失败导致重启的问题
+    
+    Product:POS
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复SE安全芯片通讯失败导致重启的问题
+    
+    Commit Tools Version:d2eac4b
+
+commit 6c86f4abd12060e0ff555bb744f7967422345b9a
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Apr 2 11:41:10 2018 +0800
+
+    [SQ51][UTE][Other][]: 回退GPS精度修改（软件自测）
+    
+    Product:SQ51
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:回退GPS精度修改（软件自测）
+    
+    Commit Tools Version:315f15f
+
+commit b5d19e2445537e3dbb91e78b5d1aa98aebbcdef7
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Apr 2 09:36:19 2018 +0800
+
+    [SQ51][UTE][Other][]: UTE暂时GPS改为高精度（软件自测）
+    
+    Product:SQ51
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE暂时GPS改为高精度（软件自测）
+    
+    Commit Tools Version:315f15f
+
+commit 2c145b2f699a9c1a6c4c751b2e04c2a0dedd423f
+Merge: 54628c6 cca372b
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Sat Mar 31 12:20:19 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 54628c6d5df95574f238b80ba1fb8ad87c974371
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Sat Mar 31 12:17:22 2018 +0800
+
+    [SQ27T][XX][Other][]: SE # 增加dukpt接口支持；# 软件自测；
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SE # 增加dukpt接口支持；# 软件自测；
+    
+    Commit Tools Version:315f15f
+
+commit cca372b0f1e05620e0981eb834837758cdae955c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Mar 31 10:19:37 2018 +0800
+
+    [SQ27TE][Other][APP][]: 伊朗定制TOTAN添加内置APP,同时删除demo APP, gmail
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:伊朗定制TOTAN添加内置APP,同时删除demo APP, gmail
+    
+    Commit Tools Version:f7b8ba2
+
+commit d9b748afcb1f2e2cda8f8c0b6f856f4a38e55eae
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Mar 29 21:18:30 2018 +0800
+
+    [SQ27T][Other][APP][]: 回退提交　临时提交编译云南KMGY定制版本
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:回退提交　临时提交编译云南KMGY定制版本
+    
+    Commit Tools Version:f7b8ba2
+
+commit 481b525a4af6e2a727082940ca39c6d49f209c07
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Mar 29 21:11:25 2018 +0800
+
+    [SQ27T][UMSPOS][APP][]: 临时提交编译云南KMGY定制版本
+    
+    Product:SQ27T
+    Customer:UMSPOS
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:临时提交编译云南KMGY定制版本
+    
+    Commit Tools Version:f7b8ba2
+
+commit f6d91ae91358d51ee418866173457128ffd48acc
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Mar 29 17:15:07 2018 +0800
+
+    [PDA][Other][UI][]: 定制销售样机，界面添加水印　展示样机，不可商用，同时应用独立系统证书，不能刷其它非签正常版本OS
+    
+    Product:PDA
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:定制销售样机，界面添加水印　展示样机，不可商用，同时应用独立系统证书，不能刷其它非签正常版本OS
+    
+    Commit Tools Version:f7b8ba2
+
+commit 80ee65ee1eb07300cfa21c7c062f4e68b2503d0c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Mar 29 15:20:34 2018 +0800
+
+    [SQ27T][KMGY][Other][]: 恢复临时提交“5d1937d6481e227b50d673c3c2048f28b77ab528”（软件自测）
+    
+    Product:SQ27T
+    Customer:KMGY
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:恢复临时提交“5d1937d6481e227b50d673c3c2048f28b77ab528”（软件自测）
+    
+    Commit Tools Version:0130143
+
+commit 016238eca8c0eb0c04d3de16b9d5764ce06bdbf4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu Mar 29 09:55:33 2018 +0800
+
+    [SQ27T][KMGY][APP][]: KMGY定制银商版去掉摄像头扫描头(软件自测)
+    
+    Product:SQ27T
+    Customer:KMGY
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:KMGY定制银商版去掉摄像头扫描头(软件自测)
+    
+    Commit Tools Version:0130143
+
+commit 71788d5cfb00c1b4458738fb2338a1689fcba97e
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Mar 29 01:03:49 2018 +0800
+
+    [SQ42T][XX][APP][]: 回退 修改SQ42T签名证书，临时出个版本给SOTI认证用（软件验证）
+    
+    Product:SQ42T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:回退 修改SQ42T签名证书，临时出个版本给SOTI认证用（软件验证）
+    
+    Commit Tools Version:f7b8ba2
+
+commit 6ad386169e120d8ac78ca64aeee2566f104faa8f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Mar 29 00:55:04 2018 +0800
+
+    [SQ42T][XX][APP][]: 修改SQ42T签名证书，临时出个版本给SOTI认证用（软件验证）
+    
+    Product:SQ42T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:修改SQ42T签名证书，临时出个版本给SOTI认证用（软件验证）
+    
+    Commit Tools Version:f7b8ba2
+
+commit fb8f52e1c63e397486c76d442bc81e1b3dc1b785
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Mar 28 18:57:32 2018 +0800
+
+    [PDA][XX][APP][]: 更新编译错误(软件验证)
+    
+    Product:PDA
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新编译错误(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit 58c8bed70b1f6267fc9a51654815d644bd845cf8
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Mar 28 18:43:52 2018 +0800
+
+    [SQ27T][KMGY][Other][]: KMGY定制银商版去掉摄像头扫描头
+    
+    Product:SQ27T
+    Customer:KMGY
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:KMGY定制银商版去掉摄像头扫描头
+    
+    Commit Tools Version:0130143
+
+commit 0538a2abc727a62e056c0d7110b28dd8b99a73fb
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 28 18:27:29 2018 +0800
+
+    [SQ42T][HCKJ][Other][]: HCKJ 添加壁纸
+    
+    Product:SQ42T
+    Customer:HCKJ
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:HCKJ 添加壁纸
+    
+    Commit Tools Version:315f15f
+
+commit af19b9e761997e4f52745675648d1ff4f5ed42a4
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Mar 28 14:49:20 2018 +0800
+
+    [SQ27T][UMSPOS][Other][]: 恢复临时提交“5d1937d6481e227b50d673c3c2048f28b77ab528” （软件自测）
+    
+    Product:SQ27T
+    Customer:UMSPOS
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:恢复临时提交“5d1937d6481e227b50d673c3c2048f28b77ab528” （软件自测）
+    
+    Commit Tools Version:0130143
+
+commit 5d1937d6481e227b50d673c3c2048f28b77ab528
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Mar 28 14:14:23 2018 +0800
+
+    [SQ27T][UMSPOS][Other][]: 更改版本号（临时提交）
+    
+    Product:SQ27T
+    Customer:UMSPOS
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更改版本号（临时提交）
+    
+    Commit Tools Version:0130143
+
+commit 461bb2cb3192f3ba3103675a589ade79ea6dcc2f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 28 11:39:21 2018 +0800
+
+    [SQ42T][HCKJ][Other][]: HCKJ 添加控制感应扫描头接口
+    
+    Product:SQ42T
+    Customer:HCKJ
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:HCKJ 添加控制感应扫描头接口
+    
+    Commit Tools Version:315f15f
+
+commit 3467c3e3a371ea66baf2b935a62f887e4a930047
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Mar 28 11:26:42 2018 +0800
+
+    [SQ27T][UMSPOS][Other][]: UROVO_CUSTOM_ATTACH默认改为XX（软件自测）
+    
+    Product:SQ27T
+    Customer:UMSPOS
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UROVO_CUSTOM_ATTACH默认改为XX（软件自测）
+    
+    Commit Tools Version:0130143
+
+commit 20229ce99695cb5c1973c5b4dcdcebe126c3677a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Mar 28 11:15:19 2018 +0800
+
+    [POS][UMSPOS][UI][]: 将KMGY的定制合入到UMSPOS中（通过附加属性：UROVO_CUSTOM_ATTACH合入）
+    
+    Product:POS
+    Customer:UMSPOS
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:将KMGY的定制合入到UMSPOS中（通过附加属性：UROVO_CUSTOM_ATTACH合入）
+    
+    Commit Tools Version:0130143
+
+commit 90fc4fec0cb78e6ea791731bbe6f39281a599778
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 28 09:49:29 2018 +0800
+
+    [SQ27T][UTE][Other][]: UTE 开机默认创建wifi网络
+    
+    Product:SQ27T
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE 开机默认创建wifi网络
+    
+    Commit Tools Version:315f15f
+
+commit a6df0d053dbcb5b00db77763e7b8be64f7ce20e5
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Mar 27 18:23:44 2018 +0800
+
+    [SQ27T][UTE][Other][]: UTE SQ27T 客户需求提交
+    
+    Product:SQ27T
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE SQ27T 客户需求提交
+    
+    Commit Tools Version:315f15f
+
+commit 40d2eff9de3aeafe4e024b9e2beca480df069f36
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Tue Mar 27 18:01:48 2018 +0800
+
+    [ALL][ALL][Other][]: 添加NFC编译判断（软件验证）
+    
+    Product:ALL
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:添加NFC编译判断（软件验证）
+    Description:添加NFC编译判断（软件验证）
+    
+    Commit Tools Version:0130143
+
+commit 48222204136b0c2968e8153751bf673a7260e36e
+Merge: 15ed92e 2a6c669
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Tue Mar 27 16:28:33 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 15ed92e9fab22c27d8d566b854df6bd699d670ed
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Tue Mar 27 16:25:46 2018 +0800
+
+    [ALL][XX][Picc][]: 修复debug版本编译出错问题；# 软件自测
+    
+    Product:ALL
+    Customer:XX
+    Module:Picc
+    Bug ID:
+    Key Word:
+    Description:修复debug版本编译出错问题；# 软件自测
+    
+    Commit Tools Version:e77912a
+
+commit 2a6c6693e7750a07127e303c3ab8756428d1bd0b
+Merge: 19ccc61 1c260cf
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Mar 27 16:07:45 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 19ccc61b9500cb24448d25ec842ce0cc3c366014
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Mar 27 16:04:06 2018 +0800
+
+    [PDA][XX][Scan][]: 更新6601扫描数据处理，避免部分条码数据解码乱码
+    
+    Product:PDA
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:更新6601扫描数据处理，避免部分条码数据解码乱码
+    
+    Commit Tools Version:f7b8ba2
+
+commit 1c260cff54e77c7d53249c4fe12567588ae6bae1
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Mar 27 15:55:33 2018 +0800
+
+    [SQ27T][UTE][Other][]: UTE SQ27T客户需求提交
+    
+    Product:SQ27T
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE SQ27T客户需求提交
+    
+    Commit Tools Version:315f15f
+
+commit 79bacf3049ec8f15fabe039984b7930e72d05125
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Mar 27 15:41:57 2018 +0800
+
+    [PDA][XX][Scan][]: 扫描设置6601显示编码格式选项
+    
+    Product:PDA
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描设置6601显示编码格式选项
+    
+    Commit Tools Version:f7b8ba2
+
+commit 2a5298790d6762539b6eee72dab5cb3db8b692bb
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Tue Mar 27 15:13:18 2018 +0800
+
+    [ALL][ALL][Other][]: 添加编译日志（软件验证）
+    
+    Product:ALL
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:添加编译日志（软件验证）
+    Description:添加编译日志（软件验证）
+    
+    Commit Tools Version:0130143
+
+commit 96dc5821b5ec0b03a92a36cb2cc20e762429aa92
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Tue Mar 27 13:59:36 2018 +0800
+
+    [ALL][XX][Other][]: recovery中允许非签名版强制升级签名版本；
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:recovery中允许非签名版强制升级签名版本；
+    
+    Commit Tools Version:e77912a
+
+commit bb497b2197db92816e468d3398d9e9031dedcf91
+Merge: dd3d5db 0becd34
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Mar 26 19:17:47 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit dd3d5db6b5926eb6727d0a14d9ae37b5715c9057
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Mar 26 19:15:58 2018 +0800
+
+    [ALL][XX][Other][]: 修复脚本错误；# 软件自测
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复脚本错误；# 软件自测
+    
+    Commit Tools Version:e77912a
+
+commit 0becd34bf4aec660b176a0f5503597647a74550f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Mar 26 18:06:04 2018 +0800
+
+    [SQ42T][HCKJ][Other][]: HCKJ 客户需求提交
+    
+    Product:SQ42T
+    Customer:HCKJ
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:HCKJ 客户需求提交
+    
+    Commit Tools Version:e77912a
+
+commit ece2f3b90bf917d51ea122d2f31f704115a773c0
+Merge: aafd70f cb312cd
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Mar 26 17:35:52 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit aafd70f83d6e7fba54cb312d9bc5516a92e327f4
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Mar 26 17:31:15 2018 +0800
+
+    [SQ27T][UMSPOS][LED][]: 工厂测试三色灯绿灯不能点亮问题
+    
+    Product:SQ27T
+    Customer:UMSPOS
+    Module:LED
+    Bug ID:
+    Key Word:
+    Description:工厂测试三色灯绿灯不能点亮问题
+    
+    Commit Tools Version:e77912a
+
+commit cb312cd282bf5dfee656a97682ca7eda9e4f2be0
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 26 15:10:06 2018 +0800
+
+    [ALL][ALL][NFC][]: 修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译多余的NFC相关服务及JAR包，不然会导致不带547/548的项目关机慢
+    
+    Product:ALL
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译多余的NFC相关服务及JAR包，不然会导致不带547/548的项目关机慢
+    Description:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译多余的NFC相关服务及JAR包，不然会导致不带547/548的项目关机慢
+    
+    Commit Tools Version:0130143
+
+commit 0aed681da6bd5e3e8eedc221fea49d3ab41181e7
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 26 14:51:07 2018 +0800
+
+    [ALL][ALL][NFC][]: 修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译多余的NFC相关服务及JAR包，不然会导致不带547/548的项目光机慢
+    
+    Product:ALL
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译多余的NFC相关服务及JAR包，不然会导致不带547/548的项目光机慢
+    Description:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译多余的NFC相关服务及JAR包，不然会导致不带547/548的项目光机慢
+    
+    Commit Tools Version:0130143
+
+commit 8e7098228ae8067ca9aff7348073e0291aaa422e
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 26 14:30:04 2018 +0800
+
+    [ALL][ALL][NFC][]: 修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译NFC相关服务及JAR包（软件验证）
+    
+    Product:ALL
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译NFC相关服务及JAR包（软件验证）
+    Description:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译NFC相关服务及JAR包（软件验证）
+    
+    Commit Tools Version:0130143
+
+commit 203d66a500ed1802e052840501a7bcc9569bf6ac
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 26 14:10:05 2018 +0800
+
+    [ALL][ALL][NFC][]: 修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译NFC相关服务及JAR包（软件验证）
+    
+    Product:ALL
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译NFC相关服务及JAR包（软件验证）
+    Description:修改PN547/PN548 NFC编译配置，没有配置PN547/PN548的项目不编译NFC相关服务及JAR包（软件验证）
+    
+    Commit Tools Version:0130143
+
+commit 874e290ab9af33da232972dee142d16add33ad1f
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Mar 24 00:05:48 2018 +0800
+
+    [SQ27TE][CCB][Other][]: 更新应用验签证书
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更新应用验签证书
+    
+    Commit Tools Version:d2eac4b
+
+commit ed1e75c5882bd9ca0ac082688b5e7c584e9c18a0
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Mar 23 18:41:30 2018 +0800
+
+    [SQ27T][Other][APP][]: 更新印度定制内置云桌面与客户app
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新印度定制内置云桌面与客户app
+    
+    Commit Tools Version:f7b8ba2
+
+commit 4e078512c8228ed28217b945b637ca767c69b291
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Mar 23 14:46:38 2018 +0800
+
+    [ALL][XX][Other][]: 所有项目去掉GMS 提示服务版本过低
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:所有项目去掉GMS 提示服务版本过低
+    
+    Commit Tools Version:e77912a
+
+commit ca05ce8607f9ac27e0ec2f1bf40c214220abadd7
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Mar 23 12:52:58 2018 +0800
+
+    [SQ27TE][CCB][Other][]: 在慧兜圈应用界面时，隐藏状态栏
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:在慧兜圈应用界面时，隐藏状态栏
+    
+    Commit Tools Version:d2eac4b
+
+commit 9c9148ed16b09838b49188a23b14bc89ce0128dc
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Mar 23 11:36:19 2018 +0800
+
+    [SQ27TC][SYB][APP][]: 恢复系统内置相机应用，只隐藏相机图标
+    
+    Product:SQ27TC
+    Customer:SYB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:恢复系统内置相机应用，只隐藏相机图标
+    
+    Commit Tools Version:f7b8ba2
+
+commit c709fbeffc47bf2abff06bb2400b81ca249eca13
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Mar 22 18:23:58 2018 +0800
+
+    [SQ27TE][CCB][APP][]: 更新CCBSystemService服务
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新CCBSystemService服务
+    
+    Commit Tools Version:d2eac4b
+
+commit feea7bce6f0a5376d17d8bc7f3dc3ba61c9e9a98
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Thu Mar 22 15:04:41 2018 +0800
+
+    [SQ27TE][XX][TP][]: 27TD增加5688触摸屏支持；
+    
+    Product:SQ27TE
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:
+    Description:27TD增加5688触摸屏支持；
+    
+    Commit Tools Version:e77912a
+
+commit ebd2deaf44c094a53f0acc4e991aae428e3d2dd3
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Mar 21 15:24:21 2018 +0800
+
+    [SQ27TE][CCB][APP][]: 更新CCBUSDKServerApk服务
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新CCBUSDKServerApk服务
+    
+    Commit Tools Version:d2eac4b
+
+commit fa7308774025554ed8b25f4b340cbfeacb1c4527
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 21 14:18:26 2018 +0800
+
+    [SQ51][XX][Other][]: 工厂测试NFC测试无法成功问题修复
+    
+    Product:SQ51
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:工厂测试NFC测试无法成功问题修复
+    
+    Commit Tools Version:e77912a
+
+commit 10a18e094d91d61d12c4cdc8ce95791f2d6d9fec
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Mar 21 12:01:59 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制更新云桌面APP
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制更新云桌面APP
+    
+    Commit Tools Version:f7b8ba2
+
+commit a983e76f794c5d8367e7e72dbe8ab90aab14d07b
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Mar 19 20:09:40 2018 +0800
+
+    [SQ27TE][CCB][APP][]: 更新CCBSystemService.apk
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新CCBSystemService.apk
+    
+    Commit Tools Version:d2eac4b
+
+commit 800204f004a3e217cf7e8276b61dfbd1be4035b0
+Merge: a21c043 4dadd14
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Mar 19 19:22:14 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit a21c0435f58592a12bfabbe6dfeacbbd94529a36
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Mar 19 19:14:35 2018 +0800
+
+    [SQ29][CCB][Other][]: SE # CCB# 更新SE的错误返回码；更新CCB的库；
+    
+    Product:SQ29
+    Customer:CCB
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SE # CCB# 更新SE的错误返回码；更新CCB的库；
+    
+    Commit Tools Version:e77912a
+
+commit 4dadd14e3152da3d693585d526f7cabedfbeae9f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Mar 19 15:43:25 2018 +0800
+
+    [ALL][XX][UI][]: 解决默认语言英文时，设置界面显示成en_(US)，语言为English(India)，打开移动网络运营商界面异常
+    
+    Product:ALL
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决默认语言英文时，设置界面显示成en_(US)，语言为English(India)，打开移动网络运营商界面异常
+    
+    Commit Tools Version:f7b8ba2
+
+commit 549c8b8589cf95e3268a91d49cf8a4d350c3affa
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 19 10:58:05 2018 +0800
+
+    [PDA][ALL][NFC][]: 添加PN547相关配置文件及固件（软件验证）
+    
+    Product:PDA
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:添加PN547相关配置文件及固件（软件验证）
+    Description:添加PN547相关配置文件及固件（软件验证）
+    
+    Commit Tools Version:0130143
+
+commit 057672bf0a9b4379bded0b36e360f8217501eca9
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 19 10:53:30 2018 +0800
+
+    [PDA][ALL][NFC][]: 删除PN547旧的相关代码（软件验证）
+    
+    Product:PDA
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:删除PN547旧的相关代码（软件验证）
+    Description:删除PN547旧的相关代码（软件验证）
+    
+    Commit Tools Version:0130143
+
+commit f967b153f8546b4c98eb9a3fe1ecea32eccfdaee
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Mar 19 10:39:23 2018 +0800
+
+    [PDA][ALL][NFC][]: 修改PN547 NFC代码，跟PN548共用一套代码，解决客户遇到的有些NFC TAG几个重叠的时候，NFC识别失败导>致NFC功能无法再使用的问题
+    
+    Product:PDA
+    Customer:ALL
+    Module:NFC
+    Bug ID:
+    Key Word:修改PN547 NFC代码，跟PN548共用一套代码，解决客户遇到的有些NFC TAG几个重叠的时候，NFC识别失败导致NFC功能无法再使用的问题
+    Description:修改PN547 NFC代码，跟PN548共用一套代码，解决客户遇到的有些NFC TAG几个重叠的时候，NFC识别失败导>致NFC功能无法再使用的问题
+    
+    Commit Tools Version:0130143
+
+commit a01ad2ec9260a2739ce828f1e1059fbe580ca379
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Mar 17 10:48:33 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制默认时区Asia/Calcutta
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制默认时区Asia/Calcutta
+    
+    Commit Tools Version:f7b8ba2
+
+commit 291aa7c37a889cd925074515370089466c5179d6
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Fri Mar 16 18:40:13 2018 +0800
+
+    [SQ51][JXYHBJ][Other][]: 修改SQ51抄表模块的文件节点权限（软件验证）
+    
+    Product:SQ51
+    Customer:JXYHBJ
+    Module:Other
+    Bug ID:
+    Key Word:修改SQ51抄表模块的文件节点权限（软件验证）
+    Description:修改SQ51抄表模块的文件节点权限（软件验证）
+    
+    Commit Tools Version:0130143
+
+commit 8391ee16cd24fdb81005ab5a234d0f120946f34d
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Mar 16 18:12:39 2018 +0800
+
+    [SQ51][BAOJIE][Other][]: 去掉360apk
+    
+    Product:SQ51
+    Customer:BAOJIE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:去掉360apk
+    
+    Commit Tools Version:e77912a
+
+commit d1d71e2123627a11924a2ddc2e81fc26581f435c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Mar 15 18:26:41 2018 +0800
+
+    [SQ43T][XX][APP][]: 编译签名版本时证书验证异常，无法开机
+    
+    Product:SQ43T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:编译签名版本时证书验证异常，无法开机
+    
+    Commit Tools Version:f7b8ba2
+
+commit 6c19f0ea9a304dec3932ac77a5bf70b5ec77f252
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Thu Mar 15 17:25:45 2018 +0800
+
+    [SQ51][Other][Other][]: 添加江西银河表计有限公司的定制名称------JXYHBJ (软件验证)
+    
+    Product:SQ51
+    Customer:Other
+    Module:Other
+    Bug ID:
+    Key Word:添加江西银河表计有限公司的定制名称------JXYHBJ (软件验证)
+    Description:添加江西银河表计有限公司的定制名称------JXYHBJ (软件验证)
+    
+    Commit Tools Version:18e0cf4
+
+commit 35fcee1927f2c6d24197daed7bb01271159c8da3
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Mar 15 10:50:30 2018 +0800
+
+    [SQ51][YDE][Other][]: 禁掉google service 通知，音量减半
+    
+    Product:SQ51
+    Customer:YDE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:禁掉google service 通知，音量减半
+    
+    Commit Tools Version:e77912a
+
+commit 5a3478e8809be6dc69d3ce38ed97e0418ecef0ae
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Mar 14 20:06:56 2018 +0800
+
+    [PDA][XX][Scan][]: 扫描输出方式添加新类型，仅用输入法　输出扫描结果，兼容部分客户的软件
+    
+    Product:PDA
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描输出方式添加新类型，仅用输入法　输出扫描结果，兼容部分客户的软件
+    
+    Commit Tools Version:f7b8ba2
+
+commit 5ef70025db4bc5c84a1b39131a56b758c7a9061b
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 14 17:09:02 2018 +0800
+
+    [SQ51][SCGA][Other][]: 客户要求第一次开机启动终端安全客户端，并且不能在设置应用中停止终端安全客户端，把终端安全客户端设置为设备管理器
+    
+    Product:SQ51
+    Customer:SCGA
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:客户要求第一次开机启动终端安全客户端，并且不能在设置应用中停止终端安全客户端，把终端安全客户端设置为设备管理器
+    
+    Commit Tools Version:e77912a
+commit 2821ec654bf82d0ba5343fe5c5dd74ac3e4e49ab
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Mar 14 14:47:30 2018 +0800
+
+    [SQ42T][Vanguard][Other][]: Vanguard更新iLauncher apk
+    
+    Product:SQ42T
+    Customer:Vanguard
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:Vanguard更新iLauncher apk
+    
+    Commit Tools Version:e77912a
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: 4464ee7                                                         
+                   扫描头修改点(79c89d2<---4464ee7 )          
+commit 79c89d22cea54a6a193e86695c9a5355c8602ae6
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Mar 27 16:00:09 2018 +0800
+
+    [PDA][XX][Scan][]: 6601扫描使能编码格式选择
+    
+    Product:PDA
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:6601扫描使能编码格式选择
+    
+    Commit Tools Version:f7b8ba2
+
+commit c95bdde129d0737a936abf0a1ce8da75ae88294c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Mar 14 20:09:39 2018 +0800
+
+    [PDA][XX][Scan][]: 扫描输出方式添加新类型，仅用输入法　输出扫描结果，兼容部分客户的软件
+    
+    Product:PDA
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描输出方式添加新类型，仅用输入法　输出扫描结果，兼容部分客户的软件
+    
+    Commit Tools Version:f7b8ba2
+commit 4464ee7c241e6bddf3c0c666ec7399e02129c46a
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sun Feb 11 10:57:40 2018 +0800
+
+    [PDA][XX][Scan][]: 扫描设置格式化选项添加移除非打印字符选项（功能只在键盘输出模式下起效），如GS1-128，QRCode码中的GS分隔符，不移除时文本框中会看到空格显示
+    
+    Product:PDA
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描设置格式化选项添加移除非打印字符选项（功能只在键盘输出模式下起效），如GS1-128，QRCode码中的GS分隔符，不移除时文本框中会看到空格显示
+    
+    Commit Tools Version:f7b8ba2
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: 581bd14                                                         
+                   打印机修改点(581bd14<---581bd14 )          
+
+commit 581bd14a67521d5979d6075c83aee0b429e73a43
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Feb 5 11:02:11 2018 +0800
+
+    Printer # 5.0 # MoR 更新CFLAGS；
+****************************************************************************

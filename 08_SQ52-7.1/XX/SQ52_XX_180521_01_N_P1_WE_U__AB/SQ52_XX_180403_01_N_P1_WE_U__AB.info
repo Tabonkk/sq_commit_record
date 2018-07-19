@@ -1,0 +1,110 @@
+serial number of this version: 0154
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-01-17:38~20:28
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-04-03-22:16~01:10
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(68c2948<---68c2948 )          
+
+commit 68c294843f61dffc10d231517c3d1d84a79fbdf5
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Mar 12 15:11:36 2018 +0800
+
+    [SQ52][ALL][Charge][]: add charge curve
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:add charge curve
+    Description:add charge curve
+    
+    Commit Tools Version:de4e0fc
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(6d09d15<---0be76c6 )          
+commit 6d09d15fe7f6e57f9c81250874eeaca88ce84eac
+Merge: dd195a6 248804c
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Apr 3 17:05:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 248804c74d6f405a98d4f57236f6008d0ebbeac0
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 3 15:52:46 2018 +0800
+
+    [SQ52][YDSD][Other][]: 设置应用里面不能操作云桌面
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设置应用里面不能操作云桌面
+    
+    Commit Tools Version:315f15f
+
+commit 122662cdee5956f3a7482d6742786c53be7baa6a
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 3 14:30:02 2018 +0800
+
+    [SQ52][YDSD][Other][]: 设置中不能禁用云桌面
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:设置中不能禁用云桌面
+    
+    Commit Tools Version:315f15f
+
+commit bcd4a93ad7155fe02d6cc1f75f3cdd9e56e00329
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Apr 3 10:32:17 2018 +0800
+
+    [SQ52][ALL][Other][]: USettings 去掉库的依赖（软件验证）
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:USettings 去掉库的依赖（软件验证）
+    
+    Commit Tools Version:315f15f
+
+commit dd195a633d408326f19ff27c9be32aabd73cd966
+Merge: 0be76c6 e80d7f2
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Apr 2 17:45:11 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit e80d7f23522186842f9fd86f9a3b595d52bc68db
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Apr 2 17:37:32 2018 +0800
+
+    [SQ52][YDSD][Other][]: 添加云桌面
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:添加云桌面
+    
+    Commit Tools Version:315f15f
+commit 0be76c69a34dfc85f7cd5a00ceda6364738b510d
+Merge: d6205a9 c96cb19
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sun Apr 1 17:37:05 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

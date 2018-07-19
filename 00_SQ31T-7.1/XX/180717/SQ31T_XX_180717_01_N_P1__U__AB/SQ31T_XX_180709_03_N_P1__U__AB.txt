@@ -1,0 +1,11 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-07-09 编译序号：03
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_0709 <yangguang>
+[SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+patch_from_yufan_0709 <yangguang>
+解决问题：偶现6603扫描头设置点击“配置取景框”报错 <wujinquan>

@@ -1,0 +1,65 @@
+serial number of this version: 0016
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-09-18:17~20:16
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-09-21:14~23:10
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(2ccc9e7<---3c13f6e )          
+commit 2ccc9e7632c6cb6672cf4f46d4a47bfadde61f69
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed May 9 21:09:24 2018 +0800
+
+    [SQ52T][YDSD][Other][]: add_compound
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:add_compound
+    Description:add_compound
+    
+    Commit Tools Version:0be60f5
+
+commit 18866b10016c8d8748f901c84df33bb075dbc2f5
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed May 9 20:42:12 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_audio_acdbdata
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_audio_acdbdata
+    Description:add_audio_acdbdata
+    
+    Commit Tools Version:0be60f5
+commit 3c13f6e283287da29c88a13028b52aecc9570690
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed May 9 16:43:35 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 更新新UI中的SystemUI应用，解决ota升级开机报错问题
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更新新UI中的SystemUI应用，解决ota升级开机报错问题
+    
+    Commit Tools Version:0be60f5
+****************************************************************************

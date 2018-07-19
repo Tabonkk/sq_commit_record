@@ -1,0 +1,109 @@
+serial number of this version: 0144
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-05-21:12~23:47
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-07-10:20~13:08
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(45ad459<---45ad459 )          
+
+commit 45ad4595863b64604ac079aac60654f3a2efe8a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Sat Jan 27 18:03:51 2018 +0800
+
+    [SQ52][XX][TP][]: 更新华视1供煜烨TP固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:更新华视1供煜烨TP固件
+    Description:更新华视1供煜烨TP固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bc6741d<---e8a2f33 )          
+commit bc6741d657d9c14ddd221048183423b342ab9a40
+Merge: 5d9b85c a0a2f9d
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 7 10:18:52 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a0a2f9d7e27cfe36a10213dcfd74420129c989d8
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Mar 6 19:00:31 2018 +0800
+
+    [ALL][XX][Other][]: 更改代码避免无用log影响分析问题（软件验证）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更改代码避免无用log影响分析问题（软件验证）
+    
+    Commit Tools Version:d2eac4b
+
+commit 5d9b85c508dc6531502426bc69f8d40122cd22ea
+Merge: 189d7a1 dcdb6e4
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 6 15:45:04 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit dcdb6e47889c85058aa3be5cdc992c14f5cacca9
+Merge: 42bff05 0cfdaee
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Mar 6 15:19:51 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 42bff05c437c24fece462e34e034bc4b92f46cd7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Mar 6 15:18:47 2018 +0800
+
+    [SQ52][XX][Other][]: 更新userdata分区大小以兼容KMQE60013M-B318/Samsung
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:更新userdata分区大小以兼容KMQE60013M-B318/Samsung
+    Description:更新userdata分区大小以兼容KMQE60013M-B318/Samsung
+    
+    Commit Tools Version:140f12f
+
+commit 189d7a1371a4318ecf2d63f95b53ee5bc1efc5fe
+Merge: e8a2f33 0cfdaee
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 6 15:04:23 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 0cfdaee1743d35ae1e14853e9e5c72a007533819
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Mar 6 14:16:33 2018 +0800
+
+    [SQ52][YDSD][Other][]: YDSD开关机动画开机logo提交
+    
+    Product:SQ52
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD开关机动画开机logo提交
+    
+    Commit Tools Version:d2eac4b
+commit e8a2f33eaeccc1e9fe0ba9cd6b8375bb22ae6eb4
+Merge: 39d1540 6583e86
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 5 17:25:17 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

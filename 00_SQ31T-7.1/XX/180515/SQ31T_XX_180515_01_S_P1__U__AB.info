@@ -1,0 +1,59 @@
+serial number of this version: 0052
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /                      
+Build time:2018-05-14-15:14~16:36
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-15-11:47~12:55
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(925ad4a<---0064146 )          
+commit 925ad4a7aacac835743ddf48c4381177364e60d1
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 15 10:39:15 2018 +0800
+
+    [SQ31T][ALL][Charge][]: modfy_charge_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:modfy_charge_current
+    Description:modfy_charge_current
+    
+    Commit Tools Version:0be60f5
+commit 0064146626ce99d2987fecf859f494a2fc344dd4
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon May 14 11:46:03 2018 +0800
+
+    [SQ31T][ALL][Charge][]: modfy_charge_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:modfy_charge_current
+    Description:modfy_charge_current
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(d333745<---d333745 )          
+
+commit d3337458902c6e447fb46514b29bfb821d1ba823
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon May 14 14:27:25 2018 +0800
+
+    [ALL][XX][Other][]: 修改OTA升级方式
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改OTA升级方式
+    
+    Commit Tools Version:94c45c6
+****************************************************************************

@@ -1,0 +1,118 @@
+serial number of this version: 0022
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 02      FAST-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-27-11:47~12:22
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-27-20:47~22:48
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(802d680<---349e108 )          
+commit 802d680386774788717020ae66578798bbd9d926
+Author: hetao <tao.he@urovo.com>
+Date:   Wed Jun 27 17:57:56 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本，优化 录屏应用
+
+commit df357536f7e4ef76124dfcae21f050a87f53100c
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Wed Jun 27 17:40:13 2018 +0800
+
+    [ALL][XX][Other][]: SQ52T YDSD定制OTA升级重启后关闭Bluetooth和GPS
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD定制OTA升级重启后关闭Bluetooth和GPS
+    
+    Commit Tools Version:94c45c6
+
+commit e19e55a8e84884bee4f87142830e60a6e5fea4ad
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 27 17:22:26 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(软件自测)
+
+commit ed2d4e8ba594505e34567cdb1e86c4df117b2882
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 27 15:09:04 2018 +0800
+
+    [ALL][XX][Other][]: 版本号增加EN标识
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:版本号增加EN标识
+    
+    Commit Tools Version:ca2c4f7
+
+commit 5c21225b0ad5dbffa9d2e1eeac0f7f14c09eb193
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jun 27 23:01:37 2018 +0800
+
+    [SQ52][ALL][Audio][]: add_audio_acdbdata
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_audio_acdbdata
+    Description:add_audio_acdbdata
+    
+    Commit Tools Version:0be60f5
+
+commit d021b5c2ae8e505ba7f4f299b7cacbc1bd725a79
+Author: hetao <tao.he@urovo.com>
+Date:   Wed Jun 27 13:53:07 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本，添加手电筒功能（托盘添加按钮打开、关闭手电筒，按2次电源键也可关闭手电筒）
+commit 349e108a5e8ead1833b2124d59a265de8f5c837b
+Author: luolin <lin.luo@urovo.com>
+Date:   Wed Jun 27 11:45:43 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(修复编译错误)
+****************************************************************************

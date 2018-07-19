@@ -1,0 +1,46 @@
+serial number of this version: 0001
+the previous command is: NULL
+Build time:
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-05-10:24~12:25
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(0c6ce79<---0c6ce79 )          
+
+commit 0c6ce791f75255417769bd97c2046dec8f1d8766
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Thu Apr 19 14:22:54 2018 +0800
+
+    [SQ52T][XX][Charge][]: 合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Charge
+    Bug ID:
+    Key Word:合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    Description:合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    
+    Commit Tools Version:6119286
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(4f6a604<---4f6a604 )          
+
+commit 4f6a60436358f19bad9d82a097b4cb41fdea639f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat May 5 09:59:53 2018 +0800
+
+    [SQ52T][YDSD][Other][]: SQ52T YDSD先不编译新UI（软件自测）
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD先不编译新UI（软件自测）
+    
+    Commit Tools Version:0be60f5
+****************************************************************************

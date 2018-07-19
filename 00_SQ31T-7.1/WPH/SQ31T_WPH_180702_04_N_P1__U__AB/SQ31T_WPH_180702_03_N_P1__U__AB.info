@@ -1,0 +1,59 @@
+serial number of this version: 0007
+the previous command is: ./OS_Build6_8909.sh SQ31T WPH N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-18:03~19:16
+the command of this build is: ./OS_Build6_8909.sh SQ31T WPH N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-02-20:38~21:32
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(35c7e49<---35c7e49 )          
+
+commit 35c7e4945334142d7d4bfa5ba7884bde8a452192
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Jul 2 14:24:22 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_for_no_scankey
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_for_no_scankey
+    Description:patch_from_yufan_for_no_scankey
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b964788<---91673be )          
+commit b9647889afc48cd7c7cfaa7b2e6e0d7016992895
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 20:32:13 2018 +0800
+
+    [SQ31T][WPH][KEY][]: 恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:恢复原来按键映射表（解决按键无效）（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 91673be6a6fc27c0a537ffb6022d982e834c54d5
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 2 17:59:43 2018 +0800
+
+    [SQ31T][XX][Scan][]: 解决：连续扫描出光慢
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:解决：连续扫描出光慢
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

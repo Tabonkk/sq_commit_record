@@ -1,0 +1,95 @@
+serial number of this version: 0152
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-13-02:14~04:54
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-03-15-11:36~14:31
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(68c2948<---2b506d2 )          
+commit 68c294843f61dffc10d231517c3d1d84a79fbdf5
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon Mar 12 15:11:36 2018 +0800
+
+    [SQ52][ALL][Charge][]: add charge curve
+    
+    Product:SQ52
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:add charge curve
+    Description:add charge curve
+    
+    Commit Tools Version:de4e0fc
+commit 2b506d2554fd5f55584ba10f975fdc94c196eaa2
+Merge: ee37797 5487b15
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Mar 12 12:09:28 2018 +0800
+
+    Merge branch 'kernel_8940' of 192.168.8.215:8917/Nougat/kernel into kernel_8940
+    
+    Conflicts:
+    	msm-3.18/arch/arm/boot/dts/qcom/msm8937-pinctrl.dtsi
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(f47f40f<---d5f9cc1 )          
+commit f47f40f11bc87064e7ca397bac100040cb3da3d7
+Merge: defd1cf c44634f
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Mar 14 20:37:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit c44634f723b88b71d2cc658b1a2b14cedf670177
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Mar 14 20:29:26 2018 +0800
+
+    [SQ52T][XX][Other][]: 修改device/qcom/sepolicy/common/kernel.te打开user版本adb口
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:修改device/qcom/sepolicy/common/kernel.te打开user版本adb口
+    Description:修改device/qcom/sepolicy/common/kernel.te打开user版本adb口
+    
+    Commit Tools Version:e77912a
+
+commit defd1cfad602df7e66b6bca516aba4a578041229
+Merge: d5f9cc1 1441368
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Tue Mar 13 10:25:21 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1441368e32130ca7b4a90e2fcb64683e8e66f6f8
+Merge: 1b0fb7d 5de66a7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Mar 13 10:09:34 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 1b0fb7d58c63b7afdf18032b3b1fdac8ee75b33f
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Mar 13 09:57:46 2018 +0800
+
+    [SQ52][XX][Sensor][]: 1.添加文件replace机制，在构建版本前，根据UROVO_PRODUCT的定义，拷贝相应的文件到指定位置。当前修改，目标文件是vendor/qcom/proprietary/sensors/dsps/reg_defaults/sensor_def_qcomdev.conf。2.修改6603HAL的capture.cpp,完善异常分支处理。
+    
+    Product:SQ52
+    Customer:XX
+    Module:Sensor
+    Bug ID:
+    Key Word:1.添加文件replace机制，在构建版本前，根据UROVO_PRODUCT的定义，拷贝相应的文件到指定位置。当前修改，目标文件是vendor/qcom/proprietary/sensors/dsps/reg_defaults/sensor_def_qcomdev.conf。2.修改6603HAL的capture.cpp,完善异常分支处理。
+    Description:1.添加文件replace机制，在构建版本前，根据UROVO_PRODUCT的定义，拷贝相应的文件到指定位置。当前修改，目标文件是vendor/qcom/proprietary/sensors/dsps/reg_defaults/sensor_def_qcomdev.conf。2.修改6603HAL的capture.cpp,完善异常分支处理。
+    
+    Commit Tools Version:e77912a
+commit d5f9cc11c33876adb76c55c9c94574480919706b
+Merge: 4d23172 5de66a7
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Mon Mar 12 23:04:17 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

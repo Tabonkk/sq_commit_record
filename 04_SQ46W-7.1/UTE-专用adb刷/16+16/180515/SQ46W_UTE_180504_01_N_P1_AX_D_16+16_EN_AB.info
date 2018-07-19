@@ -1,0 +1,46 @@
+serial number of this version: 0032
+the previous command is: ./OS_Build7_8916.sh SQ46W UTE N 01      ALL-O FTP true P1 AX i9000S  server   RD-ALL 16+16  /               
+Build time:2018-05-03-11:19~13:10
+the command of this build is: ./OS_Build7_8916.sh SQ46W UTE N-D 01      ALL-O PRO true P1 AX i9000S  server   RD-ALL 16+16  /               
+Build time:2018-05-04-17:01~19:01
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(7ba1ed1<---7ba1ed1 )          
+
+commit 7ba1ed1e1b2a8d3b096065cb78d7694e273707f7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Thu May 3 09:48:51 2018 +0800
+
+    [SQ46W][XX][Other][]: 解决飞行模式下低电流为20mA左右的问题，座充的插入检测处理根据硬件的提议设定在延迟1秒左右
+    
+    Product:SQ46W
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:解决飞行模式下低电流为20mA左右的问题，座充的插入检测处理根据硬件的提议设定在延迟1秒左右
+    Description:解决飞行模式下低电流为20mA左右的问题，座充的插入检测处理根据硬件的提议设定在延迟1秒左右
+    
+    Commit Tools Version:6119286
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(061e180<---061e180 )          
+
+commit 061e180ad3093e34d966010c88f5968ce634a0e0
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Tue Apr 24 16:27:49 2018 +0800
+
+    [SQ46W][XX][Other][]: 配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。
+    
+    Product:SQ46W
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。
+    Description:配合jenkins构建脚本修改SQ46W的buildspec，以便jenkins定义的memory类型能正确传递到代码中来。
+    
+    Commit Tools Version:6119286
+****************************************************************************

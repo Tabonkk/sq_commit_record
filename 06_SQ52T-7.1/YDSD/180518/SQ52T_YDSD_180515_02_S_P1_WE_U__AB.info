@@ -1,0 +1,90 @@
+serial number of this version: 0024
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-15-10:55~12:56
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-15-17:02~19:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(abe1a0c<---baa02d7 )          
+commit abe1a0cb2ee70c7c81f519fa005d70f95248aa58
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue May 15 16:49:04 2018 +0800
+
+    [SQ52][Other][APP][]: 韵达定制白名单功能接口
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:韵达定制白名单功能接口
+    
+    Commit Tools Version:f7b8ba2
+
+commit b39947adbfd7200d77ea8b4f662072b19f03523f
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 12:38:48 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误（软件自测）
+
+commit 0686163facca7349c2933967ce67938ae86b8251
+Merge: a4b2336 d761b8f
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 11:40:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit a4b2336cf67e79e078a016061a607aa7e6f60308
+Author: lin.luo <lin.luo@urovo.com>
+Date:   Tue May 15 11:33:52 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通应用vpn设置权限；设置为圆通应用为deviceowner；圆通定制接口（静默安装卸载，获取应用电量、内存）；
+
+commit d761b8f30acb18bb4d6c6161884becacf26ba59f
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 15 11:11:35 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD UI版本 修复后台控制WIFI开关错误提示问题
+commit baa02d753f7d21d2339a1c4f41493667814599bf
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon May 14 19:35:41 2018 +0800
+
+    [SQ52][Other][APP][]: 韵达定制白名单功能接口
+    
+    Product:SQ52
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:韵达定制白名单功能接口
+    
+    Commit Tools Version:f7b8ba2
+****************************************************************************

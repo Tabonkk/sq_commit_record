@@ -1,0 +1,12 @@
+*************************************************************************
+SQ31T_WPH_Nsigned
+编译日期：2018-06-30 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_from_yufan_0629 <yangguang>
+[SQ31T][ALL][Charge][]: change_charge_curren_to_150000 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+更新IntentApp apk <wujinquan>
+patch_from_yufan_0629 <yangguang>
+WPH去掉应用中心 <wujinquan>

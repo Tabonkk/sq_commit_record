@@ -1,0 +1,5 @@
+ [SQ52T][ALL][Scan]修复部分6603不出光问题 <jiaxinxin>
+ 横屏启动camera，预览界面异常bug修复 <gouwei>
+ 所有项目添加自定义NTP服务器地址功能 <gouwei>
+ YDSD 新UI更新，去掉开启联网提示 <gouwei>
+ add_handset_Speaker_cal_acdb <yangguang>

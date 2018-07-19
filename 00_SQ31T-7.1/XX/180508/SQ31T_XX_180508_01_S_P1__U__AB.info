@@ -1,0 +1,42 @@
+serial number of this version: 0049
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-07-19:13~20:34
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  S-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-08-09:08~10:14
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d0a1c5f<---d0a1c5f )          
+
+commit d0a1c5fd5875c725b2deb99c428903f2904e73fd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:12:56 2018 +0800
+
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bec211d<---bec211d )          
+
+commit bec211df58487348004742c3b82bc1259e48c1d0
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon May 7 14:55:47 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加按键映射
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加按键映射
+    
+    Commit Tools Version:0130143
+****************************************************************************

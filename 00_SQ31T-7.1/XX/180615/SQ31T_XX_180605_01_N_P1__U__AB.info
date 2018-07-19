@@ -1,0 +1,102 @@
+serial number of this version: 0009
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-30-18:59~19:51
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-06-05-12:14~13:18
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(d3f0c6c<---52c2d02 )          
+commit d3f0c6c5224d75d343172e0d6b21540bf09658eb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jun 5 11:07:31 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_for_yufan_0604
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_for_yufan_0604
+    Description:patch_for_yufan_0604
+    
+    Commit Tools Version:0be60f5
+commit 52c2d02ab877b9742f4af61d9f6c720b75fdcc28
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 22 11:07:27 2018 +0800
+
+    [SQ31T][ALL][Battery][]: modfy_usb_charging_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Battery
+    Bug ID:
+    Key Word:modfy_usb_charging_current
+    Description:modfy_usb_charging_current
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0a2fc20<---b4b2bfd )          
+commit 0a2fc203ebc9f310c7ef977b3cd3b9263edd7f57
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue Jun 5 10:44:15 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_for_yufan0604
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_for_yufan0604
+    Description:patch_for_yufan0604
+    
+    Commit Tools Version:0be60f5
+
+commit b0356600e87a47c6dc50c997d1eb5a1952cfa097
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon Jun 4 10:59:31 2018 +0800
+
+    [SQ31T][XX][Scan][]: 修复6603 Enable checksum不生效
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复6603 Enable checksum不生效
+    
+    Commit Tools Version:d557003
+
+commit d7ecfdd6af7c3c9bef63ce6b8bd5b1700535ef60
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 1 09:18:33 2018 +0800
+
+    [SQ31T][XX][Scan][]: 扫描头默认补光灯亮度默认为7
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描头默认补光灯亮度默认为7
+    
+    Commit Tools Version:d6794eb
+commit b4b2bfd9736e817b0375394d7f291488307ecee8
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue May 29 10:22:22 2018 +0800
+
+    [SQ31T][XX][Other][]: 修改签名显示为非签
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改签名显示为非签
+    
+    Commit Tools Version:d557003
+****************************************************************************

@@ -1,0 +1,13 @@
+*************************************************************************
+SQ52_XX_Nsigned
+编译日期：2018-03-05 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52][XX][TP][]: 更新华视1供煜烨TP固件 <baixueyuan>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+添加获取rom id，流量使用情况接口 <gouwei>
+添加获取rom id，流量使用情况接口 <gouwei>
+1.6603的capture_start_scanning返回值修正 2.关闭KeyguardConstants.java中的DEBUG，阻止不断打印TIME-TICK信息 <baixueyuan>
+重命名并上传SQ52和SQ52W的wifi固件文件 <baixueyuan>
+添加第三方app安装卸载apk的权限定制android.Manifest.permission.HIDE_INSTALL_PACKAGES(软件验证) <Rocky>

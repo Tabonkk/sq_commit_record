@@ -1,0 +1,38 @@
+serial number of this version: 0129
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-13-15:52~18:38
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N-D 01      ALL  PRO false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-15-10:30~13:53
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(af72198<---af72198 )          
+
+commit af72198ebbc64ee4a439edc5154b9c538d3885e9
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Fri Jan 12 16:33:14 2018 +0800
+
+    [SQ52][XX][TP][]: 合入宏发展最新tp固件
+    
+    Product:SQ52
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:合入宏发展最新tp固件
+    Description:合入宏发展最新tp固件
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(fd771fd<---fd771fd )          
+
+commit fd771fdb19ad88ad6b08369fad72462e271570fd
+Merge: cf64869 e316e35
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Sat Jan 13 11:34:29 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

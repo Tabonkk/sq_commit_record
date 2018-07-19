@@ -1,0 +1,8 @@
+ [SQ52T][ALL][Scan]调整6603扫描头导致的休眠功耗高问题 <jiaxinxin>
+ [SQ52T][ALL][Camera]高像后摄像头和舜宇前摄兼容 <jiaxinxin>
+ N6603添加Convert upc-a to ean-13 <Rocky>
+ [SQ52T][ALL][Camera]更新高像效果参数 <jiaxinxin>
+ [SQ52T][ALL][fingerprint]指纹识别库拷贝 <jiaxinxin>
+ [SQ52T][ALL][fingerprint]更新指纹识别库文件 <jiaxinxin>
+ 更新音频效果文件 <baixueyuan>
+ 老化测试扫描头一直出光扫码问题修复 <gouwei>

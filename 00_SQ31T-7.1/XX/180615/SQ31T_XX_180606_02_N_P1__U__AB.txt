@@ -1,0 +1,12 @@
+*************************************************************************
+SQ31T_XX_Nsigned
+编译日期：2018-06-06 编译序号：02
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ31T][ALL][Other][]: patch_for_yufan_0604 <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+扫描头设置只保留斑马原库的“Postal codes”菜单 <wujinquan>
+工厂测试耳机按键测试去掉音量+- <wujinquan>
+桌面不显示SerialTest，SIM卡应用 <wujinquan>
+update_audio_parms <yangguang>

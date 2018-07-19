@@ -1,0 +1,160 @@
+serial number of this version: 0020
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 03      UPDATE-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-12-18:46~18:46
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 04      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-12-20:03~22:01
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(1e8be3d<---1e8be3d )          
+
+commit 1e8be3dba9a1d991e4e988e54400c0ab97071dfc
+Merge: 60bc237 2ebf24d
+Author: hetao <tao.he@urovo.com>
+Date:   Sat May 12 16:01:57 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************
+serial number of this version: 0020
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-30-12:04~14:12
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-04-23:33~01:43
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(2932f87<---48711e4 )          
+commit 2932f87ce703a74e1dcb278e61aeeb3a7e09c4b9
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Jun 4 23:06:07 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI版本 1.电量使用详情列表移除蓝牙；2.添加settings动态配置方案，并支持一级菜单配置
+
+commit cfb952c74b78516dd3f70073917c505025a6da33
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jun 2 10:36:06 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(软件自测)
+
+commit 2f6eac43141180a05a975c6911f760de66872287
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jun 2 10:18:13 2018 +0800
+
+    [ALL][XX][Other][]: 海外版本默认英文
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:海外版本默认英文
+    
+    Commit Tools Version:2133d84
+
+commit 10cb56df38fdd442cdca0f123bfdcab0fc578cbd
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jun 2 09:47:26 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:预装圆通移动管理应用
+
+commit 3c71cb5d240051416fcb0877e564fff3c56668d6
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 1 18:59:05 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:默认查看应用使用情况权限切不可更改;默认无障碍-服务权限切不可更改;
+
+commit 950e699e63459a8371beb6e072fe654ae47f0cf1
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 1 11:44:16 2018 +0800
+
+    [SQ52][XX][APP][]: 设备连接电脑后，允许第三方app启动打开USB连接模式选项界面，同时移除android.permission.MANAGE_USB系统权限检查(软件验证)
+    
+    Product:SQ52
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:设备连接电脑后，允许第三方app启动打开USB连接模式选项界面，同时移除android.permission.MANAGE_USB系统权限检查(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit 76ea80c4dec0e79fa6cbbc68911d8ea614bd3d19
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu May 31 19:11:56 2018 +0800
+
+    [SQ52][YDSDTY][Other][]: 韵达速递通用版本提交，扫描头默认不勾选键盘，开机动画，型号改为M7
+    
+    Product:SQ52
+    Customer:YDSDTY
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:韵达速递通用版本提交，扫描头默认不勾选键盘，开机动画，型号改为M7
+    
+    Commit Tools Version:2133d84
+
+commit ef377bf316b6474af43a2a047a211411c32fcc4f
+Author: hetao <tao.he@urovo.com>
+Date:   Thu May 31 15:27:12 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 新UI 优化Launcher桌面应用
+commit 48711e4f969f3665f3de72f3323a9ed4cb8d2046
+Author: hetao <tao.he@urovo.com>
+Date:   Wed May 30 11:59:04 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 设置增加通话铃声设置，SystemUI中完善OTA后数据库不兼容的问题
+****************************************************************************

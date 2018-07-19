@@ -1,0 +1,16 @@
+ [SQ52][ALL][USB][]: improve_usb_drive_power <yangguang>
+ 拨号盘搜索添加搜索通话记录功能 <gouwei>
+ model name 改为 M7(M) <gouwei>
+ 修复6603 Enable checksum不生效 <DengTonglong>
+ YTO定制型号修改为I6310B <liqianbo>
+ 工厂测试增加英文 <gouwei>
+ UTE 工厂测试翻译 <gouwei>
+ 显示蓝牙耗电量，电量显示情况更改百分比策略 <gouwei>
+ OTA在线升级添加验签下载升级包，如有问题，弹出提示框 <liqianbo>
+ 隐藏STK应用 <gouwei>
+ 扫描勾选振动无效问题修复 <gouwei>
+ UTE添加google语音输入 <gouwei>
+ SQ52T YDSD定制OTA升级重启后关闭Bluetooth和GPS <liqianbo>
+ 版本号增加EN标识 <gouwei>
+ add_audio_acdbdata <yangguang>
+ 删除不重要的google app，节省系统控件 <gouwei>

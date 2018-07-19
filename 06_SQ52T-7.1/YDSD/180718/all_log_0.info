@@ -1,0 +1,473 @@
+serial number of this version: 0055
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-12-16:53~19:11
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-13-18:58~21:02
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bc8149e<---08b4eab )          
+commit bc8149e2a174addbb22f9f47124b1ac070430504
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 16:19:51 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 UTE dmi接口定制
+
+commit c77264550b0371a25c55f920b55ab5c2e9e2e1ee
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 16:09:52 2018 +0800
+
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 XX 检测不到指纹设备时，设置中影藏“安全-指纹”和“建议-使用指纹”
+
+commit c19506e19f5cdb64ce36b15bfbfba25a7c61cd85
+Merge: 4a369c3 2de399c
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 11:45:13 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2de399cf373be42583d4cb82500ae1906cef97b9
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 12 20:30:45 2018 +0800
+
+    [SQ52][UTE][APP][]: UTE　UTEWO定制OTA可以访问他们自己的服务器。检查新流程，优先访问我司正式服务器，再访问UTE服务器，同时服务地址设置只显示UTE的
+    
+    Product:SQ52
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:UTE　UTEWO定制OTA可以访问他们自己的服务器。检查新流程，优先访问我司正式服务器，再访问UTE服务器，同时服务地址设置只显示UTE的
+    
+    Commit Tools Version:b445fe7
+
+commit 4a369c3f22a9c570f402e63d994d889c108b5398
+Merge: 591d47a 08b4eab
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Jul 12 16:09:28 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 591d47ad08de972dad390ae707b3e75bad36e80a
+Author: hetao <tao.he@urovo.com>
+Date:   Thu Jul 12 16:07:25 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 默认挂壁拨号按键音
+commit 08b4eaba0d50727d0d73d594d2000aba83e7aec9
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Thu Jul 12 16:07:40 2018 +0800
+
+    [ALL][XX][Other][]: SQ52 YTO OTA升级重启后，关闭拨号盘按键声音
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 YTO OTA升级重启后，关闭拨号盘按键声音
+    
+    Commit Tools Version:94c45c6
+****************************************************************************
+serial number of this version: 0056
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-13-18:58~21:02
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-14-02:53~04:54
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(bc8149e<---bc8149e )          
+
+commit bc8149e2a174addbb22f9f47124b1ac070430504
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 16:19:51 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 UTE dmi接口定制
+****************************************************************************
+serial number of this version: 0057
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-14-02:53~04:54
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-15-14:08~16:07
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(a9f0261<---bc8149e )          
+commit a9f0261d0dcca09813d5187e54d1b76b37676778
+Author: luolin <lin.luo@urovo.com>
+Date:   Sun Jul 15 11:29:45 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误
+
+commit ff6edad06522176ab2aab2b3d886be7e877b2893
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jul 14 15:02:27 2018 +0800
+
+    [SQ52T][ALL][Other][]: back_to_one_mic
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:back_to_one_mic
+    Description:back_to_one_mic
+    
+    Commit Tools Version:0be60f5
+
+commit 93694a451c3dc6b8ced4fd83f9540cf9bf0f9e09
+Merge: 3aea682 7e61644
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jul 14 13:30:15 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 3aea682fe00d90e8797d1da57fdab50a021c27cb
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jul 14 13:23:34 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE dmi接口定制#软件自测
+
+commit 7e61644b94150228b789c7bf6239fae6808b0b35
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jul 14 13:20:13 2018 +0800
+
+    [SQ52][UTE][APP][]: UTE定制要求设置关于设备里的“Serial number” 必须和“SN”一致（注意，恢复出厂第一次不一致，需重启），删除摄像头解码APP“Barcode Scanner”
+    
+    Product:SQ52
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:UTE定制要求设置关于设备里的“Serial number” 必须和“SN”一致（注意，恢复出厂第一次不一致，需重启），删除摄像头解码APP“Barcode Scanner”
+    
+    Commit Tools Version:995a256
+commit bc8149e2a174addbb22f9f47124b1ac070430504
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 16:19:51 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 UTE dmi接口定制
+****************************************************************************
+serial number of this version: 0058
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-15-14:08~16:07
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-16-18:13~20:19
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0c030da<---a9f0261 )          
+commit 0c030da8ca28116bba3bf8ef4bb80c0f846ceded
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 18:05:23 2018 +0800
+
+    [ALL][XX][Other][]: 编译报错（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译报错（软件自测）
+    
+    Commit Tools Version:94c45c6
+
+commit 3deeda531b65701f5594ff8a466ec0718f2ec4ef
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 17:58:52 2018 +0800
+
+    [ALL][XX][Other][]: SQ52 YDSD OTA升级时清除开机密码
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 YDSD OTA升级时清除开机密码
+    
+    Commit Tools Version:94c45c6
+
+commit 7b6a2092cafef62affc3f892a37644752b8da320
+Merge: 305889d 7e2c322
+Author: hetao <tao.he@urovo.com>
+Date:   Mon Jul 16 17:26:53 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 7e2c3224698885780364994c5f140064865ca272
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Jul 16 15:13:34 2018 +0800
+
+    [SQ52T][YDSD][Other][]: YDSD 版本号体现非签名版
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:YDSD 版本号体现非签名版
+    
+    Commit Tools Version:ca2c4f7
+
+commit 305889d57168e2a91f07db625dc763c3b4e92a84
+Merge: 75f7a60 bc8149e
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 17:31:50 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 75f7a606b67c440f8b03d960801e067e4b997ffd
+Author: hetao <tao.he@urovo.com>
+Date:   Fri Jul 13 17:29:26 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新ui版本设置，修复蓝牙电量显示问题，隐藏按键音设置按钮
+commit a9f0261d0dcca09813d5187e54d1b76b37676778
+Author: luolin <lin.luo@urovo.com>
+Date:   Sun Jul 15 11:29:45 2018 +0800
+
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误
+****************************************************************************
+serial number of this version: 0059
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-16-18:13~20:19
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-16-22:00~23:58
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(0c030da<---0c030da )          
+
+commit 0c030da8ca28116bba3bf8ef4bb80c0f846ceded
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 18:05:23 2018 +0800
+
+    [ALL][XX][Other][]: 编译报错（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译报错（软件自测）
+    
+    Commit Tools Version:94c45c6
+****************************************************************************
+serial number of this version: 0060
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-16-22:00~23:58
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-18-19:36~21:39
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(908be23<---908be23 )          
+
+commit 908be23dba9233bfd8d870eef84d9b443aa25237
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu Jul 12 10:12:45 2018 +0800
+
+    [SQ52T][ALL][USB][]: add_usb_otg_enable_api
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:add_usb_otg_enable_api
+    Description:add_usb_otg_enable_api
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ebd8854<---0c030da )          
+commit ebd8854b8023faa57b23646a888a06c05dab1157
+Author: hetao <tao.he@urovo.com>
+Date:   Wed Jul 18 18:11:34 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 更新应用中心
+
+commit f21f1303f5d26c2fa99955fa58775c7b20f6833e
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 18 16:08:54 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_two_mic
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_two_mic
+    Description:add_two_mic
+    
+    Commit Tools Version:0be60f5
+commit 0c030da8ca28116bba3bf8ef4bb80c0f846ceded
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon Jul 16 18:05:23 2018 +0800
+
+    [ALL][XX][Other][]: 编译报错（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译报错（软件自测）
+    
+    Commit Tools Version:94c45c6
+****************************************************************************

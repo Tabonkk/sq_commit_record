@@ -1,0 +1,9 @@
+*************************************************************************
+SQ52_XX_Nsigned
+编译日期：2018-03-15 编译序号：01
+内核提交记录：
+未发现前一正式版本，使用前一编译版本
+[SQ52][ALL][Charge][]: add charge curve <yangguang>
+系统提交记录：
+未发现前一正式版本，使用前一编译版本
+1.添加文件replace机制，在构建版本前，根据UROVO_PRODUCT的定义，拷贝相应的文件到指定位置。当前修改，目标文件是vendor/qcom/proprietary/sensors/dsps/reg_defaults/sensor_def_qcomdev.conf。2.修改6603HAL的capture.cpp,完善异常分支处理。 <baixueyuan>

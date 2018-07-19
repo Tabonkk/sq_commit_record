@@ -1,0 +1,46 @@
+serial number of this version: 0047
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-10-17:52~18:59
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-11-10:03~11:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(7d2b914<---7d2b914 )          
+
+commit 7d2b914b7789e206575c3b70588b1e3f910e465f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 10 17:18:38 2018 +0800
+
+    [SQ31T][XX][KEY][]: 修复问题：合入补丁导致扫描键失效
+    
+    Product:SQ31T
+    Customer:XX
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:修复问题：合入补丁导致扫描键失效
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

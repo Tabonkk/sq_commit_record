@@ -1,0 +1,4 @@
+ [SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+ 修复问题：合入补丁导致扫描键失效 <wujinquan>
+ 4750扫描头使用快扫模式（100ms一次） <wujinquan>
+ 955-2扫描头不支持code128长度设置，将其置灰 <wujinquan>

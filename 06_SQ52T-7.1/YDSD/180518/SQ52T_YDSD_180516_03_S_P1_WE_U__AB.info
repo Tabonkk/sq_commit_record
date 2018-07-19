@@ -1,0 +1,64 @@
+serial number of this version: 0027
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-16-15:44~17:42
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-16-18:21~20:18
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(610c422<---a8a592f )          
+commit 610c422ada3f808f81aca81b0d39994c283dedc5
+Merge: 6bf0333 f1bcc34
+Author: hetao <tao.he@urovo.com>
+Date:   Wed May 16 18:18:05 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 6bf03332d43f36b80cac59bfc10905474e813e2d
+Author: hetao <tao.he@urovo.com>
+Date:   Wed May 16 18:16:14 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 修复图案解锁不显示连线问题
+
+commit f1bcc34c3f5d3c014e0f6c43e0b5aec0a672008c
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed May 16 16:46:29 2018 +0800
+
+    [ALL][XX][Other][]: 所有项目添加自定义NTP服务器地址功能
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:所有项目添加自定义NTP服务器地址功能
+    
+    Commit Tools Version:d6794eb
+commit a8a592f3b81dc3856ea3e19443086d51a7f8ff3f
+Author: hetao <tao.he@urovo.com>
+Date:   Wed May 16 15:35:04 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 修复图案解锁不显示连线问题
+****************************************************************************

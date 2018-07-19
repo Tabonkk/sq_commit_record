@@ -1,0 +1,337 @@
+serial number of this version: 0007
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-09-10:32~11:40
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 i6310 server  RD-ALL   /                         
+Build time:2018-05-29-12:13~13:21
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(52c2d02<---d0a1c5f )          
+commit 52c2d02ab877b9742f4af61d9f6c720b75fdcc28
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 22 11:07:27 2018 +0800
+
+    [SQ31T][ALL][Battery][]: modfy_usb_charging_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Battery
+    Bug ID:
+    Key Word:modfy_usb_charging_current
+    Description:modfy_usb_charging_current
+    
+    Commit Tools Version:0be60f5
+
+commit 66419f09b78294652d437bc9669c83544ecf03a5
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 17 20:00:55 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_kernel
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_kernel
+    Description:patch_from_yufan_kernel
+    
+    Commit Tools Version:0be60f5
+
+commit 925ad4a7aacac835743ddf48c4381177364e60d1
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 15 10:39:15 2018 +0800
+
+    [SQ31T][ALL][Charge][]: modfy_charge_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:modfy_charge_current
+    Description:modfy_charge_current
+    
+    Commit Tools Version:0be60f5
+
+commit 0064146626ce99d2987fecf859f494a2fc344dd4
+Author: yangguang <guang.yang@urovo.com>
+Date:   Mon May 14 11:46:03 2018 +0800
+
+    [SQ31T][ALL][Charge][]: modfy_charge_current
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Charge
+    Bug ID:
+    Key Word:modfy_charge_current
+    Description:modfy_charge_current
+    
+    Commit Tools Version:0be60f5
+commit d0a1c5fd5875c725b2deb99c428903f2904e73fd
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 4 14:12:56 2018 +0800
+
+    Product:SQ31T
+    Customer:XX
+    Module:Log
+    Bug ID:
+    Key Word:
+    Description:增加urovo log
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(b4b2bfd<---bec211d )          
+commit b4b2bfd9736e817b0375394d7f291488307ecee8
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue May 29 10:22:22 2018 +0800
+
+    [SQ31T][XX][Other][]: 修改签名显示为非签
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改签名显示为非签
+    
+    Commit Tools Version:d557003
+
+commit 22c0557dd9dc55da78b8b34109ea66271873b519
+Merge: 48e8e33 c66eff6
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 25 11:11:39 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 48e8e33689d1740b45319cf1576d6cc0809d2df0
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri May 25 11:08:55 2018 +0800
+
+    [SQ31T][XX][Scan][]: 编入4750 dpm相关so库（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:编入4750 dpm相关so库（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit c66eff6159f2d38c54f3e61216a5bf8570d84d0a
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Thu May 24 14:26:30 2018 +0800
+
+    [SQ31T][XX][Scan][]: 连续扫描23小时扫描应用崩溃---(app bug): weak global reference table overflow (max=51200)
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:连续扫描23小时扫描应用崩溃---(app bug): weak global reference table overflow (max=51200)
+    
+    Commit Tools Version:d557003
+
+commit 4bc9bea7a82563525e4b2a3e1c4560a6f2d3d87f
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 24 09:32:04 2018 +0800
+
+    [SQ31T][ALL][Other][]: add_gps_log
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:add_gps_log
+    Description:add_gps_log
+    
+    Commit Tools Version:0be60f5
+
+commit 88d8a4a027737025c1c0f716948bf428899a295f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed May 23 14:58:39 2018 +0800
+
+    [SQ31T][XX][Scan][]: 4750扫描头合入dpm模式
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:4750扫描头合入dpm模式
+    
+    Commit Tools Version:d6794eb
+
+commit dd56cb2662c7b5ef44e97d00bf78340b6f93d081
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 17 19:20:45 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0517
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0517
+    Description:patch_from_yufan_0517
+    
+    Commit Tools Version:0be60f5
+
+commit 606369c03ca3c2ac3d2bb6208a75aae1747124e1
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 17 16:45:04 2018 +0800
+
+    [SQ31T][XX][UI][]: 输入*#06#,增加显示meid
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:输入*#06#,增加显示meid
+    
+    Commit Tools Version:d6794eb
+
+commit a2c2bbfa92bad14f18859d1554504f8e1c742c11
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Thu May 17 10:27:14 2018 +0800
+
+    [SQ31T][XX][UI][]: 解决超高屏apk部分字符乱码
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决超高屏apk部分字符乱码
+    
+    Commit Tools Version:d6794eb
+
+commit 1fa752b56e84484d2b00d9cdc6fe70342eba8321
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue May 15 17:58:43 2018 +0800
+
+    [SQ31T][XX][Scan][]: 移除连续扫描设置项
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:移除连续扫描设置项
+    
+    Commit Tools Version:d6794eb
+
+commit d090950837def96f417c10e36c8daa7543a2bc18
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue May 15 17:44:13 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加超高频应用ScanLable源码(软件自测)
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加超高频应用ScanLable源码(软件自测)
+    
+    Commit Tools Version:d6794eb
+
+commit ae129fe3235e215813b8701eb482067e2672a24a
+Merge: 20839b5 d333745
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue May 15 15:50:59 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:UFANS/MT6737T/Android7.0/SQ31T/Nougat7.0_MTK
+
+commit 20839b501d740444841997a3859eb41e476b3b6c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue May 15 15:46:25 2018 +0800
+
+    [SQ31T][XX][Wifi][9290]: 解决问题：从“下载”中安转某些应用，“安装”icon灰化，无法正常安装应用程序
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Wifi
+    Bug ID:9290
+    Key Word:
+    Description:解决问题：从“下载”中安转某些应用，“安装”icon灰化，无法正常安装应用程序
+    
+    Commit Tools Version:0be60f5
+
+commit 2ecc5e5ea02b0f5e9dcaf4f82ab59d3bd9bdd414
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue May 15 15:40:01 2018 +0800
+
+    [SQ31T][XX][UI][9066]: 连接上WiFi时显示“已连接，但无法访问互联网”
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:9066
+    Key Word:
+    Description:连接上WiFi时显示“已连接，但无法访问互联网”
+    
+    Commit Tools Version:0be60f5
+
+commit d3337458902c6e447fb46514b29bfb821d1ba823
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Mon May 14 14:27:25 2018 +0800
+
+    [ALL][XX][Other][]: 修改OTA升级方式
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改OTA升级方式
+    
+    Commit Tools Version:94c45c6
+
+commit 4b28b5b93bedb60200dda905fbb94b4ca73bc7df
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Thu May 10 20:41:25 2018 +0800
+
+    [SQ31T][XX][Scan][]: Honeywell更新了6603扫描头库，解决空扫概率性不出光
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:Honeywell更新了6603扫描头库，解决空扫概率性不出光
+    
+    Commit Tools Version:0130143
+
+commit 698f48ec3f15098a25352332f0dcddd0ccae0aad
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Thu May 10 20:22:11 2018 +0800
+
+    [SQ31T][XX][Scan][]: 修复【6603】扫描头不能扫描“Australian Post”和“Japanese Post”
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:修复【6603】扫描头不能扫描“Australian Post”和“Japanese Post”
+    
+    Commit Tools Version:0130143
+commit bec211df58487348004742c3b82bc1259e48c1d0
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon May 7 14:55:47 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加按键映射
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加按键映射
+    
+    Commit Tools Version:0130143
+****************************************************************************

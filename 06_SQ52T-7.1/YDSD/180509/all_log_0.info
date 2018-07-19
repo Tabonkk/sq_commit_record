@@ -1,0 +1,254 @@
+serial number of this version: 0012
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-02-14:39~17:25
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-08-11:48~13:47
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(966779c<---0c6ce79 )          
+commit 966779c893c85cd07db3e6063d2f1a958cd05b61
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 8 10:35:12 2018 +0800
+
+    [SQ52T][ALL][TP][]: update_tp_firmware
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:TP
+    Bug ID:
+    Key Word:update_tp_firmware
+    Description:update_tp_firmware
+    
+    Commit Tools Version:0be60f5
+commit 0c6ce791f75255417769bd97c2046dec8f1d8766
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Thu Apr 19 14:22:54 2018 +0800
+
+    [SQ52T][XX][Charge][]: 合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    
+    Product:SQ52T
+    Customer:XX
+    Module:Charge
+    Bug ID:
+    Key Word:合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    Description:合入美格的补丁，解决设备通过typeC直连PC电流大于500mA的问题。设备通过座充连接PC和充电器，充电电流最大都为1.5A。
+    
+    Commit Tools Version:6119286
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(aa2f365<---6fa7e89 )          
+
+
+****************************************************************************
+serial number of this version: 0013
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-08-11:48~13:47
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-08-14:15~16:12
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(966779c<---966779c )          
+
+commit 966779c893c85cd07db3e6063d2f1a958cd05b61
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 8 10:35:12 2018 +0800
+
+    [SQ52T][ALL][TP][]: update_tp_firmware
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:TP
+    Bug ID:
+    Key Word:update_tp_firmware
+    Description:update_tp_firmware
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(78ae718<---aa2f365 )          
+commit 78ae718e76cac8dd76eee0e84dcbdeb5211cd982
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 8 11:46:27 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 设置为编译新UI版本
+commit aa2f3650ec430d59d963efcd880379e51434d562
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 8 11:31:05 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:
+****************************************************************************
+serial number of this version: 0014
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-08-14:15~16:12
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-09-16:08~18:07
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---966779c )          
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+commit 966779c893c85cd07db3e6063d2f1a958cd05b61
+Author: yangguang <guang.yang@urovo.com>
+Date:   Tue May 8 10:35:12 2018 +0800
+
+    [SQ52T][ALL][TP][]: update_tp_firmware
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:TP
+    Bug ID:
+    Key Word:update_tp_firmware
+    Description:update_tp_firmware
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(78ae718<---78ae718 )          
+
+commit 78ae718e76cac8dd76eee0e84dcbdeb5211cd982
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 8 11:46:27 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 设置为编译新UI版本
+****************************************************************************
+serial number of this version: 0015
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S-D 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-09-16:08~18:07
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-09-18:17~20:16
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(3c13f6e<---78ae718 )          
+commit 3c13f6e283287da29c88a13028b52aecc9570690
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed May 9 16:43:35 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 更新新UI中的SystemUI应用，解决ota升级开机报错问题
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更新新UI中的SystemUI应用，解决ota升级开机报错问题
+    
+    Commit Tools Version:0be60f5
+commit 78ae718e76cac8dd76eee0e84dcbdeb5211cd982
+Author: hetao <tao.he@urovo.com>
+Date:   Tue May 8 11:46:27 2018 +0800
+
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52T YDSD 设置为编译新UI版本
+****************************************************************************
+serial number of this version: 0016
+the previous command is: ./OS_Build7_8917.sh SQ52T YDSD S 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-09-18:17~20:16
+the command of this build is: ./OS_Build7_8917.sh SQ52T YDSD S 03      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-05-09-21:14~23:10
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(a967ca5<---a967ca5 )          
+
+commit a967ca57938dd4fb01ec4a16877ee69df6f1921b
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Tue May 8 18:18:37 2018 +0800
+
+    [SQ52T][ALL][Scan]修复部分6603不出光问题
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(2ccc9e7<---3c13f6e )          
+commit 2ccc9e7632c6cb6672cf4f46d4a47bfadde61f69
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed May 9 21:09:24 2018 +0800
+
+    [SQ52T][YDSD][Other][]: add_compound
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:add_compound
+    Description:add_compound
+    
+    Commit Tools Version:0be60f5
+
+commit 18866b10016c8d8748f901c84df33bb075dbc2f5
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed May 9 20:42:12 2018 +0800
+
+    [SQ52T][ALL][Audio][]: add_audio_acdbdata
+    
+    Product:SQ52T
+    Customer:ALL
+    Module:Audio
+    Bug ID:
+    Key Word:add_audio_acdbdata
+    Description:add_audio_acdbdata
+    
+    Commit Tools Version:0be60f5
+commit 3c13f6e283287da29c88a13028b52aecc9570690
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed May 9 16:43:35 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 更新新UI中的SystemUI应用，解决ota升级开机报错问题
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:更新新UI中的SystemUI应用，解决ota升级开机报错问题
+    
+    Commit Tools Version:0be60f5
+****************************************************************************

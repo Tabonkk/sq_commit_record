@@ -1,0 +1,66 @@
+serial number of this version: 0024
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-28-15:00~17:01
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 02      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-28-18:55~21:06
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(ed7cb91<---a7dfdae )          
+commit ed7cb9166f6b24ab479f463c49436d0143cea6a6
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 28 18:48:05 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:屏蔽安全模式
+
+commit d867fcd65877d0bf1dad1503a7d2f2a2416c9584
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jun 28 16:06:44 2018 +0800
+
+    [SQ52][UTE][Other][]: 删除不重要的google app，节省系统控件
+    
+    Product:SQ52
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:删除不重要的google app，节省系统控件
+    
+    Commit Tools Version:ca2c4f7
+commit a7dfdae764a6965a26c9d34771670e3a76b50df1
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 28 14:55:39 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:默认打开wifi
+****************************************************************************

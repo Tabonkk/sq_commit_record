@@ -1,0 +1,88 @@
+serial number of this version: 0018
+the previous command is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-23-11:38~13:43
+the command of this build is: ./OS_Build7_8917.sh SQ52 YTO N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-25-17:18~19:19
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(411bef7<---a3045a4 )          
+commit 411bef757de74dc1e1bd15325f26268d77d32275
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Jun 25 15:17:28 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通移动管理DevicePolicyManagerService权限问题（软件自测）
+
+commit 87faac5b4dbd49c6c3cd62f6cd81af7dc8dc4f30
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Jun 25 13:59:51 2018 +0800
+
+    [ALL][UTE][Other][]: UTE 工厂测试翻译
+    
+    Product:ALL
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE 工厂测试翻译
+    
+    Commit Tools Version:ca2c4f7
+
+commit 694a30131c4fe55b1de00e4321999effefad1a22
+Merge: 2d6e4f0 a3045a4
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jun 23 11:57:18 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 2d6e4f03e938907c96b2ee70a95f4658da12d41f
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jun 23 09:48:29 2018 +0800
+
+    [ALL][XX][Other][]: 显示蓝牙耗电量，电量显示情况更改百分比策略
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:显示蓝牙耗电量，电量显示情况更改百分比策略
+    
+    Commit Tools Version:ca2c4f7
+commit a3045a49c5c54d4607e26799a1a8a66ac7484ef3
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jun 23 10:51:02 2018 +0800
+
+    Product:SQ52
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:圆通移动管理DevicePolicyManagerService权限问题（软件自测）
+****************************************************************************

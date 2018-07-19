@@ -1,0 +1,46 @@
+serial number of this version: 0029
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-13:03~14:00
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-06-30-14:25~15:37
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(5dfbe97<---5dfbe97 )          
+
+commit 5dfbe976207711e9a6f070cfded215289b002adb
+Author: yangguang <guang.yang@urovo.com>
+Date:   Sat Jun 30 09:44:35 2018 +0800
+
+    [SQ31T][ALL][Other][]: patch_from_yufan_0629
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:patch_from_yufan_0629
+    Description:patch_from_yufan_0629
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(9035d4b<---9035d4b )          
+
+commit 9035d4b59cb43ff032b45e286e0f1aabafb87be7
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 10:17:29 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新IntentApp apk
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新IntentApp apk
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

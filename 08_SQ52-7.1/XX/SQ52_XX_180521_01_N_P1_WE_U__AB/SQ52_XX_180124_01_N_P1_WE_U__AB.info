@@ -1,0 +1,100 @@
+serial number of this version: 0132
+the previous command is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-23-16:44~20:01
+the command of this build is: ./OS_Build7_8917.sh SQ52 XX  N 01      ALL-O FTP false P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-01-24-16:09~19:24
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(6dc693f<---dc2c854 )          
+commit 6dc693fad1da116c4ef905c9c771d21f978569ed
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Jan 24 15:38:47 2018 +0800
+
+    [SQ52][XX][USB][]: 高温充电截止温度更新为60度；支持手柄模式
+    
+    Product:SQ52
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:高温充电截止温度更新为60度；支持手柄模式
+    Description:高温充电截止温度更新为60度；支持手柄模式
+    
+    Commit Tools Version:140f12f
+commit dc2c854ea44b97e259e02080d5eaa87ad2e2cc7b
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Mon Jan 22 14:05:59 2018 +0800
+
+    [SQ52][XX][Other][]: 切换华视tp一供固件为25channel
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:切换华视tp一供固件为25channel
+    Description:切换华视tp一供固件为25channel
+    
+    Commit Tools Version:140f12f
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(6591dbc<---dad453b )          
+commit 6591dbc775e3931c7ff9ff078344943c137a31d9
+Merge: dad453b d327cee
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Wed Jan 24 16:07:48 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d327cee79c40c057c0334a1e8b3361e360c7f35b
+Merge: bbfd7e6 1176d99
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Jan 24 15:33:47 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit bbfd7e673bda6c7e5d60f23f7978d65a552a37e7
+Author: baixueyuan <xueyuan.bai@urovo.com>
+Date:   Wed Jan 24 15:31:55 2018 +0800
+
+    [SQ52][XX][USB][]: 支持手柄模式扫码
+    
+    Product:SQ52
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:支持手柄模式扫码
+    Description:支持手柄模式扫码
+    
+    Commit Tools Version:140f12f
+
+commit 1176d99e8f8b8320ab2dc82ec4d078812a27a014
+Merge: 86eda1c 8941668
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Wed Jan 24 10:32:07 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 86eda1c3a244978d213b58b82d1ebe62788e628e
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Wed Jan 24 10:30:32 2018 +0800
+
+    [ALL][XX][Other][]: OTA添加log信息
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:OTA添加log信息
+    
+    Commit Tools Version:94c45c6
+commit dad453b20d6c08fc373864a7a2267eda71c92330
+Merge: bbf7f70 8941668
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Jan 19 09:45:12 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************

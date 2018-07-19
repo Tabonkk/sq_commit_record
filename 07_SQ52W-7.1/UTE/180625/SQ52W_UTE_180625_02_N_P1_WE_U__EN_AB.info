@@ -1,0 +1,33 @@
+serial number of this version: 0020
+the previous command is: ./OS_Build7_8917.sh SQ52W UTE N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-25-10:18~13:25
+the command of this build is: ./OS_Build7_8917.sh SQ52W UTE N 02      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-06-25-15:05~17:09
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(55b67c1<---55b67c1 )          
+
+commit 55b67c175ef7e90857b6177c027bed446c87438b
+Author: yangguang <guang.yang@urovo.com>
+Date:   Thu May 31 15:38:46 2018 +0800
+
+    [SQ52][ALL][USB][]: improve_usb_drive_power
+    
+    Product:SQ52
+    Customer:ALL
+    Module:USB
+    Bug ID:
+    Key Word:improve_usb_drive_power
+    Description:improve_usb_drive_power
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(87faac5<---f959ea5 )          
+
+
+****************************************************************************
