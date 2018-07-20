@@ -1,0 +1,138 @@
+serial number of this version: 0014
+the previous command is: ./OS_Build7_8917.sh SQ52W XX  N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-19-10:03~12:48
+the command of this build is: ./OS_Build7_8917.sh SQ52W XX  N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-20-11:02~13:42
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(303f14a<---303f14a )          
+
+commit 303f14abe3709c35f7b88aedae10ec5728da8389
+Author: tankaikun <kaikun.tan@urovo.com>
+Date:   Thu Jul 19 09:37:14 2018 +0800
+
+    Product:SQ52W
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:
+    Description:解决问题：TP休眠不正常导致待机功耗高
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(e6e5a3d<---7fcb9e1 )          
+commit e6e5a3d62e83e4985af1625ad3eeed204492e82a
+Merge: 7fcb9e1 9b97086
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jul 19 20:31:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit 9b97086d31a794065917c83362c016cca70cab54
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jul 19 17:22:36 2018 +0800
+
+    [SQ52T][YDSD][Other][]: 默认关闭双mic
+    
+    Product:SQ52T
+    Customer:YDSD
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:默认关闭双mic
+    
+    Commit Tools Version:ca2c4f7
+
+commit a3fc1a362ea8eca06ed5835af7996890eab44ad7
+Author: gouwei <wei.gou@urovo.com>
+Date:   Thu Jul 19 10:57:34 2018 +0800
+
+    [SQ52][XX][Other][]: 扫描头选择手动模式却是连扫模式ｂｕｇ修复
+    
+    Product:SQ52
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:扫描头选择手动模式却是连扫模式ｂｕｇ修复
+    
+    Commit Tools Version:ca2c4f7
+commit 7fcb9e10737deb1fb2abdaf5a0516de1201edd65
+Merge: d672726 ebd8854
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jul 19 10:01:58 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************
+serial number of this version: 0015
+the previous command is: ./OS_Build7_8917.sh SQ52W XX  N 01      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-20-11:02~13:42
+the command of this build is: ./OS_Build7_8917.sh SQ52W XX  N 02      ALL-O FTP true P1 WE i6310   server   RD-ALL /      /               
+Build time:2018-07-20-16:04~19:01
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(303f14a<---303f14a )          
+
+commit 303f14abe3709c35f7b88aedae10ec5728da8389
+Author: tankaikun <kaikun.tan@urovo.com>
+Date:   Thu Jul 19 09:37:14 2018 +0800
+
+    Product:SQ52W
+    Customer:XX
+    Module:TP
+    Bug ID:
+    Key Word:
+    Description:解决问题：TP休眠不正常导致待机功耗高
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(92cb203<---e6e5a3d )          
+commit 92cb203136c75acc69a06513222ac1dea05becd2
+Merge: e6e5a3d d4b8bcb
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Fri Jul 20 16:02:44 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+
+commit d4b8bcbc67c03a033a2ffb0ba4bfb27b5693cc8d
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Jul 20 14:56:17 2018 +0800
+
+    [ALL][XX][Other][]: SQ52 SQ52W不能通刷，项目名称不同的都不能通刷
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 SQ52W不能通刷，项目名称不同的都不能通刷
+    
+    Commit Tools Version:ca2c4f7
+
+commit ae512904464e76e8a1f521e3e2eff8c12f0f1bb8
+Author: gouwei <wei.gou@urovo.com>
+Date:   Fri Jul 20 12:05:17 2018 +0800
+
+    [ALL][XX][Other][]: SQ52 SQ52W不能通刷，项目名称不同的都不能通刷
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ52 SQ52W不能通刷，项目名称不同的都不能通刷
+    
+    Commit Tools Version:ca2c4f7
+commit e6e5a3d62e83e4985af1625ad3eeed204492e82a
+Merge: 7fcb9e1 9b97086
+Author: M5 <baoyu.hu@urovo.com>
+Date:   Thu Jul 19 20:31:08 2018 +0800
+
+    Merge branch 'master' of 192.168.8.215:8917/Nougat/Nougat
+****************************************************************************
