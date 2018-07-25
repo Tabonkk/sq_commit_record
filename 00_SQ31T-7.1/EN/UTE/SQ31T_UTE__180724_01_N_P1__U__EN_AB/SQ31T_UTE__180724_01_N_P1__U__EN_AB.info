@@ -1,0 +1,224 @@
+serial number of this version: 0006
+the previous command is: ./OS_Build6_8909.sh SQ31T UTE N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-14-15:44~16:40
+the command of this build is: ./OS_Build6_8909.sh SQ31T UTE N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-24-19:19~20:18
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(8e0faba<---3b143b6 )          
+commit 8e0faba892125daeb4725da17afa2b0f169e98b3
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 19:16:59 2018 +0800
+
+    [SQ31T][XX][UI][]: 默认只打开adb（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:默认只打开adb（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 8a4427a7a820afd074328059203c7bfc7f63077d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 16:07:28 2018 +0800
+
+    [SQ31T][UTE][KEY][]: UTE定制增加Keypad backlight功能
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:UTE定制增加Keypad backlight功能
+    
+    Commit Tools Version:d6794eb
+
+commit df9d859d787220623433bc7bc7e454f473b1ab67
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 14:53:54 2018 +0800
+
+    [SQ31T][XX][UI][]: 解决问题：在电话拨号界面无法使用物理按键
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：在电话拨号界面无法使用物理按键
+    
+    Commit Tools Version:d6794eb
+
+commit 6fce28339643f2787636291fdd8ca5572d50a5e3
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 10:12:24 2018 +0800
+
+    [SQ31T][XX][UI][]: 1，默认打开adb 2，超高屏使用蓝灯指示灯
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:1，默认打开adb 2，超高屏使用蓝灯指示灯
+    
+    Commit Tools Version:d6794eb
+
+commit 2d5a2b05176dfc01dd50498f09b8b795f2390efe
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 23 14:30:55 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加谷歌应用（解决问题：play  store无法打开）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加谷歌应用（解决问题：play  store无法打开）
+    
+    Commit Tools Version:d6794eb
+
+commit cdd8425dddb10ae9c1a5cdcd2bf86d67c3e651b5
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 21 13:12:14 2018 +0800
+
+    [SQ31T][XX][Other][]: MANUFACTURER 默认改为 UBX
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:MANUFACTURER 默认改为 UBX
+    
+    Commit Tools Version:d6794eb
+
+commit 44a6d52138d3db47a917299c64399880d2616f75
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 21 10:53:18 2018 +0800
+
+    [SQ31T][XX][Other][]: 编译失败（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译失败（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 00cf282f1cd2c2e45cf1b64a096b2d69cb96a638
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 21 10:07:21 2018 +0800
+
+    [SQ31T][XX][Other][]: 解决问题：扫描头调用close，按扫描键还是可以扫描
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:解决问题：扫描头调用close，按扫描键还是可以扫描
+    
+    Commit Tools Version:d6794eb
+
+commit f63e10b0132f0bdd7bdfb52f66be1bfde87ec24f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 17 17:45:19 2018 +0800
+
+    [SQ31T][UTE][UI][]: 解决问题：UTE定制版本桌面apk显示不全
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：UTE定制版本桌面apk显示不全
+    
+    Commit Tools Version:d6794eb
+
+commit 611ed531f1dfbcffef715ca45497247ac2065620
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 17 17:26:21 2018 +0800
+
+    [SQ31T][XX][Scan][]: 4750扫描头使用快扫模式（100ms一次）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:4750扫描头使用快扫模式（100ms一次）
+    
+    Commit Tools Version:d6794eb
+
+commit 67820133099ef359a0f9cde8cf41c20292b7c37d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 17 16:52:20 2018 +0800
+
+    [SQ31T][XX][UI][]: 955-2扫描头不支持code128长度设置，将其置灰
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:955-2扫描头不支持code128长度设置，将其置灰
+    
+    Commit Tools Version:d6794eb
+
+commit 94e77ebaae57e0cdf8d7a90dcd9c6af038823eea
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 23:04:58 2018 +0800
+
+    [SQ31T][WPH][Scan][]: 开缓存时延时150ms（软件自测）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:开缓存时延时150ms（软件自测）
+    
+    Commit Tools Version:d6794eb
+commit 3b143b676b47f81e48d826936adfd2fe8bc9548e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jul 14 14:28:09 2018 +0800
+
+    [SQ31T][WPH][APP][]: 更新应用中心（解决无法调用MTK文件管理器）
+    
+    Product:SQ31T
+    Customer:WPH
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新应用中心（解决无法调用MTK文件管理器）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

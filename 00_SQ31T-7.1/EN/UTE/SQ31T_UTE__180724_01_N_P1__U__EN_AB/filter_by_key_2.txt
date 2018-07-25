@@ -1,0 +1,10 @@
+ [SQ31T][ALL][Other][]: modfy_tp_suspend_problem <yangguang>
+ UTE定制增加Keypad backlight功能 <wujinquan>
+ 解决问题：在电话拨号界面无法使用物理按键 <wujinquan>
+ 1，默认打开adb 2，超高屏使用蓝灯指示灯 <wujinquan>
+ 增加谷歌应用（解决问题：play store无法打开） <wujinquan>
+ MANUFACTURER 默认改为 UBX <wujinquan>
+ 解决问题：扫描头调用close，按扫描键还是可以扫描 <wujinquan>
+ 解决问题：UTE定制版本桌面apk显示不全 <wujinquan>
+ 4750扫描头使用快扫模式（100ms一次） <wujinquan>
+ 955-2扫描头不支持code128长度设置，将其置灰 <wujinquan>
