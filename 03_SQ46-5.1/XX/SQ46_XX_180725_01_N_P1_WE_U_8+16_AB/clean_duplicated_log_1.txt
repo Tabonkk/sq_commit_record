@@ -1,0 +1,35 @@
+ *************************************************************************
+ SQ46_XX_Nsigned
+ 编译日期：2018-07-25 编译序号：01
+ 内核提交记录：
+ 未发现前一正式版本，使用前一编译版本
+ [SQ46][XX][USB][]: 底座电源和usb同时存在时电流1.25A，与46w保持一致 <xiaokai.shi>
+ 系统提交记录：
+ 编译失败 <wujinquan>
+ 解决问题：打开扫描头设置会挂掉 <wujinquan>
+ 解决问题：扫描头设置打开挂掉 <wujinquan>
+ YFD水银更改为45度倾斜，内容，透明度，颜色由上层apk控制 <wujinquan>
+ SQ46 XX 版本升级到任何签名版本 <liqianbo>
+ 更新OTA自动检查更新策略，开机自动检查与定时检查可同时设置，自动检查有更新后可设置是否提示下载 (编译错误) <Rocky>
+ 更新OTA自动检查更新策略，开机自动检查与定时检查可同时设置，自动检查有更新后可设置是否提示下载 <Rocky>
+ ota远程升级添加对下载包的签名验证（若签名错误，弹出提示对话框） <liqianbo>
+ 解决广播注册失败（软件自测） <wujinquan>
+ YDF定制： 设备禁用数据接口，不允许数据导出（不允许切换MTP模式，强制充电模式。adb调试开关禁用）； <wujinquan>
+ （禹帆达自动化）YDF定制：1，屏幕增加水印（SN号后5位+日期时间） <wujinquan>
+ 添加邮政API接口（软件自测） <gouwei>
+ InCall Activity 通话结束后去真正finish而不是moveToback <gouwei>
+ 更新UrovoLogger应用，提供接口给第三方应用控制log开关(软件验证) <Rocky>
+ 隐藏设置中的关于认证用的硬件版本号和固件版本号； <Huazhong Wu>
+ 扫描头提交记录：
+ [SQ27T][XX][Scan][]: 回退出现No image现象后重新断开链接(软件自测) <DengTonglong>
+ [SQ27T][XX][Scan][]: 更改显示2100为4710(软件自测) <DengTonglong>
+ [SQ27T][XX][Scan][]: 3601扫描头出现Exception时No image available异常时重连Decoder(软件自测) <DengTonglong>
+ [SQ27T][XX][Scan][]: 增加3601扫描头服务 <DengTonglong>
+ [SQ42T][AHSSXXGL][Scan][]: 安徽盛世欣兴格力定制(扫描头设置勾选“灭屏可扫描”选项,灭屏下可以扫描) <DengTonglong>
+ [ALL][XX][Scan][]: 4500扫描头重置设置默认code128 length1/length2 <DengTonglong>
+ [ALL][ALL][Scan][]: 4500扫描头忽略设置code128 length1/length2 <DengTonglong>
+ [SQ51][XX][Scan][]: 扫描服务在连续扫描模式下增加灭屏不关闭扫描头设置选项 <DengTonglong>
+ [SQ42T][XX][Scan][]: 增加2100扫描头 <DengTonglong>
+ 打印机提交记录：
+
+ 增加打印机精度调整，校准功能 <cb>

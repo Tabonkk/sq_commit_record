@@ -1,0 +1,192 @@
+serial number of this version: 0056
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP true P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-23-14:39~15:43
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-24-10:18~11:13
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(6fce283<---2d5a2b0 )          
+commit 6fce28339643f2787636291fdd8ca5572d50a5e3
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 10:12:24 2018 +0800
+
+    [SQ31T][XX][UI][]: 1，默认打开adb 2，超高屏使用蓝灯指示灯
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:1，默认打开adb 2，超高屏使用蓝灯指示灯
+    
+    Commit Tools Version:d6794eb
+commit 2d5a2b05176dfc01dd50498f09b8b795f2390efe
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 23 14:30:55 2018 +0800
+
+    [SQ31T][XX][Other][]: 增加谷歌应用（解决问题：play  store无法打开）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:增加谷歌应用（解决问题：play  store无法打开）
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0057
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 01      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-24-10:18~11:13
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-24-16:26~17:17
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(df9d859<---6fce283 )          
+commit df9d859d787220623433bc7bc7e454f473b1ab67
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 14:53:54 2018 +0800
+
+    [SQ31T][XX][UI][]: 解决问题：在电话拨号界面无法使用物理按键
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：在电话拨号界面无法使用物理按键
+    
+    Commit Tools Version:d6794eb
+commit 6fce28339643f2787636291fdd8ca5572d50a5e3
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 10:12:24 2018 +0800
+
+    [SQ31T][XX][UI][]: 1，默认打开adb 2，超高屏使用蓝灯指示灯
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:1，默认打开adb 2，超高屏使用蓝灯指示灯
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+serial number of this version: 0058
+the previous command is: ./OS_Build6_8909.sh SQ31T XX  N-U 02      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-24-16:26~17:17
+the command of this build is: ./OS_Build6_8909.sh SQ31T XX  N-U 03      ALL-O FTP false P1 V5000S server  RD-ALL   /                         
+Build time:2018-07-24-21:26~22:18
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(37b084d<---37b084d )          
+
+commit 37b084d4ced16870dd027cf00e6b724d686d6d32
+Author: yangguang <guang.yang@urovo.com>
+Date:   Wed Jul 11 01:15:39 2018 +0800
+
+    [SQ31T][ALL][Other][]: modfy_tp_suspend_problem
+    
+    Product:SQ31T
+    Customer:ALL
+    Module:Other
+    Bug ID:
+    Key Word:modfy_tp_suspend_problem
+    Description:modfy_tp_suspend_problem
+    
+    Commit Tools Version:0be60f5
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(8e0faba<---df9d859 )          
+commit 8e0faba892125daeb4725da17afa2b0f169e98b3
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 19:16:59 2018 +0800
+
+    [SQ31T][XX][UI][]: 默认只打开adb（软件自测）
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:默认只打开adb（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit 8a4427a7a820afd074328059203c7bfc7f63077d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 16:07:28 2018 +0800
+
+    [SQ31T][UTE][KEY][]: UTE定制增加Keypad backlight功能
+    
+    Product:SQ31T
+    Customer:UTE
+    Module:KEY
+    Bug ID:
+    Key Word:
+    Description:UTE定制增加Keypad backlight功能
+    
+    Commit Tools Version:d6794eb
+commit df9d859d787220623433bc7bc7e454f473b1ab67
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Tue Jul 24 14:53:54 2018 +0800
+
+    [SQ31T][XX][UI][]: 解决问题：在电话拨号界面无法使用物理按键
+    
+    Product:SQ31T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：在电话拨号界面无法使用物理按键
+    
+    Commit Tools Version:d6794eb
+****************************************************************************

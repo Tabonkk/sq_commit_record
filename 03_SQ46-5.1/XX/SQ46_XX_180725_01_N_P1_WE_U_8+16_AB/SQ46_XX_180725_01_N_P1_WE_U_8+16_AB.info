@@ -1,0 +1,1483 @@
+serial number of this version: 0064
+the previous command is: ./OS_Build51.sh SQ46 XX  N 01      ALL-O FTP false P1 WE i9000S  server   RD-ALL 16+8   /               
+Build time:2018-06-19-09:31~10:10
+the command of this build is: ./OS_Build51.sh SQ46 XX  N 01      ALL-O FTP false P1 WE i9000S  server   RD-ALL 8+16   /               
+Build time:2018-07-25-18:24~19:00
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   内核提交记录(7d8298b<---7d8298b )          
+
+commit 7d8298b4fea552c85a6986a626c4e07714d6d216
+Author: xiaokai.shi <xiaokai.shi@urovo.com>
+Date:   Fri Jun 15 22:17:15 2018 +0800
+
+    [SQ46][XX][USB][]: 底座电源和usb同时存在时电流1.25A，与46w保持一致
+    
+    Product:SQ46
+    Customer:XX
+    Module:USB
+    Bug ID:
+    Key Word:底座电源和usb同时存在时电流1.25A，与46w保持一致
+    Description:底座电源和usb同时存在时电流1.25A，与46w保持一致
+    
+    Commit Tools Version:d6794eb
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+未发现前一正式版本，使用前一编译版本
+                   系统提交记录(553cc25<---88cea38 )          
+commit 553cc250b3b9dd26e2fa47123c789b15f6774af2
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jul 25 16:50:40 2018 +0800
+
+    [SQ27TE][XX][Other][]: 邮政版本更改接口实现
+    
+    Product:SQ27TE
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:邮政版本更改接口实现
+    
+    Commit Tools Version:ca2c4f7
+
+commit 5926b1abd4c4ca87f4a2c84219c451947795a213
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jul 25 15:41:56 2018 +0800
+
+    [SQ27T][SYB][Other][]: os修改时间栏需添加下密码框，仅输入密码才能修改时间
+    
+    Product:SQ27T
+    Customer:SYB
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:os修改时间栏需添加下密码框，仅输入密码才能修改时间
+    
+    Commit Tools Version:ca2c4f7
+
+commit 7be482ca5caff63741432113088c09687d709a3a
+Author: gouwei <wei.gou@urovo.com>
+Date:   Tue Jul 24 14:00:02 2018 +0800
+
+    [SQ51][UTE][Other][]: UTE专案需求提交，需求长按三秒钟灭屏，长按六秒钟打开关机菜单
+    
+    Product:SQ51
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE专案需求提交，需求长按三秒钟灭屏，长按六秒钟打开关机菜单
+    
+    Commit Tools Version:ca2c4f7
+
+commit 209aaaaf644b8f2cd820dec2f738e1009e78ef69
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon Jul 23 17:29:29 2018 +0800
+
+    Product:SQ42T
+    Customer:AHSSXXGL
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:安徽盛世欣兴格力贸易有限公司定制属性同步(软件自测)
+
+commit 4da4be44f17c3f13c2fd8b1c15402e609880b3d6
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon Jul 23 16:14:18 2018 +0800
+
+    Product:SQ42T
+    Customer:AHSSXXGL
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:安徽盛世欣兴格力贸易有限公司定制默认“灭屏可扫描”选项勾选
+
+commit 7f67f94fcfea1179c980ee027c1b8e28525f18ed
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jul 21 10:21:32 2018 +0800
+
+    [SQ27T][Reliance][UI][]: OTA升级提示语英文拼写错误
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:OTA升级提示语英文拼写错误
+    
+    Commit Tools Version:995a256
+
+commit 572b03f4afaba000253c119f142df1627a87fb65
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jul 20 13:00:43 2018 +0800
+
+    [SQ27T][XX][APP][]: SQ27T工厂测试三色灯改变测试方法，第一次同时亮四个等，第二次亮剩下的两个灯
+    
+    Product:SQ27T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:SQ27T工厂测试三色灯改变测试方法，第一次同时亮四个等，第二次亮剩下的两个灯
+    
+    Commit Tools Version:995a256
+
+commit ffa106b6560dcc01645ceb511bd88eddd8860c9c
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 19 18:30:15 2018 +0800
+
+    [SQ27T][Reliance][APP][]: 印度定制更新OTA自动下载确认提示语Now software upgrade is available for your device,press OK to continue，状态栏下拉界面移除设置按钮，云桌面更新到1.3.3,扫描默认手机模式
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制更新OTA自动下载确认提示语Now software upgrade is available for your device,press OK to continue，状态栏下拉界面移除设置按钮，云桌面更新到1.3.3,扫描默认手机模式
+    
+    Commit Tools Version:995a256
+
+commit 9a701869f04545331ae9522d5ec942f30b50d68a
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 18 18:55:43 2018 +0800
+
+    [SQ46][XX][Other][]: 编译失败
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:编译失败
+    
+    Commit Tools Version:d6794eb
+
+commit f9df10a8c3426c72675cdab79914e69d452ac62c
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 18 17:28:23 2018 +0800
+
+    [SQ46][XX][UI][]: 解决问题：打开扫描头设置会挂掉
+    
+    Product:SQ46
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：打开扫描头设置会挂掉
+    
+    Commit Tools Version:d6794eb
+
+commit fecfc82514a02beb0c76bd2ac45a08961096d96d
+Merge: 72146bd 6878117
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 18 15:01:01 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 72146bdd3268ca1d7880324fa75b3ae0577c407f
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Wed Jul 18 14:58:50 2018 +0800
+
+    [SQ46][XX][UI][]: 解决问题：扫描头设置打开挂掉
+    
+    Product:SQ46
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:解决问题：扫描头设置打开挂掉
+    
+    Commit Tools Version:d6794eb
+
+commit 68781172e90c098f8f8eb6900772bb8e71d00907
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jul 18 11:44:33 2018 +0800
+
+    [SQ27T][Reliance][APP][]: 印度定制更新用户内置广告APP
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制更新用户内置广告APP
+    
+    Commit Tools Version:995a256
+
+commit 032a17aceb6e6a213a3515092f5b6b8af78dc6b9
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue Jul 17 18:07:03 2018 +0800
+
+    Product:SQ42T
+    Customer:RFAD
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:深圳市睿丰爱德科技有限公司(RFAD)定制：扫描到一个条码时自动清除之前焦点输入框的内容再显示当前的条码信息
+
+commit 2e7be47af3a1781e8614814806a338c9acc168d8
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jul 17 13:59:23 2018 +0800
+
+    [SQ27TE][CCB][APP][]: 建行定制移除人脸识别APP
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:建行定制移除人脸识别APP
+    
+    Commit Tools Version:995a256
+
+commit 3d8ce601760d36df8b15cf0837f64b24da55eb98
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Mon Jul 16 17:33:28 2018 +0800
+
+    [SQ46][XX][UI][]: YFD水银更改为45度倾斜，内容，透明度，颜色由上层apk控制
+    
+    Product:SQ46
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:YFD水银更改为45度倾斜，内容，透明度，颜色由上层apk控制
+    
+    Commit Tools Version:d6794eb
+
+commit 48a2ea4fdf3b1b16cfc0038013e1b4c5a805b0b8
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Jul 16 16:39:19 2018 +0800
+
+    Product:SQ27TE
+    Customer:KQ
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误#软件自测
+
+commit 8ee01135643cf8b5163c0c48fcd73334ab517aba
+Merge: 7079654 fe21598
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 16 16:15:40 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit fe21598a9db3f62dc153f1e5cacce5cb906f336c
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Jul 16 16:13:19 2018 +0800
+
+    Product:SQ27TE
+    Customer:YTO
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:默认快钱应用管理为主屏幕
+
+commit 7079654526adbbd89f226ff7375e4c3fedb2b68d
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 16 16:09:39 2018 +0800
+
+    [SQ27TE][CCB][APP][]: 建行定制添加人脸识别APP
+    
+    Product:SQ27TE
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:建行定制添加人脸识别APP
+    
+    Commit Tools Version:995a256
+
+commit 4a80b6b613e20b3565448f7c850aa32dfd1f2bee
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 16 11:54:13 2018 +0800
+
+    [SQ27TE][UMSPOS][APP][]:  修改银商验签库权限（软件验证）
+    
+    Product:SQ27TE
+    Customer:UMSPOS
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description: 修改银商验签库权限（软件验证）
+    
+    Commit Tools Version:995a256
+
+commit fe3ad8b589055d91124aa27f9803a29e401cab87
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 16 11:48:57 2018 +0800
+
+    [SQ27TE][UMSPOS][APP][]: 银联商务定制版本同步更新银商APP签名验签so
+    
+    Product:SQ27TE
+    Customer:UMSPOS
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:银联商务定制版本同步更新银商APP签名验签so
+    
+    Commit Tools Version:995a256
+
+commit 02a33bdb332e09300962d03c4e5237713ebdc21b
+Merge: 5b74d69 d56f167
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Sat Jul 14 11:42:43 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 5b74d69da806519e0ebf5d18762548cece86f795
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Sat Jul 14 11:39:34 2018 +0800
+
+    [ALL][XX][Other][]: SQ46 XX 版本升级到任何签名版本
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:SQ46 XX 版本升级到任何签名版本
+    
+    Commit Tools Version:94c45c6
+
+commit d56f167572d3c0762f199cb6e9be50eca401d5ec
+Author: luolin <lin.luo@urovo.com>
+Date:   Sat Jul 14 11:09:16 2018 +0800
+
+    Product:SQ42T
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复dmi接口禁用按键问题#软件自测
+
+commit 46ccefc6c4236f6a432942c99fd544e9cc70c92d
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jul 13 21:12:32 2018 +0800
+
+    [SQ27T][CCB][APP][]: 回退提交　临时提交建行定制切换APP签名问题（软件自测）
+    
+    Product:SQ27T
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:回退提交　临时提交建行定制切换APP签名问题（软件自测）
+    
+    Commit Tools Version:995a256
+
+commit 113d27921c61ca0e4960d3aea0d50f4c1ac70da3
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jul 13 18:58:35 2018 +0800
+
+    [SQ27T][CCB][APP][]: 更新建行定制CCB内置app旧签名切换(软件验证)
+    
+    Product:SQ27T
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新建行定制CCB内置app旧签名切换(软件验证)
+    
+    Commit Tools Version:995a256
+
+commit 262252cc69281ad3b464e333b8a60ee12e9d7baf
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jul 13 18:50:54 2018 +0800
+
+    [SQ27T][CCB][APP][]: 临时提交建行定制切换APP签名问题（软件自测）
+    
+    Product:SQ27T
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:临时提交建行定制切换APP签名问题（软件自测）
+    
+    Commit Tools Version:995a256
+
+commit 2816a5cbe0518f4883dd55e0cfaca1ed356b95ec
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jul 13 18:30:31 2018 +0800
+
+    [SQ27T][Reliance][APP][]: 印度定制内置客户广告APP,每20次解锁会弹出一次广告，两次广告间隔是30分钟
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制内置客户广告APP,每20次解锁会弹出一次广告，两次广告间隔是30分钟
+    
+    Commit Tools Version:995a256
+
+commit 6ef2a54da329f7dc097adab8b8e908a6ea72f94b
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 12 20:49:22 2018 +0800
+
+    [SQ27TE][TOTAN][UI][]: 伊朗定制TOTAN-EX 开机动画版本作为区分无动画版本TOTAN
+    
+    Product:SQ27TE
+    Customer:TOTAN
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:伊朗定制TOTAN-EX 开机动画版本作为区分无动画版本TOTAN
+    
+    Commit Tools Version:995a256
+
+commit 405eb51e21a1959b2eecab4513c13a7ee74b9deb
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 12 17:12:19 2018 +0800
+
+    [SQ27T][Reliance][UI][]: 印度定制更新高温不充电时的提示通知属性（软件验证）
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制更新高温不充电时的提示通知属性（软件验证）
+    
+    Commit Tools Version:b445fe7
+
+commit acb78eb0c3b524b5b3f5c68fad2ebec41ea78fb2
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jul 11 17:23:50 2018 +0800
+
+    [SQ27TE][Other][UI][]: 伊朗定制版本TOTAN区分开机界面定制版本TOTAN_EX
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:伊朗定制版本TOTAN区分开机界面定制版本TOTAN_EX
+    
+    Commit Tools Version:b445fe7
+
+commit d4c6115ad58366f50801ad7d4bd35583a8bc9807
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jul 11 09:03:12 2018 +0800
+
+    [SQ42T][YDE][Other][]: 四川屹得尔科技有限公司 OS的BOOt文件下放一个空的文件夹 ，这个空的文件夹名字任意的，比如：Afhjgtgdgbhr13Gh
+    
+    Product:SQ42T
+    Customer:YDE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:四川屹得尔科技有限公司 OS的BOOt文件下放一个空的文件夹 ，这个空的文件夹名字任意的，比如：Afhjgtgdgbhr13Gh
+    
+    Commit Tools Version:ca2c4f7
+
+commit 6f5641b979bc475b24e3eae5137e76e4ab320b70
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jul 10 18:53:33 2018 +0800
+
+    [SQ42T][UTE][APP][]: UTE定制更新OTA服务器地址
+    
+    Product:SQ42T
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:UTE定制更新OTA服务器地址
+    
+    Commit Tools Version:b445fe7
+
+commit 1c5ce7be3243cb5de54863ac1aa545800ba2fb2e
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jul 10 17:58:45 2018 +0800
+
+    [SQ42T][UTE][APP][]: UTE　UTEWO定制OTA可以访问他们自己的服务器。检查新流程，优先访问我司正式服务器，再访问UTE服务器，同时服务地址设置只显示UTE的
+    
+    Product:SQ42T
+    Customer:UTE
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:UTE　UTEWO定制OTA可以访问他们自己的服务器。检查新流程，优先访问我司正式服务器，再访问UTE服务器，同时服务地址设置只显示UTE的
+    
+    Commit Tools Version:b445fe7
+
+commit 3c48b9d5e716f639bf2ebbb61e4ad937d7bace1a
+Author: cb <bin.chen@urovo.com>
+Date:   Tue Jul 10 15:49:25 2018 +0800
+
+    Product:ALL
+    Customer:XX
+    Module:Printer
+    Bug ID:0
+    Key Word:
+    Description: 1：修改打印字体simsun.ttc 增加16,24,32 好位图数据
+    	     2：修改打印宋体，统一使用 "simsun"字库
+
+commit 583f7eb071a1fa5bf4c7436f1a935fee887a2429
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jul 10 11:58:00 2018 +0800
+
+    [SQ27T][Reliance][UI][]: 印度定制版本更新显示版本变化xxxxxxR03S
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制版本更新显示版本变化xxxxxxR03S
+    
+    Commit Tools Version:b445fe7
+
+commit 288290e85fc07ccf6360795eb630b982a856fc8e
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jul 10 11:36:43 2018 +0800
+
+    [SQ42T][XX][APP][]: 切换到字母输入时，增加按数字１键可以输入下划线加减号
+    
+    Product:SQ42T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:切换到字母输入时，增加按数字１键可以输入下划线加减号
+    
+    Commit Tools Version:b445fe7
+
+commit 7741689ef53ebe543734b2f9d7c08f16633765d6
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 9 22:36:39 2018 +0800
+
+    [SQ27T][Reliance][APP][]: 印度定制默认开机检查oTA,一天检查一次
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制默认开机检查oTA,一天检查一次
+    
+    Commit Tools Version:b445fe7
+
+commit 8393c946eb5e6a3b806d11c4d614bef61d9e5fab
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 9 22:25:48 2018 +0800
+
+    [SQ27T][Reliance][UI][]: 印度定制当电池温度高于60或低于０时不再充电，提示拔掉电源
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制当电池温度高于60或低于０时不再充电，提示拔掉电源
+    
+    Commit Tools Version:b445fe7
+
+commit a1537e6c5b1df0ff738a97c67fda415c29a94426
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 9 22:17:04 2018 +0800
+
+    [SQ27T][Reliance][APP][]: 印度定制默认开机检查oTA,一天检查四次，自动检查有更新提示用户是否下载
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制默认开机检查oTA,一天检查四次，自动检查有更新提示用户是否下载
+    
+    Commit Tools Version:b445fe7
+
+commit 5480571a5645f06c97d6c10f9bc678528b09ed60
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 9 20:31:57 2018 +0800
+
+    [ALL][XX][APP][]: 更新OTA自动检查更新策略，开机自动检查与定时检查可同时设置，自动检查有更新后可设置是否提示下载 (编译错误)
+    
+    Product:ALL
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新OTA自动检查更新策略，开机自动检查与定时检查可同时设置，自动检查有更新后可设置是否提示下载 (编译错误)
+    
+    Commit Tools Version:b445fe7
+
+commit 96cc4f49c5f517c659e1b12a9ed3eb3646df9c72
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 9 19:28:07 2018 +0800
+
+    [SQ27T][XX][UI][]: 海外版本设置中显示硬件版V03 固件版V1.0.4
+    
+    Product:SQ27T
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:海外版本设置中显示硬件版V03 固件版V1.0.4
+    
+    Commit Tools Version:b445fe7
+
+commit 8086395a217880594b00085610598881adc8cd16
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jul 9 18:16:11 2018 +0800
+
+    [ALL][XX][APP][]: 更新OTA自动检查更新策略，开机自动检查与定时检查可同时设置，自动检查有更新后可设置是否提示下载
+    
+    Product:ALL
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新OTA自动检查更新策略，开机自动检查与定时检查可同时设置，自动检查有更新后可设置是否提示下载
+    
+    Commit Tools Version:b445fe7
+
+commit 83e4c554eecdb508a4da2ee57140d1283cfeed64
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Jul 9 15:48:44 2018 +0800
+
+    Product:SQ42T
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:UTE定制：更新内置的应用；移除飞行模式；工厂测试支持英文；屏蔽三个虚拟按键（dmi接口支持）；
+
+commit 0da98362f496d2ff598f628261b9caf2763fea7b
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Mon Jul 9 11:58:20 2018 +0800
+
+    [SQ42T][AHSSXXGL][KEY][]: 去掉安徽盛世欣兴格力贸易的定制名称判断（软件验证）
+    
+    Product:SQ42T
+    Customer:AHSSXXGL
+    Module:KEY
+    Bug ID:
+    Key Word:去掉安徽盛世欣兴格力贸易的定制名称判断（软件验证）
+    Description:去掉安徽盛世欣兴格力贸易的定制名称判断（软件验证）
+    
+    Commit Tools Version:b445fe7
+
+commit 21986fe0063a6983585c7e94648149c1e4ad2407
+Author: luolin <lin.luo@urovo.com>
+Date:   Mon Jul 9 11:33:45 2018 +0800
+
+    Product:SQ27TE
+    Customer:KQ
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:快钱定制内置应用launcher-V1.0.3.5-release.apk；SPOS_V1.2.9.17-release.apk
+
+commit bb63b10dcc1eeeec44377a235598cc1d9f9b87b4
+Merge: 51b29cf f8e138d
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jul 7 12:10:29 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit f8e138d911a7786f78bdf09df43b83a85743ecf2
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Sat Jul 7 12:03:35 2018 +0800
+
+    Product:SQ42T
+    Customer:AHSSXXGL
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:移除安徽盛世欣兴格力宏控制(软件自测)
+
+commit 51b29cfdc17feceab37db88ed72b4f808e9275be
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jul 7 11:54:21 2018 +0800
+
+    [SQ27T][CCB][APP][]: 回退提交　临时提交建行定制切换APP签名问题（软件自测）
+    
+    Product:SQ27T
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:回退提交　临时提交建行定制切换APP签名问题（软件自测）
+    
+    Commit Tools Version:b445fe7
+
+commit f3373872b371a5026741c30999804b38dc8a5670
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Sat Jul 7 11:51:02 2018 +0800
+
+    Product:SQ42T
+    Customer:AHSSXXGL
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:安徽盛世欣兴格力定制(扫描头设置勾选“灭屏可扫描”选项,灭屏下可以扫描)
+
+commit 52c2971cf23ce962529739498afdd520b036e7cc
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jul 7 10:44:43 2018 +0800
+
+    [SQ27T][XX][Other][]: 邮政接口反馈提交（软件自测）
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:邮政接口反馈提交（软件自测）
+    
+    Commit Tools Version:ca2c4f7
+
+commit beafd132514a190a7a20bdcfcc2ba7daf337170d
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Fri Jul 6 17:14:33 2018 +0800
+
+    [SQ27T][ALL][Scan]添加对n3601支持＃软件自测
+
+commit 1bd288ab5ffe1bcd174d485fe10d503d9ebd86cf
+Author: liqianbo <qianbo.li@urovo.com>
+Date:   Fri Jul 6 14:31:23 2018 +0800
+
+    [ALL][XX][Other][]: ota远程升级添加对下载包的签名验证（若签名错误，弹出提示对话框）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:ota远程升级添加对下载包的签名验证（若签名错误，弹出提示对话框）
+    
+    Commit Tools Version:94c45c6
+
+commit 1d6fac553e761f2fc5eb2e7873a85c2553e12547
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jul 6 10:22:16 2018 +0800
+
+    [SQ27T][CCB][APP][]: 临时提交建行定制切换APP签名问题（软件自测）
+    
+    Product:SQ27T
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:临时提交建行定制切换APP签名问题（软件自测）
+    
+    Commit Tools Version:b445fe7
+
+commit f3ab68426767c1a0491f03b50df3144e451a508f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 5 19:54:37 2018 +0800
+
+    [SQ27T][CCB][APP][]: 撤销提交　临时提交建行定制切换APP签名问题（软件自测）
+    
+    Product:SQ27T
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:撤销提交　临时提交建行定制切换APP签名问题（软件自测）
+    
+    Commit Tools Version:b445fe7
+
+commit c44684ee3cbb4a5244190a46e08b91c651e2bcf5
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 5 19:49:46 2018 +0800
+
+    [SQ27T][CCB][APP][]: 临时提交建行定制切换APP签名问题（软件自测）
+    
+    Product:SQ27T
+    Customer:CCB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:临时提交建行定制切换APP签名问题（软件自测）
+    
+    Commit Tools Version:b445fe7
+
+commit 9d53782ecab48153e9e5e61e6348c9ee97176167
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 5 19:40:55 2018 +0800
+
+    [SQ42T][UTE][UI][]: 取消UTE定制，关于设备里 Serial Number与我司产品SN相同要求，恢复出厂后查看显示值
+    
+    Product:SQ42T
+    Customer:UTE
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:取消UTE定制，关于设备里 Serial Number与我司产品SN相同要求，恢复出厂后查看显示值
+    
+    Commit Tools Version:b445fe7
+
+commit a52954b48b91738a3e104e934e87699bbd3e00b2
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jul 5 19:30:17 2018 +0800
+
+    [SQ27T][Reliance][UI][]: 印度定制版本Reliance,当设备的SIM处于漫游状态的时候，除了显示R，还需要显示LTE
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制版本Reliance,当设备的SIM处于漫游状态的时候，除了显示R，还需要显示LTE
+    
+    Commit Tools Version:b445fe7
+
+commit c1050bd5c5657f2ed39cae696b6469a4a8c45546
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jul 4 19:39:50 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度定制版本状态栏添加　打开Enhanced 4G LTE Mode　时显示VoLTE图标，同时移除数字１FN图标
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度定制版本状态栏添加　打开Enhanced 4G LTE Mode　时显示VoLTE图标，同时移除数字１FN图标
+    
+    Commit Tools Version:f7b8ba2
+
+commit 1b253eea08461d9fffb7fc3f2b4d5989338d5de4
+Author: qiuzhoujun <zhoujun.qiu@urovo.com>
+Date:   Wed Jul 4 15:22:08 2018 +0800
+
+    [SQ42T][AHSSXXGL][KEY][]: 添加安徽盛世欣兴格力贸易有限公司的定制名称及编译选项（软件验证）
+    
+    Product:SQ42T
+    Customer:AHSSXXGL
+    Module:KEY
+    Bug ID:
+    Key Word:添加安徽盛世欣兴格力贸易有限公司的定制名称及编译选项（软件验证）
+    Description:添加安徽盛世欣兴格力贸易有限公司的定制名称及编译选项（软件验证）
+    
+    Commit Tools Version:b445fe7
+
+commit b34056e922b1d4fa796e65de3ed4282a127e0f05
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jul 3 10:15:07 2018 +0800
+
+    [SQ27TE][Other][APP][]: 邮政储蓄定制PSBC添加app验签证书
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:邮政储蓄定制PSBC添加app验签证书
+    
+    Commit Tools Version:f7b8ba2
+
+commit f15fda50c7473b800d8a88fad28b4ee81fa33c9d
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Mon Jul 2 19:24:43 2018 +0800
+
+    [SQ27T][XX][Other][]: 京东定制：强制蓝牙音频使用16KHz参数；#蓝牙功能正常即可；16KHz参数客户验证
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:京东定制：强制蓝牙音频使用16KHz参数；#蓝牙功能正常即可；16KHz参数客户验证
+    
+    Commit Tools Version:a66a7e6
+
+commit baa6e6d75917e2831067ec8fd0addf170d510c6b
+Author: gouwei <wei.gou@urovo.com>
+Date:   Mon Jul 2 16:44:19 2018 +0800
+
+    [SQ42T][Vanguard][Other][]: Vanguard和HRDC更新对应的大超标超apk
+    
+    Product:SQ42T
+    Customer:Vanguard
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:Vanguard和HRDC更新对应的大超标超apk
+    
+    Commit Tools Version:ca2c4f7
+
+commit 0e56ef5010aa47383349392dca2631bebea89bbb
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Sat Jun 30 12:27:16 2018 +0800
+
+    [SQ31T][XX][APP][]: YDF修改水印
+    
+    Product:SQ31T
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:YDF修改水印
+    
+    Commit Tools Version:d6794eb
+
+commit 1ac79864f828447944a137b956cc367251b2d4b9
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Sat Jun 30 10:56:50 2018 +0800
+
+    [SQ42T][XX][Scan]还]还原扫描头枚举顺序修改(软件自测)
+
+commit a44b3142a0e3aeac58dba0c8f773a6535261ea74
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 12:03:46 2018 +0800
+
+    [SQ46][XX][Other][]: 解决广播注册失败（软件自测）
+    
+    Product:SQ46
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:解决广播注册失败（软件自测）
+    
+    Commit Tools Version:d6794eb
+
+commit fdf134f5a4c0a959bd101ab033d6def38a5dc01d
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 10:49:58 2018 +0800
+
+    [SQ46][XX][UI][]: YDF定制： 设备禁用数据接口，不允许数据导出（不允许切换MTP模式，强制充电模式。adb调试开关禁用）；
+    
+    Product:SQ46
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:YDF定制： 设备禁用数据接口，不允许数据导出（不允许切换MTP模式，强制充电模式。adb调试开关禁用）；
+    
+    Commit Tools Version:d6794eb
+
+commit 7cc1b8ca82636cae06a1adbc336ad05dfb69237c
+Merge: 735e8e9 c4ce06e
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 10:42:10 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit c4ce06ea4658f4f8bcda72abff2c48555e92ba39
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Fri Jun 29 10:39:26 2018 +0800
+
+    [SQ27T][XX][Scan]add se2100 scanner
+
+commit 735e8e949998729d54eb026d7c14cc4051845966
+Author: wujinquan <jinquan.wu@urovo.com>
+Date:   Fri Jun 29 10:36:49 2018 +0800
+
+    [SQ46][XX][UI][]: （禹帆达自动化）YDF定制：1，屏幕增加水印（SN号后5位+日期时间）
+    
+    Product:SQ46
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:（禹帆达自动化）YDF定制：1，屏幕增加水印（SN号后5位+日期时间）
+    
+    Commit Tools Version:d6794eb
+
+commit da4439fe858dc2022d7669ac1763014aaef3c26a
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jun 28 19:36:06 2018 +0800
+
+    [SQ27TE][Other][APP][]: 邮政储蓄银行定制PSBC测试阶段添加支持非生产环境app验签证书
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:邮政储蓄银行定制PSBC测试阶段添加支持非生产环境app验签证书
+    
+    Commit Tools Version:f7b8ba2
+
+commit d0af948a28d260b59330a8217db2eeb8e2cf55a7
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 27 15:14:18 2018 +0800
+
+    [ALL][XX][Other][]: 添加邮政API接口（软件自测）
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:添加邮政API接口（软件自测）
+    
+    Commit Tools Version:ca2c4f7
+
+commit b9980d53d37455c1b40f12b998effb7f4eaf85c2
+Author: jiaxinxin <xinxin.jia@urovo.com>
+Date:   Wed Jun 27 09:58:09 2018 +0800
+
+    [SQ27T][XX][Scan]æ·add se2100 scanner
+
+commit 3c022162ade2336fff9ec16bf1858dc2272252a0
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Tue Jun 26 15:57:13 2018 +0800
+
+    [SQ27TE][Other][APP][]: 邮政储蓄定制PSBC添加apk签名验证实现
+    
+    Product:SQ27TE
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:邮政储蓄定制PSBC添加apk签名验证实现
+    
+    Commit Tools Version:f7b8ba2
+
+commit dbb26cb1d460d0a3ea1bd3e995ba235a83cdbe2d
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue Jun 26 10:38:33 2018 +0800
+
+    Product:SQ51
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描服务在连续扫描模式下增加灭屏不关闭扫描头设置选项
+
+commit 169e23037bc1c19389513b4f466354c5230e99fa
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Mon Jun 25 10:25:32 2018 +0800
+
+    [SQ27TE][SYB][APP][]: 通用定制更新应用市场AppStore_TL-v20180606_release_signed
+    
+    Product:SQ27TE
+    Customer:SYB
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:通用定制更新应用市场AppStore_TL-v20180606_release_signed
+    
+    Commit Tools Version:f7b8ba2
+
+commit ba72e36e063050ba46f0ccd5250d145be44c4ee0
+Author: gouwei <wei.gou@urovo.com>
+Date:   Sat Jun 23 14:10:39 2018 +0800
+
+    [ALL][XX][Other][]: InCall Activity 通话结束后去真正finish而不是moveToback
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:InCall Activity 通话结束后去真正finish而不是moveToback
+    
+    Commit Tools Version:ca2c4f7
+
+commit 0fd7efe1ce6e58d4ba9180b487fc1e20703deeed
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Sat Jun 23 13:47:57 2018 +0800
+
+    [POS][XX][UI][]: POS设备，SE打开权限检查时，添加支持应用申请的权限英文描述。如印度版本中客户应用在设置中查看APPS>应用信息>权限描述
+    
+    Product:POS
+    Customer:XX
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:POS设备，SE打开权限检查时，添加支持应用申请的权限英文描述。如印度版本中客户应用在设置中查看APPS>应用信息>权限描述
+    
+    Commit Tools Version:f7b8ba2
+
+commit 40de03fa6638522bc9c11b2867a209ad8451cb00
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 22 22:02:20 2018 +0800
+
+    [SQ27T][Other][UI][]: 印度关于设备中　显示版本中添加区分B5设备信息，UROVO_i9000S_B5_R01S
+    
+    Product:SQ27T
+    Customer:Other
+    Module:UI
+    Bug ID:
+    Key Word:
+    Description:印度关于设备中　显示版本中添加区分B5设备信息，UROVO_i9000S_B5_R01S
+    
+    Commit Tools Version:f7b8ba2
+
+commit e7450e43a1b3f7c300c4cb40ec4f2bc3ae4df154
+Merge: 245d2c8 5a68c04
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 22 18:40:32 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 245d2c84a007cf44775e7168795f378ec0adaf1b
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 22 18:36:32 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度脱机激活时UI上移除 激活按钮
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度脱机激活时UI上移除 激活按钮
+    
+    Commit Tools Version:f7b8ba2
+
+commit 5a68c0480ac28f54fe068d6414c2c7e4397583a7
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 22 16:41:48 2018 +0800
+
+    Product:SQ42T
+    Customer:UTE
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:内置定制接口libdmiapi.so库
+
+commit 9e691adef4e048f075871510c9a7e15676c8cf11
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 22 15:57:11 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制更新*#07#显示值 head sar 0.53 body sar 0.79, 添加开关机界面，关于设备显示 Software Version
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制更新*#07#显示值 head sar 0.53 body sar 0.79, 添加开关机界面，关于设备显示 Software Version
+    
+    Commit Tools Version:f7b8ba2
+
+commit c81104d01c07d93499855d8761c66f72cee90ab3
+Author: luolin <lin.luo@urovo.com>
+Date:   Fri Jun 22 14:48:33 2018 +0800
+
+    Product:SQ27T
+    Customer:Reliance
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修改脱机激活界面
+
+commit eff76ba28aef059f1fe5b05de34b40083d06336e
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 21:43:51 2018 +0800
+
+    Product:SQ27T
+    Customer:Reliance
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:(软件自测)
+
+commit 9fd3c366237b4e1f9b53be4e7c3ad214af991fd2
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 19:48:09 2018 +0800
+
+    Product:SQ27T
+    Customer:Reliance
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:修复编译错误（软件自测）
+
+commit f60500b014bfe3c75c3cddacf3a0044406d08132
+Author: luolin <lin.luo@urovo.com>
+Date:   Thu Jun 21 17:51:17 2018 +0800
+
+    Product:SQ27T
+    Customer:Reliance
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:印度项目增加脱机激活功能；
+
+commit daa23fd4db5f19fbe6ca67449f79ec9033121d5f
+Merge: 4481d66 aee7684
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Thu Jun 21 15:54:05 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit aee768464437915c506652fb9c6c41c4fbdc3cac
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Thu Jun 21 15:28:19 2018 +0800
+
+    [ALL][XX][APP][]: 更新UrovoLogger应用，提供接口给第三方应用控制log开关(软件验证)
+    
+    Product:ALL
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新UrovoLogger应用，提供接口给第三方应用控制log开关(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit 4481d667fb90f6f83bd683c3681a17678d4a9a04
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Thu Jun 21 15:26:55 2018 +0800
+
+    [ALL][XX][Other][]: 隐藏设置中的关于认证用的硬件版本号和固件版本号；
+    
+    Product:ALL
+    Customer:XX
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:隐藏设置中的关于认证用的硬件版本号和固件版本号；
+    
+    Commit Tools Version:a66a7e6
+
+commit 3d5fa82bf6da7ac44ff8b289a10df0c7f3c9cdc7
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jun 20 23:07:15 2018 +0800
+
+    [POS][XX][APP][]: SE开启硬件权限检查时，系统磁条卡添加权限错误(软件验证)
+    
+    Product:POS
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:SE开启硬件权限检查时，系统磁条卡添加权限错误(软件验证)
+    
+    Commit Tools Version:f7b8ba2
+
+commit 06e075d67c21d2c118d777c6fec742e4638c673a
+Merge: 61ce7aa 6d3e56a
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Wed Jun 20 17:56:51 2018 +0800
+
+    Merge branch 'develop' of 192.168.8.215:8916/newtimes/Lollipop5.1 into develop
+
+commit 61ce7aa62e93968f159723a99aa19eb9115cb85b
+Author: Huazhong Wu <p4nic.ng@gmail.com>
+Date:   Wed Jun 20 17:44:05 2018 +0800
+
+    [POS][XX][Printer][]: 修复打印机demo打印小票偏移问题；“商户存联”显示不全；
+    
+    [POS][XX][Printer][]: 修复打印机demo打印小票偏移问题；“商户存联”显示不全；
+    
+    Product:POS
+    Customer:XX
+    Module:Printer
+    Bug ID:
+    Key Word:
+    Description:修复打印机demo打印小票偏移问题；“商户存联”显示不全；
+    
+    Commit Tools Version:a66a7e6
+    
+    Commit Tools Version:a66a7e6
+
+commit 6d3e56ac2cc00a3a000743f48520d07028404ac0
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Wed Jun 20 14:59:20 2018 +0800
+
+    [SQ27T][XX][Factory][]: 工厂测试SQ27T LED测试项white颜色描述有误，改为orange.蓝牙，wifi测试项测试时需停留界面查看结果
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Factory
+    Bug ID:
+    Key Word:
+    Description:工厂测试SQ27T LED测试项white颜色描述有误，改为orange.蓝牙，wifi测试项测试时需停留界面查看结果
+    
+    Commit Tools Version:f7b8ba2
+
+commit 4f5a27f49f8995b67f92caeb15c2495978172126
+Author: gouwei <wei.gou@urovo.com>
+Date:   Wed Jun 20 13:52:35 2018 +0800
+
+    [SQ27T][Reliance][Other][]: 印度版本暂时去掉自动导入MBN功能
+    
+    Product:SQ27T
+    Customer:Reliance
+    Module:Other
+    Bug ID:
+    Key Word:
+    Description:印度版本暂时去掉自动导入MBN功能
+    
+    Commit Tools Version:ca2c4f7
+
+commit 4cec055224a07b33da9d832116727d017ff3cfe7
+Author: luolin <lin.luo@urovo.com>
+Date:   Tue Jun 19 16:07:19 2018 +0800
+
+    Product:POS
+    Customer:XX
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:更新联机激活双向认证证书（原证书于2018.06.18日过期）
+commit 88cea38a0251eee642dc02b62063b1396164f44f
+Author: Rocky <jifu.xie@urovo.com>
+Date:   Fri Jun 15 22:56:23 2018 +0800
+
+    [SQ27T][Other][APP][]: 印度定制更新编译错误
+    
+    Product:SQ27T
+    Customer:Other
+    Module:APP
+    Bug ID:
+    Key Word:
+    Description:印度定制更新编译错误
+    
+    Commit Tools Version:f7b8ba2
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: e3d15af                                                         
+                   扫描头修改点(88cadbb<---e3d15af )          
+commit 88cadbb41cf896d8a78f67e7d1ee5181bb9cb92d
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue Jul 24 14:23:01 2018 +0800
+
+    [SQ27T][XX][Scan][]: 回退出现No image现象后重新断开链接(软件自测)
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:回退出现No image现象后重新断开链接(软件自测)
+    
+    Commit Tools Version:1eb250b
+
+commit 93aca5a3c106af6265f7cfe7242b500cce7724cd
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon Jul 23 19:40:17 2018 +0800
+
+    [SQ27T][XX][Scan][]: 更改显示2100为4710(软件自测)
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:更改显示2100为4710(软件自测)
+    
+    Commit Tools Version:1eb250b
+
+commit cb56352463dd6bd44c6da6bf2325625100fef6b5
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Mon Jul 23 18:41:11 2018 +0800
+
+    [SQ27T][XX][Scan][]: 3601扫描头出现Exception时No image available异常时重连Decoder(软件自测)
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:3601扫描头出现Exception时No image available异常时重连Decoder(软件自测)
+    
+    Commit Tools Version:1eb250b
+
+commit fbbf1d3114aae5e47bed599e749f0205de27bd60
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Sun Jul 22 11:20:18 2018 +0800
+
+    [SQ27T][XX][Scan][]: 增加3601扫描头服务
+    
+    Product:SQ27T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:增加3601扫描头服务
+    
+    Commit Tools Version:1eb250b
+
+commit a400d538a28ae19320db06578b5df276b7e906a9
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Sat Jul 7 11:45:26 2018 +0800
+
+    [SQ42T][AHSSXXGL][Scan][]: 安徽盛世欣兴格力定制(扫描头设置勾选“灭屏可扫描”选项,灭屏下可以扫描)
+    
+    Product:SQ42T
+    Customer:AHSSXXGL
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:安徽盛世欣兴格力定制(扫描头设置勾选“灭屏可扫描”选项,灭屏下可以扫描)
+    
+    Commit Tools Version:b445fe7
+
+commit c3b0b8473634e84de86aeb0d6a6eb8bebf4ffa58
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Fri Jun 29 14:29:47 2018 +0800
+
+    [ALL][XX][Scan][]: 4500扫描头重置设置默认code128 length1/length2
+    
+    Product:ALL
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:4500扫描头重置设置默认code128 length1/length2
+    
+    Commit Tools Version:ca2c4f7
+
+commit 00d4eafaa6183fe431977783c0ccb89fe27c89ab
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Thu Jun 28 20:26:14 2018 +0800
+
+    [ALL][ALL][Scan][]: 4500扫描头忽略设置code128 length1/length2
+    
+    Product:ALL
+    Customer:ALL
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:4500扫描头忽略设置code128 length1/length2
+    
+    Commit Tools Version:ca2c4f7
+
+commit 2614778b41ac682ab8b84255f2d3dca106ccb88e
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Tue Jun 26 10:35:35 2018 +0800
+
+    [SQ51][XX][Scan][]: 扫描服务在连续扫描模式下增加灭屏不关闭扫描头设置选项
+    
+    Product:SQ51
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:扫描服务在连续扫描模式下增加灭屏不关闭扫描头设置选项
+    
+    Commit Tools Version:ca2c4f7
+commit e3d15afc1cfc13840aa6101179f6dfed62548dcf
+Author: DengTonglong <tonglong.deng@urovo.com>
+Date:   Wed Jun 13 09:39:03 2018 +0800
+
+    [SQ42T][XX][Scan][]: 增加2100扫描头
+    
+    Product:SQ42T
+    Customer:XX
+    Module:Scan
+    Bug ID:
+    Key Word:
+    Description:增加2100扫描头
+    
+    Commit Tools Version:ca2c4f7
+****************************************************************************
+                                                                            
+                                                                            
+****************************************************************************
+前一版本: a525f52                                                         
+                   打印机修改点(a525f52<---a525f52 )          
+
+commit a525f52a44199aca7e7e7cb8e7e46957e884b892
+Author: cb <bin.chen@urovo.com>
+Date:   Thu May 24 16:20:17 2018 +0800
+
+    增加打印机精度调整，校准功能
+****************************************************************************
